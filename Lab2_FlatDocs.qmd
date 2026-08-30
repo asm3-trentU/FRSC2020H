@@ -1,0 +1,133 @@
+---
+title: "Preparing Flat Documents"
+date: ""
+format:
+  revealjs:
+    theme: simple
+    slide-number: true
+    transition: fade
+    incremental: true
+    chalkboard: false
+    width: 1280
+    height: 720
+    margin: 0.08
+    embed-resources: true
+  # beamer:
+  #   theme: metropolis
+  #   aspectratio: 169
+  #   incremental: true
+  #   embed-resources: true
+  # pptx:
+  #   slide-level: 2
+execute:
+  echo: true
+  warning: false
+  message: false
+---
+
+## Why read science?
+
+- Traditionally, scientific knowledge is shared through written documents. 
+
+- We read science to 
+  - identify and verify knowledge that can be used in professional work and decision-making
+  - identify and verify *techniques and methods* that we can use; develop *new questions* based on the findings of the authors
+  - be entertained and feed our curiousity 
+
+
+::: {.notes}
+ - mention that this lab presentation re-iterates some of the content that will be included in lecture module 2; mention that we'll be talking about different types of scientific documents in lecture module 3; mention that we'll be working through creating some written documents throughout this course
+ - highlight that the subpoints are linking to "Information Gathering", "Finding Inspiration" and "Being entertainment/a sense of wonder" from lecture module 2
+:::
+
+## Why is reading science hard?
+
+- Everything is new to the reader
+- Everything is new to the author
+- Everything moves quickly / People don't have a lot of time 
+
+::: {.fragment .center}
+**Taking your time and learning how to read science is a super power!**
+:::
+
+::: {.notes}
+
+- explain that usually, as a reader, you are reading papers or technical notes or even books in a research area that you are new to. so you may not be familiar with some of the concepts, foundational theories, or even writing practices of the field (some areas have "predictable" syntax, notation, etc.)
+
+- explain a subtle but important fact--many scientific publications are the first time the author is explaning something (especially true for journal articles). Authors might understand their results perfectly, but still are figuring out best ways to share the ideas. 
+
+- explain these two challenges are linked to a societal challenge: science and life **appear** to move quickly. Authors do not take as much time to think about what they want to share, they may not edit as carefully as they like. Readers *don't have the time* to learn foundations of a research area, don't try very hard to **engage** if they don't understand the article the first-time they read it
+
+
+- emphasize that building quality reading skills takes time and practice.. it's more than just reading the words, its trying to appreciate and understand what the author is trying to say. Also emphasize that being "slow" now as a student is a good thing--better to be slow now and learn the skills well
+:::
+
+
+
+## Building a reading strategy
+- getting better at reading takes time and requires practice
+- it also helps to have a strategy
+- Choose the elements of your strategy:
+  - content: what do you want to get better at reading?
+  - frequency: how often are you going to read?
+  - tracking: how are you going to track your reading/progress?
+  - community: who will you talk about your readings with?
+
+::: {.notes}
+
+
+:::
+
+## Building a reading log
+
+::: {.notes}
+
+
+:::
+
+
+## Building an annotated bibliography
+
+::: {.notes}
+
+
+:::
+
+
+## Learning a reference manager
+
+
+::: {.notes}
+
+
+:::
+
+## Zotero
+
+::: {.notes}
+
+
+:::
+
+# Activity
+
+::: {.notes}
+Activity description is in MS Teams Folder
+:::
+
+# Open work time
+
+## Things you might work on
+
+::: {.nonincremental}
+1. Lab Test 1
+1. MA1: Annotated Bibliography
+1. MA4: Article Critique
+1. Start thinking about groups for MA2 and MA3 (if applicable)
+:::
+
+::: {.notes}
+- Remind students that MA1 and MA4 are independent assignments, but that talking about what you're thinking about with peers is a good thing
+- Remind students that they can also work on their lecture content quizzes if they have one to do
+
+:::
