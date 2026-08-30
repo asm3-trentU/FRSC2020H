@@ -25,5 +25,26 @@
   },
   "Lectures/Lecture1_Preliminaries.qmd": {
     "Lecture1_Preliminaries.html": "034a558a"
+  },
+  "Lectures/Lecture7_Dissemination.qmd": {
+    "Lecture7_Dissemination.html": "6a2565db"
+  },
+  "Lectures/Lecture3_LitReview.qmd": {
+    "Lecture3_LitReview.html": "b3f3bdb1"
+  },
+  "Lectures/Lecture8_BeingAScientist.qmd": {
+    "Lecture8_BeingAScientist.html": "6b43b533"
+  },
+  "Lectures/Lecture5_Research.qmd": {
+    "Lecture5_Research.html": "0dbad3b1"
+  },
+  "Lectures/Lecture2_Reading.qmd": {
+    "Lecture2_Reading.html": "cadfc676"
+  },
+  "Lectures/Lecture6_Analysis.qmd": {
+    "Lecture6_Analysis.html": "485c7e27"
+  },
+  "Lectures/Lecture4_ModelsExperiments.qmd": {
+    "Lecture4_ModelsExperiments.html": "37a1c9af"
   }
 }
