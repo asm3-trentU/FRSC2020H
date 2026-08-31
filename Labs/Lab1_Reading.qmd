@@ -11,6 +11,7 @@ format:
     width: 1280
     height: 720
     margin: 0.08
+    css: ../styles.css
     embed-resources: true
   # beamer:
   #   theme: metropolis
@@ -78,35 +79,70 @@ execute:
 
 :::
 
-## Building a reading log
+## Tracking your reading
+- a reading log is a document/tool that scientists use to keep track of their reading
+  - can be a physical document you edit by hand
+  - can be a digital document you edit on a computer/phone
+  - can be embedded within a software tool
 
 ::: {.notes}
+- note that logs are tools not just for scientists--other researchers, writers, marketters, etc.
+  - explain that the "log" can take any form (a note on your phone to a dedicated spreadsheet)
+:::
 
+## Tracking your reading
+- an annotated bibliography extends the idea of a reading log to include key information about the materials being read
+  - having a well-formatted annotated bibliography can be incredibly useful as a scientist
+
+::: {.notes}
+- this key information could include author information, summary of the material, an appraisal/critical evaluation, etc.
+- especially useful when trying to design experiments, remember facts and figures, write papers, etc.
+- make a note that it is common for scientst to build an annotated bibliography as the first step when they are starting a new research project
 
 :::
 
 
 ## Building an annotated bibliography
+- there are seemingly infinite ways to construct an annotated bibliography; the most important quality of an annotated bibliography is that it is useful to the user(s)
+- in this class, we'll use a template annotated bibliography developed by Arun
 
 ::: {.notes}
-
-
+- explain that if you can't pull the information you need to help you with the project you are working on, then your annotated bibliography is not well constructed
+- note that the template includes questions to help guide reading/thinking about the material
 :::
 
 
 ## Learning a reference manager
-
+- a reference manager is a software tool to help you organize your readings
+- many modern reference managers allow you to:
+  - upload and annotate your pdfs
+  - sync your library across multiple computers
+  - include searchable tags
+  - interface with word processors to automate citations and bibliography creation
+- it will be incredibly advantageous to become comfortable with a reference manager
 
 ::: {.notes}
-
-
+- make a note of several of the popular open-source and commercially available references managers: mendeley, endnote, refworks,... new references managers everyday
 :::
 
 ## Zotero
+- a popular open-source reference manager that is supported at Trent University:
+  - https://www.zotero.org/
+- you can create a free account so you can sync Zotero across multiple device
+- you can create a paid account so you can increase your storage (might be relevant in grad school)
+- you can download and use Zotero without an accout if are just using one computer
+- you can install the MS-Word plug-in to integrate Zotero with the desktop version of Word
 
 ::: {.notes}
-
-
+- note that it is Arun's favourite reference manager, and staff in the Library and through Academic Skills should be able to assist students with Zotero issues
+- provide a live demo of Zotero. The key things to showcase:
+  - adding a file to a zotero library
+  - opening the paper so you can annotate it
+  - creating searchable tags
+  - adding a reference by just citation
+  - generating a bibliography in a specified format
+  - linking to word, adding citations, adding a bibliography
+    - reordering sentences, updating bibliography, changing bibliography format
 :::
 
 # Activity
