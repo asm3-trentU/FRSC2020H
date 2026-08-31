@@ -129,17 +129,18 @@ execute:
 - a popular open-source reference manager that is supported at Trent University:
   - https://www.zotero.org/
 - you can create a free account so you can sync Zotero across multiple device
-- you can create a paid account so you can increase your storage (might be relevant in grad school)
-- you can download and use Zotero without an accout if are just using one computer
+- you can download and use Zotero without an accout (on a single machine)
 - you can install the MS-Word plug-in to integrate Zotero with the desktop version of Word
 
 ::: {.notes}
 - note that it is Arun's favourite reference manager, and staff in the Library and through Academic Skills should be able to assist students with Zotero issues
-- provide a live demo of Zotero. The key things to showcase:
+- also note that they have paid tiers of zotero accounts with increased storage and other features--might be handy if you end up reading a lot of papers
+- provide a live demo of (5-10 minutes) Zotero. The key things to showcase:
   - adding a file to a zotero library
   - opening the paper so you can annotate it
   - creating searchable tags
   - adding a reference by just citation
+  - adding a manual entry link to a youtube video (as an example)
   - generating a bibliography in a specified format
   - linking to word, adding citations, adding a bibliography
     - reordering sentences, updating bibliography, changing bibliography format
