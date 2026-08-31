@@ -111,6 +111,25 @@ execute:
 - note that the template includes questions to help guide reading/thinking about the material
 :::
 
+## Identifying papers
+- we cannot "identify" papers by only title
+- we cannot "identify" papers by only author(s)
+- we cannot "identify" papers by only journal
+- we "identify" papers by full citation
+- we "identify" papers by Digital Object Identifier (DOI)
+
+::: {.notes}
+- there can be more than one paper with the same title
+- most authors publish multiple papers
+- journals publish so many papers
+- you can often uniquely identify a paper by author + title (rare that an author will publish two different papers with the same title)
+- you can often uniquely identify a paper by author + title + year (even more rare that an author will publish two papers with the same title in the same year)
+- the best way to be sure you are uniquely identifying a paper is the full citation (authors, title, year, journal, volume, issue, pages, etc.)
+- the best way in modern times is to use a digital object identifier (DOI); every paper published paper since 1997 (28 years ago) has been assigned a DOI--it's a persistent identifier and will be fixed for the lifetime of the paper.
+- In our class, we'll often be assigning papers by their DOI.. you can enter a DOI into google scholar and very quickly identify the paper
+- You can also use OMNI (if want to avoid google search limitations) as will be discussed in Lecture Module 3
+:::
+
 
 ## Learning a reference manager
 - a reference manager is a software tool to help you organize your readings
@@ -154,17 +173,13 @@ Activity description is in MS Teams Folder
 
 # Open work time
 
-## Things you might work on
-
-::: {.nonincremental}
+::: {.notes}
+- Things students might work on
 1. Lab Test 1
 1. MA1: Annotated Bibliography
 1. MA4: Article Critique
 1. Start thinking about groups for MA2 and MA3 (if applicable)
-:::
 
-::: {.notes}
 - Remind students that MA1 and MA4 are independent assignments, but that talking about what you're thinking about with peers is a good thing
 - Remind students that they can also work on their lecture content quizzes if they have one to do
-
 :::
