@@ -3,7 +3,7 @@ title: "FRSC 2020H - Scientific Methodology in Forensic Science"
 author: Arun S. Moorthy
 ---
 
-Welcome to the FRSC 2020H course backend webpage. 
+Welcome to the FRSC 2020H course backend webpage. These are the presentations I use for lecture and lab. 
 
 ## Lectures
 - [1: Course Preliminaries](Lectures/Lecture1_Preliminaries.html)

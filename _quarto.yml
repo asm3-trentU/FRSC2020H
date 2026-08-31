@@ -4,16 +4,3 @@ project:
 website:
   title: "Scientific Methodology in Forensic Science"
 
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - href: lectures/
-        text: Lectures
-      - href: labs/
-        text: Labs
-
-  format: 
-    html:
-      theme: cosmo
-      toc: true

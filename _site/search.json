@@ -224,116 +224,74 @@
     "text": "Things you might work on\n\nLab Test 1\nMA1: Annotated Bibliography\nMA4: Article Critique\nStart thinking about groups for MA2 and MA3 (if applicable)\n\n\n\nRemind students that MA1 and MA4 are independent assignments, but that talking about what you’re thinking about with peers is a good thing\nRemind students that they can also work on their lecture content quizzes if they have one to do"
   },
   {
-    "objectID": "Labs/Lab4_Multimedia.html#why-read-science",
-    "href": "Labs/Lab4_Multimedia.html#why-read-science",
-    "title": "Preparing multimedia presentations",
-    "section": "Why read science?",
-    "text": "Why read science?\n\nTraditionally, scientific knowledge is shared through written documents.\nWe read science to\n\nidentify and verify knowledge that can be used in professional work and decision-making\nidentify and verify techniques and methods that we can use; develop new questions based on the findings of the authors\nbe entertained and feed our curiousity\n\n\n\n\nmention that this lab presentation re-iterates some of the content that will be included in lecture module 2; mention that we’ll be talking about different types of scientific documents in lecture module 3; mention that we’ll be working through creating some written documents throughout this course\nhighlight that the subpoints are linking to “Information Gathering”, “Finding Inspiration” and “Being entertainment/a sense of wonder” from lecture module 2"
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "FRSC 2020H - Scientific Methodology in Forensic Science",
+    "section": "",
+    "text": "Welcome to the FRSC 2020H course backend webpage. These are the presentations I use for lecture and lab."
   },
   {
-    "objectID": "Labs/Lab4_Multimedia.html#why-is-reading-science-hard",
-    "href": "Labs/Lab4_Multimedia.html#why-is-reading-science-hard",
-    "title": "Preparing multimedia presentations",
+    "objectID": "index.html#lectures",
+    "href": "index.html#lectures",
+    "title": "FRSC 2020H - Scientific Methodology in Forensic Science",
+    "section": "Lectures",
+    "text": "Lectures\n\n1: Course Preliminaries\n2: The science of reading science\n3: Reviewing the literature\n4: Models and experiments\n5: Research 101\n6: Critical thinking and data analysis\n7: Research Dissemination\n8: On being a scientist"
+  },
+  {
+    "objectID": "index.html#labs",
+    "href": "index.html#labs",
+    "title": "FRSC 2020H - Scientific Methodology in Forensic Science",
+    "section": "Labs",
+    "text": "Labs\n\n1: Reading Science\n2: Preparing “flat” documents\n3: Analyzing quantitative and qualitative data\n4: Creating multimedia presentations"
+  },
+  {
+    "objectID": "Labs/Lab2_FlatDocs.html#what-is-a-flat-document",
+    "href": "Labs/Lab2_FlatDocs.html#what-is-a-flat-document",
+    "title": "Preparing Flat Documents",
+    "section": "What is a flat document?",
+    "text": "What is a flat document?"
+  },
+  {
+    "objectID": "Labs/Lab2_FlatDocs.html#why-is-reading-science-hard",
+    "href": "Labs/Lab2_FlatDocs.html#why-is-reading-science-hard",
+    "title": "Preparing Flat Documents",
     "section": "Why is reading science hard?",
-    "text": "Why is reading science hard?\n\nEverything is new to the reader\nEverything is new to the author\nEverything moves quickly / People don’t have a lot of time\n\n\nTaking your time and learning how to read science is a super power!\n\n\n\nexplain that usually, as a reader, you are reading papers or technical notes or even books in a research area that you are new to. so you may not be familiar with some of the concepts, foundational theories, or even writing practices of the field (some areas have “predictable” syntax, notation, etc.)\nexplain a subtle but important fact–many scientific publications are the first time the author is explaning something (especially true for journal articles). Authors might understand their results perfectly, but still are figuring out best ways to share the ideas.\nexplain these two challenges are linked to a societal challenge: science and life appear to move quickly. Authors do not take as much time to think about what they want to share, they may not edit as carefully as they like. Readers don’t have the time to learn foundations of a research area, don’t try very hard to engage if they don’t understand the article the first-time they read it\nemphasize that building quality reading skills takes time and practice.. it’s more than just reading the words, its trying to appreciate and understand what the author is trying to say. Also emphasize that being “slow” now as a student is a good thing–better to be slow now and learn the skills well"
+    "text": "Why is reading science hard?"
   },
   {
-    "objectID": "Labs/Lab4_Multimedia.html#building-a-reading-strategy",
-    "href": "Labs/Lab4_Multimedia.html#building-a-reading-strategy",
-    "title": "Preparing multimedia presentations",
+    "objectID": "Labs/Lab2_FlatDocs.html#building-a-reading-strategy",
+    "href": "Labs/Lab2_FlatDocs.html#building-a-reading-strategy",
+    "title": "Preparing Flat Documents",
     "section": "Building a reading strategy",
-    "text": "Building a reading strategy\n\ngetting better at reading takes time and requires practice\nit also helps to have a strategy\nChoose the elements of your strategy:\n\ncontent: what do you want to get better at reading?\nfrequency: how often are you going to read?\ntracking: how are you going to track your reading/progress?\ncommunity: who will you talk about your readings with?"
+    "text": "Building a reading strategy"
   },
   {
-    "objectID": "Labs/Lab4_Multimedia.html#building-a-reading-log",
-    "href": "Labs/Lab4_Multimedia.html#building-a-reading-log",
-    "title": "Preparing multimedia presentations",
+    "objectID": "Labs/Lab2_FlatDocs.html#building-a-reading-log",
+    "href": "Labs/Lab2_FlatDocs.html#building-a-reading-log",
+    "title": "Preparing Flat Documents",
     "section": "Building a reading log",
     "text": "Building a reading log"
   },
   {
-    "objectID": "Labs/Lab4_Multimedia.html#building-an-annotated-bibliography",
-    "href": "Labs/Lab4_Multimedia.html#building-an-annotated-bibliography",
-    "title": "Preparing multimedia presentations",
+    "objectID": "Labs/Lab2_FlatDocs.html#building-an-annotated-bibliography",
+    "href": "Labs/Lab2_FlatDocs.html#building-an-annotated-bibliography",
+    "title": "Preparing Flat Documents",
     "section": "Building an annotated bibliography",
     "text": "Building an annotated bibliography"
   },
   {
-    "objectID": "Labs/Lab4_Multimedia.html#learning-a-reference-manager",
-    "href": "Labs/Lab4_Multimedia.html#learning-a-reference-manager",
-    "title": "Preparing multimedia presentations",
+    "objectID": "Labs/Lab2_FlatDocs.html#learning-a-reference-manager",
+    "href": "Labs/Lab2_FlatDocs.html#learning-a-reference-manager",
+    "title": "Preparing Flat Documents",
     "section": "Learning a reference manager",
     "text": "Learning a reference manager"
   },
   {
-    "objectID": "Labs/Lab4_Multimedia.html#zotero",
-    "href": "Labs/Lab4_Multimedia.html#zotero",
-    "title": "Preparing multimedia presentations",
+    "objectID": "Labs/Lab2_FlatDocs.html#zotero",
+    "href": "Labs/Lab2_FlatDocs.html#zotero",
+    "title": "Preparing Flat Documents",
     "section": "Zotero",
     "text": "Zotero"
-  },
-  {
-    "objectID": "Labs/Lab4_Multimedia.html#things-you-might-work-on",
-    "href": "Labs/Lab4_Multimedia.html#things-you-might-work-on",
-    "title": "Preparing multimedia presentations",
-    "section": "Things you might work on",
-    "text": "Things you might work on\n\nLab Test 1\nMA1: Annotated Bibliography\nMA4: Article Critique\nStart thinking about groups for MA2 and MA3 (if applicable)\n\n\n\nRemind students that MA1 and MA4 are independent assignments, but that talking about what you’re thinking about with peers is a good thing\nRemind students that they can also work on their lecture content quizzes if they have one to do"
-  },
-  {
-    "objectID": "Labs/Lab3_DataAnalysis.html#why-read-science",
-    "href": "Labs/Lab3_DataAnalysis.html#why-read-science",
-    "title": "Analyzing Quantitative and Qualitative Data",
-    "section": "Why read science?",
-    "text": "Why read science?\n\nTraditionally, scientific knowledge is shared through written documents.\nWe read science to\n\nidentify and verify knowledge that can be used in professional work and decision-making\nidentify and verify techniques and methods that we can use; develop new questions based on the findings of the authors\nbe entertained and feed our curiousity\n\n\n\n\nmention that this lab presentation re-iterates some of the content that will be included in lecture module 2; mention that we’ll be talking about different types of scientific documents in lecture module 3; mention that we’ll be working through creating some written documents throughout this course\nhighlight that the subpoints are linking to “Information Gathering”, “Finding Inspiration” and “Being entertainment/a sense of wonder” from lecture module 2"
-  },
-  {
-    "objectID": "Labs/Lab3_DataAnalysis.html#why-is-reading-science-hard",
-    "href": "Labs/Lab3_DataAnalysis.html#why-is-reading-science-hard",
-    "title": "Analyzing Quantitative and Qualitative Data",
-    "section": "Why is reading science hard?",
-    "text": "Why is reading science hard?\n\nEverything is new to the reader\nEverything is new to the author\nEverything moves quickly / People don’t have a lot of time\n\n\nTaking your time and learning how to read science is a super power!\n\n\n\nexplain that usually, as a reader, you are reading papers or technical notes or even books in a research area that you are new to. so you may not be familiar with some of the concepts, foundational theories, or even writing practices of the field (some areas have “predictable” syntax, notation, etc.)\nexplain a subtle but important fact–many scientific publications are the first time the author is explaning something (especially true for journal articles). Authors might understand their results perfectly, but still are figuring out best ways to share the ideas.\nexplain these two challenges are linked to a societal challenge: science and life appear to move quickly. Authors do not take as much time to think about what they want to share, they may not edit as carefully as they like. Readers don’t have the time to learn foundations of a research area, don’t try very hard to engage if they don’t understand the article the first-time they read it\nemphasize that building quality reading skills takes time and practice.. it’s more than just reading the words, its trying to appreciate and understand what the author is trying to say. Also emphasize that being “slow” now as a student is a good thing–better to be slow now and learn the skills well"
-  },
-  {
-    "objectID": "Labs/Lab3_DataAnalysis.html#building-a-reading-strategy",
-    "href": "Labs/Lab3_DataAnalysis.html#building-a-reading-strategy",
-    "title": "Analyzing Quantitative and Qualitative Data",
-    "section": "Building a reading strategy",
-    "text": "Building a reading strategy\n\ngetting better at reading takes time and requires practice\nit also helps to have a strategy\nChoose the elements of your strategy:\n\ncontent: what do you want to get better at reading?\nfrequency: how often are you going to read?\ntracking: how are you going to track your reading/progress?\ncommunity: who will you talk about your readings with?"
-  },
-  {
-    "objectID": "Labs/Lab3_DataAnalysis.html#building-a-reading-log",
-    "href": "Labs/Lab3_DataAnalysis.html#building-a-reading-log",
-    "title": "Analyzing Quantitative and Qualitative Data",
-    "section": "Building a reading log",
-    "text": "Building a reading log"
-  },
-  {
-    "objectID": "Labs/Lab3_DataAnalysis.html#building-an-annotated-bibliography",
-    "href": "Labs/Lab3_DataAnalysis.html#building-an-annotated-bibliography",
-    "title": "Analyzing Quantitative and Qualitative Data",
-    "section": "Building an annotated bibliography",
-    "text": "Building an annotated bibliography"
-  },
-  {
-    "objectID": "Labs/Lab3_DataAnalysis.html#learning-a-reference-manager",
-    "href": "Labs/Lab3_DataAnalysis.html#learning-a-reference-manager",
-    "title": "Analyzing Quantitative and Qualitative Data",
-    "section": "Learning a reference manager",
-    "text": "Learning a reference manager"
-  },
-  {
-    "objectID": "Labs/Lab3_DataAnalysis.html#zotero",
-    "href": "Labs/Lab3_DataAnalysis.html#zotero",
-    "title": "Analyzing Quantitative and Qualitative Data",
-    "section": "Zotero",
-    "text": "Zotero"
-  },
-  {
-    "objectID": "Labs/Lab3_DataAnalysis.html#things-you-might-work-on",
-    "href": "Labs/Lab3_DataAnalysis.html#things-you-might-work-on",
-    "title": "Analyzing Quantitative and Qualitative Data",
-    "section": "Things you might work on",
-    "text": "Things you might work on\n\nLab Test 1\nMA1: Annotated Bibliography\nMA4: Article Critique\nStart thinking about groups for MA2 and MA3 (if applicable)\n\n\n\nRemind students that MA1 and MA4 are independent assignments, but that talking about what you’re thinking about with peers is a good thing\nRemind students that they can also work on their lecture content quizzes if they have one to do"
   },
   {
     "objectID": "Labs/Lab1_Reading.html#why-read-science",
@@ -399,53 +357,116 @@
     "text": "Zotero\n\na popular open-source reference manager that is supported at Trent University:\n\nhttps://www.zotero.org/\n\nyou can create a free account so you can sync Zotero across multiple device\nyou can download and use Zotero without an accout (on a single machine)\nyou can install the MS-Word plug-in to integrate Zotero with the desktop version of Word\n\n\n\nnote that it is Arun’s favourite reference manager, and staff in the Library and through Academic Skills should be able to assist students with Zotero issues\nalso note that they have paid tiers of zotero accounts with increased storage and other features–might be handy if you end up reading a lot of papers\nprovide a live demo of (5-10 minutes) Zotero. The key things to showcase:\n\nadding a file to a zotero library\nopening the paper so you can annotate it\ncreating searchable tags\nadding a reference by just citation\nadding a manual entry link to a youtube video (as an example)\ngenerating a bibliography in a specified format\nlinking to word, adding citations, adding a bibliography\n\nreordering sentences, updating bibliography, changing bibliography format"
   },
   {
-    "objectID": "Labs/Lab2_FlatDocs.html#what-is-a-flat-document",
-    "href": "Labs/Lab2_FlatDocs.html#what-is-a-flat-document",
-    "title": "Preparing Flat Documents",
-    "section": "What is a flat document?",
-    "text": "What is a flat document?"
+    "objectID": "Labs/Lab3_DataAnalysis.html#why-read-science",
+    "href": "Labs/Lab3_DataAnalysis.html#why-read-science",
+    "title": "Analyzing Quantitative and Qualitative Data",
+    "section": "Why read science?",
+    "text": "Why read science?\n\nTraditionally, scientific knowledge is shared through written documents.\nWe read science to\n\nidentify and verify knowledge that can be used in professional work and decision-making\nidentify and verify techniques and methods that we can use; develop new questions based on the findings of the authors\nbe entertained and feed our curiousity\n\n\n\n\nmention that this lab presentation re-iterates some of the content that will be included in lecture module 2; mention that we’ll be talking about different types of scientific documents in lecture module 3; mention that we’ll be working through creating some written documents throughout this course\nhighlight that the subpoints are linking to “Information Gathering”, “Finding Inspiration” and “Being entertainment/a sense of wonder” from lecture module 2"
   },
   {
-    "objectID": "Labs/Lab2_FlatDocs.html#why-is-reading-science-hard",
-    "href": "Labs/Lab2_FlatDocs.html#why-is-reading-science-hard",
-    "title": "Preparing Flat Documents",
+    "objectID": "Labs/Lab3_DataAnalysis.html#why-is-reading-science-hard",
+    "href": "Labs/Lab3_DataAnalysis.html#why-is-reading-science-hard",
+    "title": "Analyzing Quantitative and Qualitative Data",
     "section": "Why is reading science hard?",
-    "text": "Why is reading science hard?"
+    "text": "Why is reading science hard?\n\nEverything is new to the reader\nEverything is new to the author\nEverything moves quickly / People don’t have a lot of time\n\n\nTaking your time and learning how to read science is a super power!\n\n\n\nexplain that usually, as a reader, you are reading papers or technical notes or even books in a research area that you are new to. so you may not be familiar with some of the concepts, foundational theories, or even writing practices of the field (some areas have “predictable” syntax, notation, etc.)\nexplain a subtle but important fact–many scientific publications are the first time the author is explaning something (especially true for journal articles). Authors might understand their results perfectly, but still are figuring out best ways to share the ideas.\nexplain these two challenges are linked to a societal challenge: science and life appear to move quickly. Authors do not take as much time to think about what they want to share, they may not edit as carefully as they like. Readers don’t have the time to learn foundations of a research area, don’t try very hard to engage if they don’t understand the article the first-time they read it\nemphasize that building quality reading skills takes time and practice.. it’s more than just reading the words, its trying to appreciate and understand what the author is trying to say. Also emphasize that being “slow” now as a student is a good thing–better to be slow now and learn the skills well"
   },
   {
-    "objectID": "Labs/Lab2_FlatDocs.html#building-a-reading-strategy",
-    "href": "Labs/Lab2_FlatDocs.html#building-a-reading-strategy",
-    "title": "Preparing Flat Documents",
+    "objectID": "Labs/Lab3_DataAnalysis.html#building-a-reading-strategy",
+    "href": "Labs/Lab3_DataAnalysis.html#building-a-reading-strategy",
+    "title": "Analyzing Quantitative and Qualitative Data",
     "section": "Building a reading strategy",
-    "text": "Building a reading strategy"
+    "text": "Building a reading strategy\n\ngetting better at reading takes time and requires practice\nit also helps to have a strategy\nChoose the elements of your strategy:\n\ncontent: what do you want to get better at reading?\nfrequency: how often are you going to read?\ntracking: how are you going to track your reading/progress?\ncommunity: who will you talk about your readings with?"
   },
   {
-    "objectID": "Labs/Lab2_FlatDocs.html#building-a-reading-log",
-    "href": "Labs/Lab2_FlatDocs.html#building-a-reading-log",
-    "title": "Preparing Flat Documents",
+    "objectID": "Labs/Lab3_DataAnalysis.html#building-a-reading-log",
+    "href": "Labs/Lab3_DataAnalysis.html#building-a-reading-log",
+    "title": "Analyzing Quantitative and Qualitative Data",
     "section": "Building a reading log",
     "text": "Building a reading log"
   },
   {
-    "objectID": "Labs/Lab2_FlatDocs.html#building-an-annotated-bibliography",
-    "href": "Labs/Lab2_FlatDocs.html#building-an-annotated-bibliography",
-    "title": "Preparing Flat Documents",
+    "objectID": "Labs/Lab3_DataAnalysis.html#building-an-annotated-bibliography",
+    "href": "Labs/Lab3_DataAnalysis.html#building-an-annotated-bibliography",
+    "title": "Analyzing Quantitative and Qualitative Data",
     "section": "Building an annotated bibliography",
     "text": "Building an annotated bibliography"
   },
   {
-    "objectID": "Labs/Lab2_FlatDocs.html#learning-a-reference-manager",
-    "href": "Labs/Lab2_FlatDocs.html#learning-a-reference-manager",
-    "title": "Preparing Flat Documents",
+    "objectID": "Labs/Lab3_DataAnalysis.html#learning-a-reference-manager",
+    "href": "Labs/Lab3_DataAnalysis.html#learning-a-reference-manager",
+    "title": "Analyzing Quantitative and Qualitative Data",
     "section": "Learning a reference manager",
     "text": "Learning a reference manager"
   },
   {
-    "objectID": "Labs/Lab2_FlatDocs.html#zotero",
-    "href": "Labs/Lab2_FlatDocs.html#zotero",
-    "title": "Preparing Flat Documents",
+    "objectID": "Labs/Lab3_DataAnalysis.html#zotero",
+    "href": "Labs/Lab3_DataAnalysis.html#zotero",
+    "title": "Analyzing Quantitative and Qualitative Data",
     "section": "Zotero",
     "text": "Zotero"
+  },
+  {
+    "objectID": "Labs/Lab3_DataAnalysis.html#things-you-might-work-on",
+    "href": "Labs/Lab3_DataAnalysis.html#things-you-might-work-on",
+    "title": "Analyzing Quantitative and Qualitative Data",
+    "section": "Things you might work on",
+    "text": "Things you might work on\n\nLab Test 1\nMA1: Annotated Bibliography\nMA4: Article Critique\nStart thinking about groups for MA2 and MA3 (if applicable)\n\n\n\nRemind students that MA1 and MA4 are independent assignments, but that talking about what you’re thinking about with peers is a good thing\nRemind students that they can also work on their lecture content quizzes if they have one to do"
+  },
+  {
+    "objectID": "Labs/Lab4_Multimedia.html#why-read-science",
+    "href": "Labs/Lab4_Multimedia.html#why-read-science",
+    "title": "Preparing multimedia presentations",
+    "section": "Why read science?",
+    "text": "Why read science?\n\nTraditionally, scientific knowledge is shared through written documents.\nWe read science to\n\nidentify and verify knowledge that can be used in professional work and decision-making\nidentify and verify techniques and methods that we can use; develop new questions based on the findings of the authors\nbe entertained and feed our curiousity\n\n\n\n\nmention that this lab presentation re-iterates some of the content that will be included in lecture module 2; mention that we’ll be talking about different types of scientific documents in lecture module 3; mention that we’ll be working through creating some written documents throughout this course\nhighlight that the subpoints are linking to “Information Gathering”, “Finding Inspiration” and “Being entertainment/a sense of wonder” from lecture module 2"
+  },
+  {
+    "objectID": "Labs/Lab4_Multimedia.html#why-is-reading-science-hard",
+    "href": "Labs/Lab4_Multimedia.html#why-is-reading-science-hard",
+    "title": "Preparing multimedia presentations",
+    "section": "Why is reading science hard?",
+    "text": "Why is reading science hard?\n\nEverything is new to the reader\nEverything is new to the author\nEverything moves quickly / People don’t have a lot of time\n\n\nTaking your time and learning how to read science is a super power!\n\n\n\nexplain that usually, as a reader, you are reading papers or technical notes or even books in a research area that you are new to. so you may not be familiar with some of the concepts, foundational theories, or even writing practices of the field (some areas have “predictable” syntax, notation, etc.)\nexplain a subtle but important fact–many scientific publications are the first time the author is explaning something (especially true for journal articles). Authors might understand their results perfectly, but still are figuring out best ways to share the ideas.\nexplain these two challenges are linked to a societal challenge: science and life appear to move quickly. Authors do not take as much time to think about what they want to share, they may not edit as carefully as they like. Readers don’t have the time to learn foundations of a research area, don’t try very hard to engage if they don’t understand the article the first-time they read it\nemphasize that building quality reading skills takes time and practice.. it’s more than just reading the words, its trying to appreciate and understand what the author is trying to say. Also emphasize that being “slow” now as a student is a good thing–better to be slow now and learn the skills well"
+  },
+  {
+    "objectID": "Labs/Lab4_Multimedia.html#building-a-reading-strategy",
+    "href": "Labs/Lab4_Multimedia.html#building-a-reading-strategy",
+    "title": "Preparing multimedia presentations",
+    "section": "Building a reading strategy",
+    "text": "Building a reading strategy\n\ngetting better at reading takes time and requires practice\nit also helps to have a strategy\nChoose the elements of your strategy:\n\ncontent: what do you want to get better at reading?\nfrequency: how often are you going to read?\ntracking: how are you going to track your reading/progress?\ncommunity: who will you talk about your readings with?"
+  },
+  {
+    "objectID": "Labs/Lab4_Multimedia.html#building-a-reading-log",
+    "href": "Labs/Lab4_Multimedia.html#building-a-reading-log",
+    "title": "Preparing multimedia presentations",
+    "section": "Building a reading log",
+    "text": "Building a reading log"
+  },
+  {
+    "objectID": "Labs/Lab4_Multimedia.html#building-an-annotated-bibliography",
+    "href": "Labs/Lab4_Multimedia.html#building-an-annotated-bibliography",
+    "title": "Preparing multimedia presentations",
+    "section": "Building an annotated bibliography",
+    "text": "Building an annotated bibliography"
+  },
+  {
+    "objectID": "Labs/Lab4_Multimedia.html#learning-a-reference-manager",
+    "href": "Labs/Lab4_Multimedia.html#learning-a-reference-manager",
+    "title": "Preparing multimedia presentations",
+    "section": "Learning a reference manager",
+    "text": "Learning a reference manager"
+  },
+  {
+    "objectID": "Labs/Lab4_Multimedia.html#zotero",
+    "href": "Labs/Lab4_Multimedia.html#zotero",
+    "title": "Preparing multimedia presentations",
+    "section": "Zotero",
+    "text": "Zotero"
+  },
+  {
+    "objectID": "Labs/Lab4_Multimedia.html#things-you-might-work-on",
+    "href": "Labs/Lab4_Multimedia.html#things-you-might-work-on",
+    "title": "Preparing multimedia presentations",
+    "section": "Things you might work on",
+    "text": "Things you might work on\n\nLab Test 1\nMA1: Annotated Bibliography\nMA4: Article Critique\nStart thinking about groups for MA2 and MA3 (if applicable)\n\n\n\nRemind students that MA1 and MA4 are independent assignments, but that talking about what you’re thinking about with peers is a good thing\nRemind students that they can also work on their lecture content quizzes if they have one to do"
   },
   {
     "objectID": "Lectures/Lecture7_Dissemination.html#why-read-science",
