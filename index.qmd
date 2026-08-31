@@ -1,0 +1,22 @@
+---
+title: "FRSC 2020H - Scientific Methodology in Forensic Science"
+author: Arun S. Moorthy
+---
+
+Welcome to the FRSC 2020H course backend webpage. 
+
+## Lectures
+- [1: Course Preliminaries](Lectures/Lecture1_Preliminaries.html)
+- [2: The science of reading science](Lectures/Lecture2_Reading.html)
+- [3: Reviewing the literature](Lectures/Lecture3_LitReview.html)
+- [4: Models and experiments](Lectures/Lecture4_ModelsExperiment.html)
+- [5: Research 101](Lectures/Lecture5_Research.html)
+- [6: Critical thinking and data analysis](Lectures/Lecture6_Analysis.html)
+- [7: Research Dissemination](Lectures/Lecture7_Dissemination.html)
+- [8: On being a scientist](Lectures/Lecture8_BeingAScientist.html)
+
+## Labs
+- [1: Reading Science](Labs/Lab1_Reading.html)
+- [2: Preparing "flat" documents](Labs/Lab2_FlatDocs.html)
+- [3: Analyzing quantitative and qualitative data](Labs/Lab3_DataAnalysis.html)
+- [4: Creating multimedia presentations](Labs/Lab4_Multimedia.html)

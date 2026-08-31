@@ -1163,6 +1163,39 @@ overflow: hidden!important;
 display:block!important;
 }</style></aside>
 </section>
+<section id="identifying-papers" class="slide level2">
+<h2>Identifying papers</h2>
+<ul>
+<li class="fragment">we cannot “identify” papers by only title</li>
+<li class="fragment">we cannot “identify” papers by only author(s)</li>
+<li class="fragment">we cannot “identify” papers by only journal</li>
+<li class="fragment">we “identify” papers by full citation</li>
+<li class="fragment">we “identify” papers by Digital Object Identifier (DOI)</li>
+</ul>
+<aside class="notes">
+<ul>
+<li>there can be more than one paper with the same title</li>
+<li>most authors publish multiple papers</li>
+<li>journals publish so many papers</li>
+<li>you can often uniquely identify a paper by author + title (rare that an author will publish two different papers with the same title)</li>
+<li>you can often uniquely identify a paper by author + title + year (even more rare that an author will publish two papers with the same title in the same year)</li>
+<li>the best way to be sure you are uniquely identifying a paper is the full citation (authors, title, year, journal, volume, issue, pages, etc.)</li>
+<li>the best way in modern times is to use a digital object identifier (DOI); every paper published paper since 1997 (28 years ago) has been assigned a DOI–it’s a persistent identifier and will be fixed for the lifetime of the paper.</li>
+<li>In our class, we’ll often be assigning papers by their DOI.. you can enter a DOI into google scholar and very quickly identify the paper</li>
+<li>You can also use OMNI (if want to avoid google search limitations) as will be discussed in Lecture Module 3</li>
+</ul>
+<style type="text/css">
+span.MJX_Assistive_MathML {
+position:absolute!important;
+clip: rect(1px, 1px, 1px, 1px);
+padding: 1px 0 0 0!important;
+border: 0!important;
+height: 1px!important;
+width: 1px!important;
+overflow: hidden!important;
+display:block!important;
+}</style></aside>
+</section>
 <section id="learning-a-reference-manager" class="slide level2">
 <h2>Learning a reference manager</h2>
 <ul>
@@ -1250,20 +1283,18 @@ display:block!important;
 }</style></aside>
 </section>
 
-<section>
 <section id="open-work-time" class="title-slide slide level1 center">
 <h1>Open work time</h1>
-
-</section>
-<section id="things-you-might-work-on" class="slide level2">
-<h2>Things you might work on</h2>
+<aside class="notes">
+<ul>
+<li>Things students might work on</li>
+</ul>
 <ol type="1">
 <li>Lab Test 1</li>
 <li>MA1: Annotated Bibliography</li>
 <li>MA4: Article Critique</li>
 <li>Start thinking about groups for MA2 and MA3 (if applicable)</li>
 </ol>
-<aside class="notes">
 <ul>
 <li>Remind students that MA1 and MA4 are independent assignments, but that talking about what you’re thinking about with peers is a good thing</li>
 <li>Remind students that they can also work on their lecture content quizzes if they have one to do</li>
@@ -1281,7 +1312,7 @@ display:block!important;
 }</style></aside>
 
 
-</section></section>
+</section>
     </div>
   <div class="quarto-auto-generated-content" style="display: none;">
 <div class="footer footer-default">
@@ -2528,7 +2559,7 @@ window.QuartoSupport = function () {
         }
           var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
           var mailtoRegex = new RegExp(/^mailto:/);
-            var filterRegex = new RegExp("https:\/\/asm3-trentU\.github\.io\/FRSC2020H\/");
+            var filterRegex = new RegExp('/' + window.location.host + '/');
           var isInternal = (href) => {
               return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
           }
