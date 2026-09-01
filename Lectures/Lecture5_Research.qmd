@@ -1,5 +1,5 @@
 ---
-title: "FRSC 2020H - Course Introduction"
+title: "Research 101"
 date: ""
 format:
   revealjs:

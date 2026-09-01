@@ -1,5 +1,5 @@
 ---
-title: "FRSC 2020H - Course Introduction"
+title: "Critical thinking and data analysis"
 date: ""
 format:
   revealjs:

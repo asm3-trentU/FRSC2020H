@@ -9,7 +9,7 @@ Welcome to the FRSC 2020H course backend webpage. These are the presentations I 
 - [1: Course Preliminaries](Lectures/Lecture1_Preliminaries.html)
 - [2: The science of reading science](Lectures/Lecture2_Reading.html)
 - [3: Reviewing the literature](Lectures/Lecture3_LitReview.html)
-- [4: Models and experiments](Lectures/Lecture4_ModelsExperiment.html)
+- [4: Models and experiments](Lectures/Lecture4_ModelsExperiments.html)
 - [5: Research 101](Lectures/Lecture5_Research.html)
 - [6: Critical thinking and data analysis](Lectures/Lecture6_Analysis.html)
 - [7: Research Dissemination](Lectures/Lecture7_Dissemination.html)
