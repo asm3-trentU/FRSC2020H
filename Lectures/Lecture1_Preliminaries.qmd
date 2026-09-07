@@ -18,6 +18,19 @@ execute:
   message: false
 ---
 
+## Course Background
+- FRSC 2020H is an undergraduate course in the FRSC program, that:
+  - covers strategies, practices, tools and resources that support effective investigation
+- lecture modules cover *general* strategies and theory
+- lab modules cover *specific* techniques and software tools
+
+::: {.notes}
+- this is one of the most important classes in our program, it really emphasizes the skills and ideas you need to succeed in university and as an independent researcher (which we all are)
+- my personal hope is that you use this class to really figure out who you are as a learner/thinker, and hopefully develop a feeling for what you want to do in your upper years as a university student
+  - for example, maybe looking into doing an undergraduate thesis, or community based research, maybe look into finding volunteer work or certification that can help you on the job market? etc.
+
+:::
+
 <script>
 document.addEventListener("DOMContentLoaded", function() {
   const button = document.createElement("button");
@@ -39,19 +52,6 @@ document.addEventListener("DOMContentLoaded", function() {
   document.body.appendChild(button);
 });
 </script>
-
-## Course Background
-- FRSC 2020H is an undergraduate course in the FRSC program, that:
-  - covers strategies, practices, tools and resources that support effective investigation
-- lecture modules cover *general* strategies and theory
-- lab modules cover *specific* techniques and software tools
-
-::: {.notes}
-- this is one of the most important classes in our program, it really emphasizes the skills and ideas you need to succeed in university and as an independent researcher (which we all are)
-- my personal hope is that you use this class to really figure out who you are as a learner/thinker, and hopefully develop a feeling for what you want to do in your upper years as a university student
-  - for example, maybe looking into doing an undergraduate thesis, or community based research, maybe look into finding volunteer work or certification that can help you on the job market? etc.
-
-:::
 
 ## Course Facilitators
 ::: {.nonincremental}

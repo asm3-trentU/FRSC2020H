@@ -19,6 +19,24 @@ execute:
   message: false
 ---
 
+
+
+
+## Why read science?
+
+- Traditionally, scientific knowledge is shared through written documents. 
+
+- We read science to 
+  - identify and verify knowledge that can be used in professional work and decision-making
+  - identify and verify *techniques and methods* that we can use; develop *new questions* based on the findings of the authors
+  - be entertained and feed our curiousity 
+
+
+::: {.notes}
+ - mention that this lab presentation re-iterates some of the content that will be included in lecture module 2; mention that we'll be talking about different types of scientific documents in lecture module 3; mention that we'll be working through creating some written documents throughout this course
+ - highlight that the subpoints are linking to "Information Gathering", "Finding Inspiration" and "Being entertainment/a sense of wonder" from lecture module 2
+:::
+
 <script>
 document.addEventListener("DOMContentLoaded", function() {
   const button = document.createElement("button");
@@ -40,22 +58,6 @@ document.addEventListener("DOMContentLoaded", function() {
   document.body.appendChild(button);
 });
 </script>
-
-
-## Why read science?
-
-- Traditionally, scientific knowledge is shared through written documents. 
-
-- We read science to 
-  - identify and verify knowledge that can be used in professional work and decision-making
-  - identify and verify *techniques and methods* that we can use; develop *new questions* based on the findings of the authors
-  - be entertained and feed our curiousity 
-
-
-::: {.notes}
- - mention that this lab presentation re-iterates some of the content that will be included in lecture module 2; mention that we'll be talking about different types of scientific documents in lecture module 3; mention that we'll be working through creating some written documents throughout this course
- - highlight that the subpoints are linking to "Information Gathering", "Finding Inspiration" and "Being entertainment/a sense of wonder" from lecture module 2
-:::
 
 ## Why is reading science hard?
 

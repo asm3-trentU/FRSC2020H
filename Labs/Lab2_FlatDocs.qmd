@@ -18,6 +18,23 @@ execute:
   message: false
 ---
 
+
+
+
+## What is a flat document?
+
+
+
+::: {.notes}
+
+:::
+
+## Why is reading science hard?
+
+::: {.notes}
+
+:::
+
 <script>
 document.addEventListener("DOMContentLoaded", function() {
   const button = document.createElement("button");
@@ -39,22 +56,6 @@ document.addEventListener("DOMContentLoaded", function() {
   document.body.appendChild(button);
 });
 </script>
-
-
-## What is a flat document?
-
-
-
-::: {.notes}
-
-:::
-
-## Why is reading science hard?
-
-::: {.notes}
-
-:::
-
 
 
 ## Building a reading strategy
