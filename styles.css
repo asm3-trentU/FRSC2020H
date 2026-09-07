@@ -4,6 +4,13 @@
   color: #222222;
 }
 
+.reveal h1,
+.reveal h2,
+.reveal h3 {
+  font-family: Aptos, Arial, Helvectica, sans-serif;
+  color: #222222;
+}
+
 /* Night mode */
 .reveal.night-mode {
   font-family: Aptos, Arial, Helvectica, sans-serif;
@@ -11,11 +18,9 @@
   color: #eeeeee;
 }
 
-.reveal h1,
-.reveal h2,
-.reveal h3 {
-  font-family: Aptos, Arial, Helvectica, sans-serif;
-  color: #222222;
+
+.reveal-viewport:has(.reveal.night-mode) {
+  background-color: #111111 !important;
 }
 
 .reveal.night-mode h1,
