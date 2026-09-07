@@ -26,15 +26,37 @@ execute:
 ---
 
 ## Course Background
-
+- FRSC 2020H is an undergraduate course in the FRSC program, that:
+  - covers strategies, practices, tools and resources that support effective investigation
+- lecture modules cover *general* strategies and theory
+- lab modules cover *specific* techniques and software tools
 
 ::: {.notes}
+- this is one of the most important classes in our program, it really emphasizes the skills and ideas you need to succeed in university and as an independent researcher (which we all are)
+- my personal hope is that you use this class to really figure out who you are as a learner/thinker, and hopefully develop a feeling for what you want to do in your upper years as a university student
+  - for example, maybe looking into doing an undergraduate thesis, or community based research, maybe look into finding volunteer work or certification that can help you on the job market? etc.
 
 :::
 
 ## Course Facilitators
+::: {.nonincremental}
+- **Instructor:** Arun Moorthy; arunmoorthy@trentu.ca; DNA B108.11; Tuesday 9-11 am
+- **Staff Lab Demonstrator:** Adrian Borlestean; aborlestean@trentu.ca; DNA B108.04
+- **Graduate Teaching Assistant:** Irina Badell; 
+- **Student Lab Demonstrators:** Lauren Campbell; 
+- **Student Lab Demonstrators:** Jonathan Shafer;
+- **Student Lab Demonstrators:** Katie Wall;
+:::
 
 ::: {.notes}
+- There is more about all of your facilitators in the course welcome module--so please feel free to read up on us.
+- spend a moment highlighting who you are since the students may not be familiar:
+ - love learning (thus research). My primary research (i.e., what I get paid to study) are drugs, specifically developing mathematical tools to better understand the relationships between the chemical measurements of drugs. 
+ - But I also investigate other types of chemicals (emerging environmental contaminents)
+ - also interested in other types of physical evidence (e.g., handwriting, documents)
+ - generally speaking, I enjoy math problems and trying to understand how we better utilize mathematical approaches in forensic science
+ - I also love music, I love basketball, I love history, learning about people
+- segue into the idea of students doing the introduction quiz. There a 100% chance I won't get to know each of you by name and face, but I'd like to try. Please fill out the introduction quiz with 10 days of having access to the course blackboard. For most of you, that will be September 20th.. 
 
 :::
 
@@ -42,20 +64,45 @@ execute:
 
 ## Peer Notetaking Support
 
+::: {.nonincremental}
+- **Request:** Share your notes with Student Accessibility Services, who will redirect them to your classmates that need accessibilty support. 
+- **Benefit to you:** You'll receive a certificate at the end of the course, and the service will appear on your co-curricular record. 
+- **How to volunteer:** sign up online through the SAS Portal on MyTrent $\rightarrow$ Academic Support $\rightarrow$ Support $\rightarrow$ SAS Portal $\rightarrow$ Volunteer Notetaker sign-up: login & upload.
+:::
+
 ::: {.notes}
 
 
 :::
 
 ## Course Structure
-
+- Lecture Modules will be available on Thursday mornings as outlined in syllabus
+  - Modules will contain a video presentation (~30-60 minutes) and a link to the HTML "slides", also a link to a content quiz
+- Lab Modules will also be available on Thursday mornings as outlined in syllabus
+  - Modules will contain a video presentation (~10-20 minutes) and a link to the HTML "slides", also a link to a lab test
+  
 ::: {.notes}
 
 
 :::
 
+## Lab Meetings
+- there are in-person and remote lab sections; please make sure you bring a laptop if you are in-person
+  - starts with a review of the presentation (~10-20 minutes)
+  - non-graded facilitated activity (~30-50 minutes)
+  - open work time to work on your lab tests, content quizzes or major research assignments
+  
 
-## Delverables
+## Deliverables
+
+
+- Most of the course deliverables have been designed/chosen with the following goals:
+  1. Learn/improve transferable and hirable skills in critical reading, writing and data analysis
+  1. Learn/improve use of software tools that can help with research and investigative work in future courses (and careers)
+  1. Build a portfolio of meaningful documents you can share with others.
+
+
+
 
 ::: {.notes}
 
@@ -65,6 +112,12 @@ execute:
 
 ## Introduction Quiz
 
+- Five short answer questions
+  - answer questions only if you feel comfortable; will still get full grades if you submit "N/A" for any of the questions
+
+- Goal of this quiz is for me to get to know you 
+
+- Worth 2% of your final grade.
 
 ::: {.notes}
 
@@ -72,33 +125,93 @@ execute:
 :::
 
 ## Content Quizzes (x 10)
+- Each lecture module has 1 or 2 quizzes associated with it (longer lecture modules will have two quizzes)
+- Quizzes contain 4 multiple choice or true/false questions that are selected randomly from designed pools of similarly challenging questions
+- Questions released one at a time with no backtracking
+- Ten minute time limit per quiz (with extended time for students with registered accommodations)
+- Can try each quiz up to 3-times; we'll take the average of all attempts as your grade
+- Worth 10% of your final grade
 
 ::: {.notes}
 
 
 :::
 
-## Lab Tests
+## Lab Tests (x 4)
+- Each lab module has an associated 10-15 question test
+- Questions will be multiple choice, true/false or calculated numeric, and randomly selected from designed pools of similarly challenging questions
+- All questions will be released at once so you don't need to complete questions in order
+- We expect each test to take approximately 30 minutes; no time limit per test
+- Can only attempt test one time
+- Worth 20% of your final grade
 
 ::: {.notes}
 
 :::
 
-## Annotated Bibliography 
+## Final Exam
+- Scheduled Blackboard Exam during exam period (we'll find out actual date from registrars office in November)
+- Two hours (with time extensions for students with registered accommodation)
+- Exam will combine questions from content quizzes and lab tests, with some aspects of your major assignments
+- Questions will be released one at a time with no backtracking
+- Worth 32% of your final grade
 
+
+ 
+::: {.notes}
+- Will post a "mock exam" during the exam period that you can try twice
+- Goal with practice exam to make sure students are comfortable with the format of the exam
+- Also opportunity for us to verify that we have coded accommodations correctly
+:::
+
+## Annotated Bibliography (1/2)
+- an annotated bibliography is an extended reading log that includes key information about the material being read (beyond just the citation information)
+   - technical information e.g., article objective, methods, results
+   - contextual information e.g., other information about the article authors
+   - reflections e.g., your opinion on the article
+- a good annotated bibliography is one that is useful to you when you conduct research
 
 ::: {.notes}
 
 :::
 
-## Research Proposal
+## Annotated Bibliography (2/2)
+- in this assignment, you'll construct an annotated bibliography based on a provided entry template (with guided questions)
+- there are 8 readings you must include in your annotated bibliography; you can add entries for other articles you are reading (in this class or other classes) if you'd like
+- Individual assignment
+- Due on October 23 at 11:59 PM (Friday)
+- Plan for it to take you about 18 hours
+- Worth 10% of your final grade
+
+::: {.notes}
+
+:::
+
+
+## Research Proposal (1/2)
+- a research proposal is a formal document used to advocate for a potential research project, used to help a research acquired additional support
+- the structure of a research proposal is tied to the funder (support provider)
+- all good research proposals will have enough methodological detail that your reader believes what you propose can be done, and enough contextual motivation that your reader believes what you propose will be meaningful
+
+## Research Proposal (2/2)
+- In this assignment, you'll construct a research proposal by filling out the "FRSC 2020H Research Proposal Form" (on Blackboard)
+- You can propose any research project--find something that means something to you
+- You can work in groups of at most 3 students
+- Due on November 13 at 11:59 PM (Friday)
+- Plan for it to take you about 20 hours
+- Worth 8% of your final grade
 
 ::: {.notes}
 
 :::
 
 ## Data Presentation
-
+- Critical analysis of scientific evidence (data) is an important skill; communicating your analysis is an equally important skill
+- In this assignment, you'll create a short video presentation (5-minute max) describing your analysis of data--of your choice!
+- You can work in groups of at most 3 students
+- Due on November 27 at 11:59 PM (Friday)
+- Plan for it to take you about 15 hours
+- Worth 8% of your final grade
 
 ::: {.notes}
 
@@ -106,19 +219,29 @@ execute:
 
 
 ## Article Critique
+- This year, we are recommending that you read 3 perspective articles and one non-fiction book (all available for free)
+- In this assignment, you'll write a short critique (i.e., critical review article, commentary) based on one of the readings; max 550 words
+- Individual assignment
+- Due on December 3rd at 11:59 PM (Thursday)
+- Plan for it to take you about 10-30 hours
+- Worth 10% of your final grade
 
 ::: {.notes}
 
 :::
 
-## Final Exam
 
-::: {.notes}
-
-:::
 
 
 ## Grades
+- Note that all "assignments" have rubrics associated with them 
+    - look at rubrics carefully!
+    - **Grading Scale**: Excellent, Good, Good enough, Close, Needs Improvement, Incomplete
+- Note that all "tests" will be graded for accuracy
+
+::: {.fragment .center}
+Remember that grades are not everything; focus on building your *Portfolio* with assignments you are proud to share.
+:::
 
 ::: {.notes}
 
@@ -126,16 +249,30 @@ execute:
 
 
 
-## Course Policy
+## Course Policy (1/2)
+- **Attendance**: You are encourage to attend your scheduled in-person or virtual lab session
+  - you DO NOT need to contact me if you cannot attend; just make sure you complete your lab test using the resources posted online
+
+- **Due Dates**: All tests and assignments are due as outlined in the syllabus.
+  - Content quizzes submitted after the due date will not be graded
+  - Lab Tests and Assignments submitted after the due date will be penalized at a rate of 5% per 30 minutes that the test/assignment is late.
 
 ::: {.notes}
 
 :::
 
+## Course Policy (1/2)
+- **Uncontrollable Circumstances Exception**: If you are unable to submit one of your lab tests or major assignments due to something out of your control (e.g., sudden illness, accident), you can move up to 80% of the weight of your test/assignment to a future test/assignment in the same category
+  - you must submit your request as an email to Arun (arunmoorthy@trentu.ca); no need to explain your circumstance
+  - amount of weight that you move to a future assignment will drop 5% per half hour after the due date
 
+::: {.notes}
 
-###
-::: {.center}
+:::
+
+## {.center}
+
+::: {.text-center}
 A quick tour of blackboard
 :::
 
@@ -145,9 +282,17 @@ A quick tour of blackboard
 
 
 ## How to get the most out of this course
+- schedule time to work on your:
+  - content modules (on avg. 1 hour a week)
+  - lab modules (on avg. 2 hours every other week) 
+  - assignments (on avg. 4-7 hours a week)
+- start your assignments early; 
+- work in a group
+  - group work is never "easier", but the work of a well-functioning group is always better than an individual
 
 
 ## On Epistemology
+
 
 ## History of scientific development
 
@@ -155,7 +300,10 @@ A quick tour of blackboard
 
 ## What's so unique about forensic science
 
-##
-::: {.center}
+
+
+## {.center}
+
+::: {.text-center}
 Good luck with content quiz 1!<br>(Due September 17 at 11:59 PM)
 :::
