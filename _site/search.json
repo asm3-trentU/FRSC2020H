@@ -686,25 +686,109 @@
     "text": "On Epistemology\n\na branch of philosophy interested in the origin, nature and limits of human knowledge\nSome ways we think we know:\n\nPersonal experience\nAuthority\nTradition\nIntuition\nReasoning\nObservation/evidence\n\n\n\n\n\nhow do we know things? why do we believe things?\nBut all these individual methods of knowing are fallible"
   },
   {
-    "objectID": "Lectures/Lecture1_Preliminaries.html#history-of-scientific-development",
-    "href": "Lectures/Lecture1_Preliminaries.html#history-of-scientific-development",
+    "objectID": "Lectures/Lecture1_Preliminaries.html#what-is-science",
+    "href": "Lectures/Lecture1_Preliminaries.html#what-is-science",
     "title": "Course Preliminaries",
-    "section": "History of scientific development",
-    "text": "History of scientific development\n\nApproximately 1600 BCE\n\n\n\nthe scientific method didn’t just get written down as a fully formed idea, it itself developed over time–through iteration"
+    "section": "What is science?",
+    "text": "What is science?\n\na knowledge base constructed using the “scientific method”\nthe scientific method is (an iterative) process for learning about anything, and can be summarized by the following general steps:\n\nobserving\nrecognizing/defining\nhypothesizing\ntesting\n(disseminating)\n\n\n\n\nmany bodies of knowledge are described as “science” or “a science” and they are similar in that the knowledge was acquired by following the so-called “scientific method”\n\nobserving: to notice or perceive something (of interest) in a situation\nrecognizing/defining: using observations to recognize open questions or define problems\nhypothesizing: using observations and other available information to infer solutions to the questions/problems\ntesting: designing models and/or experiments to evaluate hypotheses and predictions\n\n(disseminating): sharing results so others can make observations, and build knowledge\n\n\nthe key to what’s the scientific method so effective is that we allow iteration, we allow for ideas to grow and change as new information becomes available–science is dynamic knowledge\nthe verb to iterate means to cycle/repeat through a process, but leverage information learned through previous iterations (passes through the method)"
   },
   {
-    "objectID": "Lectures/Lecture1_Preliminaries.html#the-scientific-method",
-    "href": "Lectures/Lecture1_Preliminaries.html#the-scientific-method",
+    "objectID": "Lectures/Lecture1_Preliminaries.html#history-of-scientific-development-15",
+    "href": "Lectures/Lecture1_Preliminaries.html#history-of-scientific-development-15",
     "title": "Course Preliminaries",
-    "section": "The scientific method",
-    "text": "The scientific method"
+    "section": "History of scientific development (1/5)",
+    "text": "History of scientific development (1/5)\n\nApproximately 1600 BCE - Edwin Smith Papyrus\n\nDescribes 48 battlefield injuries and the surgical treatments employed, considered to be the world’s earliest known medical document and contains essential elements of the scientific method\nPurchased in 1862 by egyptologist Edwin Smith\n\n\n\n\nthe scientific method didn’t just get written down as a fully formed idea, it itself developed over time–through iteration"
   },
   {
-    "objectID": "Lectures/Lecture1_Preliminaries.html#whats-so-unique-about-forensic-science",
-    "href": "Lectures/Lecture1_Preliminaries.html#whats-so-unique-about-forensic-science",
+    "objectID": "Lectures/Lecture1_Preliminaries.html#history-of-scientific-development-25",
+    "href": "Lectures/Lecture1_Preliminaries.html#history-of-scientific-development-25",
     "title": "Course Preliminaries",
-    "section": "What’s so unique about forensic science",
-    "text": "What’s so unique about forensic science"
+    "section": "History of scientific development (2/5)",
+    "text": "History of scientific development (2/5)\n\n4th Century BCE - Greek Philosophy\n\nDeductive Reasoning: A form of reasoning in which a conclusion is drawn from accepted premises\nTop-Down reasoning\nSusceptible to failure if any of the premises are incorrect"
+  },
+  {
+    "objectID": "Lectures/Lecture1_Preliminaries.html#history-of-scientific-development-35",
+    "href": "Lectures/Lecture1_Preliminaries.html#history-of-scientific-development-35",
+    "title": "Course Preliminaries",
+    "section": "History of scientific development (3/5)",
+    "text": "History of scientific development (3/5)\n\n4th Century BCE- Greek Philosophy\n\nInductive Reasoning: A form of reasoning in which an inference (hypothesis) is generated based on observations\nBottom-up reasoning\nAlways inconclusive, but can be used to generate theory, hypotheses, and probabilistic statements"
+  },
+  {
+    "objectID": "Lectures/Lecture1_Preliminaries.html#history-of-scientific-development-45",
+    "href": "Lectures/Lecture1_Preliminaries.html#history-of-scientific-development-45",
+    "title": "Course Preliminaries",
+    "section": "History of scientific development (4/5)",
+    "text": "History of scientific development (4/5)\n\n8th-15th century CE - Islamic Science; 12th-16th century CE European Science\n\nExtend deductive-inductive reasoning with controlled experimentation (empiricism)\nIncreased emphasis on mathematics to formulate and describe theory\nIntroduced principe of parsimony: An explanation or theory should be as simple as possible and contain just enough terms to explain the facts. (Ockham’s Razor)"
+  },
+  {
+    "objectID": "Lectures/Lecture1_Preliminaries.html#history-of-scientific-development-55",
+    "href": "Lectures/Lecture1_Preliminaries.html#history-of-scientific-development-55",
+    "title": "Course Preliminaries",
+    "section": "History of scientific development (5/5)",
+    "text": "History of scientific development (5/5)\n\n16th - 18th century CE - Scientific Revolution\n\n1543 - Copernicus published “On the revolutions of the heavenly spheres”” proposed that the earth is not center-point of the universe\n1655 - Hook published “Micrographia”; described observations under a microscope\nBy the end of the 18th century, the scientific method (iterative inductive-deducting reasoning with well-designed experiments) was widely regarded as the best strategy for acquiring knowledge (learning)"
+  },
+  {
+    "objectID": "Lectures/Lecture1_Preliminaries.html#modern-thoughts-on-the-scientific-method",
+    "href": "Lectures/Lecture1_Preliminaries.html#modern-thoughts-on-the-scientific-method",
+    "title": "Course Preliminaries",
+    "section": "Modern thoughts on the scientific method",
+    "text": "Modern thoughts on the scientific method\n\nIn 1934, Karl Popper introduced the concept of “falsifiabilty” to determine whether a statement (e.g., a hypothesis or theory) was scientific:\n\na statement is considered scientific if it can be falsified (refuted) using an empirical test\n\nAt present, most people agree that the scientific method is the reliable approach to learning, but many people are challenging the way it is taught\n\nWindschitl et al. Beyond the scientific method: Model-based inquiry as a paradigm of preference for school science investigations. Science Education, 92(5), 941-967."
+  },
+  {
+    "objectID": "Lectures/Lecture1_Preliminaries.html#basic-application-of-the-scientific-method-12",
+    "href": "Lectures/Lecture1_Preliminaries.html#basic-application-of-the-scientific-method-12",
+    "title": "Course Preliminaries",
+    "section": "Basic application of the scientific method (1/2)",
+    "text": "Basic application of the scientific method (1/2)\n\nSituation: You are working as a forensic chemist in a drug lab. You are asked to evaluate a baggie that contains an unidentified white powder.\nObservation: The baggie is a standard size for illegal recreational drugs, and the visual consistency of the powder is similar to cocaine."
+  },
+  {
+    "objectID": "Lectures/Lecture1_Preliminaries.html#basic-application-of-the-scientific-method-12-1",
+    "href": "Lectures/Lecture1_Preliminaries.html#basic-application-of-the-scientific-method-12-1",
+    "title": "Course Preliminaries",
+    "section": "Basic application of the scientific method (1/2)",
+    "text": "Basic application of the scientific method (1/2)\n\nHypothesis: The substance in the baggie is cocaine.\nTest: We can use lab techniques (analytical chemistry) to determine whether sample is cocaine. We take a sample of the material to the lab.\nResults: The lab results suggest that the sample is not cocaine.\nFollow up questions: …\n\n\n\nis it another illegal recreational drug?\ndid you take enough sample?\nwhat was the lab technique used?\nwas the analytical instrument working correctly?\nthere is a danger of trying too hard to make your test meet your expectations–one of the biggest abuses of scientific method is tweaking."
+  },
+  {
+    "objectID": "Lectures/Lecture1_Preliminaries.html#the-scientific-method-in-forensic-science",
+    "href": "Lectures/Lecture1_Preliminaries.html#the-scientific-method-in-forensic-science",
+    "title": "Course Preliminaries",
+    "section": "The scientific method in forensic science",
+    "text": "The scientific method in forensic science\n\nForensic science has unique challenges:\n\nUsually we’re investigating something bad: crime, accident, catastrophic event; hard not form a bias\nWe only have access to limited information; there’s a lot of uncertainty\nBeing wrong can have significant consequences; we want to minimize errors\nWe’re communicating findings to a non-technical audience; there are opportunities for misunderstanding\n\nImportant that we use systematic (and validated) approaches to minimize these challenges"
+  },
+  {
+    "objectID": "Lectures/Lecture1_Preliminaries.html#good-science-is",
+    "href": "Lectures/Lecture1_Preliminaries.html#good-science-is",
+    "title": "Course Preliminaries",
+    "section": "Good Science is…",
+    "text": "Good Science is…\n\nEmpirical.\nRational.\nTestable.\nParsimonious.\nExplainable.\nReliable.\nTentative.\n\n\nEmpirical: based on observations or experience​\nRational: consistent with reason or logic​\nTestable: able to be tested​\nParsimonious: does not make many assumptions​\nExplainable: able to be explained​\nReliable: able to be trusted​\nTentative: not certain of fixed; provisional​"
+  },
+  {
+    "objectID": "Lectures/Lecture1_Preliminaries.html#some-terms-to-know-14",
+    "href": "Lectures/Lecture1_Preliminaries.html#some-terms-to-know-14",
+    "title": "Course Preliminaries",
+    "section": "Some terms to know (1/4)",
+    "text": "Some terms to know (1/4)\n\nInformation: a description or statement or other form of expression\nFact: information that has been verified as true\nKnowledge: the collection of facts and information known by an individual"
+  },
+  {
+    "objectID": "Lectures/Lecture1_Preliminaries.html#some-terms-to-know-24",
+    "href": "Lectures/Lecture1_Preliminaries.html#some-terms-to-know-24",
+    "title": "Course Preliminaries",
+    "section": "Some terms to know (2/4)",
+    "text": "Some terms to know (2/4)\n\nObserving: to notice or perceive something (of interest) in a situation\nHypothesis: a potential answer to a question/problem; not assumed to be true\nFalsifiability: the ability of a statemetn to be proven false; a required property of a scientific hypothesis\nInference: a statement based on the evaluation of available data or evidence; usually stated with some uncertainty"
+  },
+  {
+    "objectID": "Lectures/Lecture1_Preliminaries.html#some-terms-to-know-34",
+    "href": "Lectures/Lecture1_Preliminaries.html#some-terms-to-know-34",
+    "title": "Course Preliminaries",
+    "section": "Some terms to know (3/4)",
+    "text": "Some terms to know (3/4)\n\nExperiment: a procedure for collecting observations, testing a hypothesis, or demonstrating a fact\nDeductive reasoning: a form of reasoning in which a conclusion is drawn logically from accepted premises\nInductive reasoning: a form of reasoning in which an inference (hypothesis) is generated based on observation"
+  },
+  {
+    "objectID": "Lectures/Lecture1_Preliminaries.html#some-terms-to-know-44",
+    "href": "Lectures/Lecture1_Preliminaries.html#some-terms-to-know-44",
+    "title": "Course Preliminaries",
+    "section": "Some terms to know (4/4)",
+    "text": "Some terms to know (4/4)\n\nIterative process: a cyclical process where each cycle is informed by the previous cycles (also known as iterations)\nHypothetico-deductive reasoning: an alternative description of the iterative inductive-deductive reasoning cycle that is core to the scientific method"
   },
   {
     "objectID": "Lectures/Lecture1_Preliminaries.html#section-1",
@@ -824,75 +908,5 @@
     "title": "Critical thinking and data analysis",
     "section": "Things you might work on",
     "text": "Things you might work on\n\nLab Test 1\nMA1: Annotated Bibliography\nMA4: Article Critique\nStart thinking about groups for MA2 and MA3 (if applicable)\n\n\n\nRemind students that MA1 and MA4 are independent assignments, but that talking about what you’re thinking about with peers is a good thing\nRemind students that they can also work on their lecture content quizzes if they have one to do"
-  },
-  {
-    "objectID": "Lectures/Lecture1_Preliminaries.html#what-is-science",
-    "href": "Lectures/Lecture1_Preliminaries.html#what-is-science",
-    "title": "Course Preliminaries",
-    "section": "What is science?",
-    "text": "What is science?\n\na knowledge base constructed using the “scientific method”\nthe scientific method is (an iterative) process for learning about anything, and can be summarized by the following general steps:\n\nobserving\nrecognizing/defining\nhypothesizing\ntesting\n(disseminating)\n\n\n\n\nmany bodies of knowledge are described as “science” or “a science” and they are similar in that the knowledge was acquired by following the so-called “scientific method”\n\nobserving: to notice or perceive something (of interest) in a situation\nrecognizing/defining: using observations to recognize open questions or define problems\nhypothesizing: using observations and other available information to infer solutions to the questions/problems\ntesting: designing models and/or experiments to evaluate hypotheses and predictions\n\n(disseminating): sharing results so others can make observations, and build knowledge\n\n\nthe key to what’s the scientific method so effective is that we allow iteration, we allow for ideas to grow and change as new information becomes available–science is dynamic knowledge\nthe verb to iterate means to cycle/repeat through a process, but leverage information learned through previous iterations (passes through the method)"
-  },
-  {
-    "objectID": "Lectures/Lecture1_Preliminaries.html#history-of-scientific-development-15",
-    "href": "Lectures/Lecture1_Preliminaries.html#history-of-scientific-development-15",
-    "title": "Course Preliminaries",
-    "section": "History of scientific development (1/5)",
-    "text": "History of scientific development (1/5)\n\nApproximately 1600 BCE - Edwin Smith Papyrus\n\nDescribes 48 battlefield injuries and the surgical treatments employed, considered to be the world’s earliest known medical document and contains essential elements of the scientific method\nPurchased in 1862 by egyptologist Edwin Smith\n\n\n\n\nthe scientific method didn’t just get written down as a fully formed idea, it itself developed over time–through iteration"
-  },
-  {
-    "objectID": "Lectures/Lecture1_Preliminaries.html#history-of-scientific-development-25",
-    "href": "Lectures/Lecture1_Preliminaries.html#history-of-scientific-development-25",
-    "title": "Course Preliminaries",
-    "section": "History of scientific development (2/5)",
-    "text": "History of scientific development (2/5)\n\n4th Century BCE - Greek Philosophy\n\nDeductive Reasoning: A form of reasoning in which a conclusion is drawn from accepted premises\nTop-Down reasoning\nSusceptible to failure if any of the premises are incorrect"
-  },
-  {
-    "objectID": "Lectures/Lecture1_Preliminaries.html#history-of-scientific-development-35",
-    "href": "Lectures/Lecture1_Preliminaries.html#history-of-scientific-development-35",
-    "title": "Course Preliminaries",
-    "section": "History of scientific development (3/5)",
-    "text": "History of scientific development (3/5)\n\n4th Century BCE- Greek Philosophy\n\nInductive Reasoning: A form of reasoning in which an inference (hypothesis) is generated based on observations\nBottom-up reasoning\nAlways inconclusive, but can be used to generate theory, hypotheses, and probabilistic statements"
-  },
-  {
-    "objectID": "Lectures/Lecture1_Preliminaries.html#history-of-scientific-development-45",
-    "href": "Lectures/Lecture1_Preliminaries.html#history-of-scientific-development-45",
-    "title": "Course Preliminaries",
-    "section": "History of scientific development (4/5)",
-    "text": "History of scientific development (4/5)\n\n8th-15th century CE - Islamic Science; 12th-16th century CE European Science\n\nExtend deductive-inductive reasoning with controlled experimentation (empiricism)\nIncreased emphasis on mathematics to formulate and describe theory\nIntroduced principe of parsimony: An explanation or theory should be as simple as possible and contain just enough terms to explain the facts. (Ockham’s Razor)"
-  },
-  {
-    "objectID": "Lectures/Lecture1_Preliminaries.html#history-of-scientific-development-55",
-    "href": "Lectures/Lecture1_Preliminaries.html#history-of-scientific-development-55",
-    "title": "Course Preliminaries",
-    "section": "History of scientific development (5/5)",
-    "text": "History of scientific development (5/5)\n\n16th - 18th century CE - Scientific Revolution\n\n1543 - Copernicus published “On the revolutions of the heavenly spheres”” proposed that the earth is not center-point of the universe\n1655 - Hook published “Micrographia”; described observations under a microscope\nBy the end of the 18th century, the scientific method (iterative inductive-deducting reasoning with well-designed experiments) was widely regarded as the best strategy for acquiring knowledge (learning)"
-  },
-  {
-    "objectID": "Lectures/Lecture1_Preliminaries.html#modern-thoughts-on-the-scientific-method",
-    "href": "Lectures/Lecture1_Preliminaries.html#modern-thoughts-on-the-scientific-method",
-    "title": "Course Preliminaries",
-    "section": "Modern thoughts on the scientific method",
-    "text": "Modern thoughts on the scientific method\n\nIn 1934, Karl Popper introduced the concept of “falsifiabilty” to determine whether a statement (e.g., a hypothesis or theory) was scientific:\n\na statement is considered scientific if it can be falsified (refuted) using an empirical test\n\nAt present, most people agree that the scientific method is the reliable approach to learning, but many people are challenging the way it is taught\n\nWindschitl et al. Beyond the scientific method: Model-based inquiry as a paradigm of preference for school science investigations. Science Education, 92(5), 941-967."
-  },
-  {
-    "objectID": "Lectures/Lecture1_Preliminaries.html#basic-application-of-the-scientific-method",
-    "href": "Lectures/Lecture1_Preliminaries.html#basic-application-of-the-scientific-method",
-    "title": "Course Preliminaries",
-    "section": "Basic application of the scientific method",
-    "text": "Basic application of the scientific method"
-  },
-  {
-    "objectID": "Lectures/Lecture1_Preliminaries.html#the-scientific-method-in-forensic-science",
-    "href": "Lectures/Lecture1_Preliminaries.html#the-scientific-method-in-forensic-science",
-    "title": "Course Preliminaries",
-    "section": "The scientific method in forensic science",
-    "text": "The scientific method in forensic science\n\nForensic science has unique challenges:\n\nUsually we’re investigating something bad: crime, accident, catastrophic event; hard not form a bias\nWe only have access to limited information; there’s a lot of uncertainty\nBeing wrong can have significant consequences; we want to minimize errors\nWe’re communicating findings to a non-technical audience; there are opportunities for misunderstanding\n\nImportant that we use systematic (and validated) approaches to minimize these challenges"
-  },
-  {
-    "objectID": "Lectures/Lecture1_Preliminaries.html#good-science-is",
-    "href": "Lectures/Lecture1_Preliminaries.html#good-science-is",
-    "title": "Course Preliminaries",
-    "section": "Good Science is…",
-    "text": "Good Science is…\n\nEmpirical.\nRational.\nTestable.\nParsimonious.\nExplainable.\nReliable.\nTentative.\n\n\nEmpirical: based on observations or experience​\nRational: consistent with reason or logic​\nTestable: able to be tested​\nParsimonious: does not make many assumptions​\nExplainable: able to be explained​\nReliable: able to be trusted​\nTentative: not certain of fixed; provisional​"
   }
 ]
