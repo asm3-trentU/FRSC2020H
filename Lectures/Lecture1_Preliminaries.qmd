@@ -266,9 +266,7 @@ Remember that grades are not everything; focus on building your *Portfolio* with
   - you must submit your request as an email to Arun (arunmoorthy@trentu.ca); no need to explain your circumstance
   - amount of weight that you move to a future assignment will drop 5% per half hour after the due date
 
-::: {.notes}
 
-:::
 
 ## {.center}
 
@@ -276,9 +274,6 @@ Remember that grades are not everything; focus on building your *Portfolio* with
 A quick tour of blackboard
 :::
 
-::: {.notes}
-
-:::
 
 
 ## How to get the most out of this course
@@ -292,15 +287,185 @@ A quick tour of blackboard
 
 
 ## On Epistemology
+- a branch of philosophy interested in the origin, nature and limits of human knowledge
+- Some ways we think we know:
+  - Personal experience 
+  - Authority
+  - Tradition
+  - Intuition
+  - Reasoning
+  - Observation/evidence
+-
+
+::: {.notes}
+- how do we know things? why do we believe things?
+-  But all these individual methods of knowing are fallible 
+:::
+
+## What is science?
+- a knowledge base constructed using the "scientific method"
+- the scientific method is (an *iterative*) process for learning about anything, and can be summarized by the following general steps:
+  - observing
+  - recognizing/defining
+  - hypothesizing
+  - testing
+  - (disseminating)
+
+  
+::: {.notes}
+- many bodies of knowledge are described as "science" or "a science" and they are similar in that the knowledge was acquired by following the so-called "scientific method"
+  - observing: to notice or perceive something (of interest) in a situation
+  - recognizing/defining: using observations to recognize open questions or define problems
+  - hypothesizing: using observations and other available information to infer solutions to the questions/problems
+  - testing: designing models and/or experiments to evaluate hypotheses and predictions
+    - (disseminating): sharing results so others can make observations, and build knowledge
+- the key to what's the scientific method so effective is that we allow iteration, we allow for ideas to grow and change as new information becomes available--science is dynamic knowledge
+- the verb to iterate means to cycle/repeat through a process, but leverage information learned through previous iterations (passes through the method)
+
+:::
+
+## History of scientific development (1/5)
+- Approximately 1600 BCE - Edwin Smith Papyrus
+  - Describes 48 battlefield injuries and the surgical treatments employed, considered to be the world's earliest known medical document and contains essential elements of the scientific method
+  - Purchased in 1862 by egyptologist Edwin Smith
+
+::: {.notes}
+- the scientific method didn't just get written down as a fully formed idea, it itself developed over time--through iteration
+:::
+
+## History of scientific development (2/5)
+- 4th Century BCE - Greek Philosophy
+  - **Deductive Reasoning**: A form of reasoning in which a conclusion is drawn from accepted premises
+  - Top-Down reasoning
+  - Susceptible to failure if any of the premises are incorrect
+
+::: {.notes}
+
+:::
+
+## History of scientific development (3/5)
+- 4th Century BCE- Greek Philosophy
+  - **Inductive Reasoning**: A form of reasoning in which an inference (hypothesis) is generated based on observations
+  - Bottom-up reasoning
+  - Always inconclusive, but can be used to generate theory, hypotheses, and probabilistic statements
+
+::: {.notes}
+
+:::
+
+## History of scientific development (4/5)
+- 8th-15th century CE - Islamic Science; 12th-16th century CE European Science
+  - Extend deductive-inductive reasoning with controlled experimentation (empiricism)
+  - Increased emphasis on mathematics to formulate and describe theory
+  - Introduced principe of parsimony: An explanation or theory should be as simple as possible and contain just enough terms to explain the facts. (Ockham's Razor)
+  
+::: {.notes}
+
+:::
+
+## History of scientific development (5/5)
+- 16th - 18th century CE - Scientific Revolution
+  - 1543 - Copernicus published "On the revolutions of the heavenly spheres"" proposed that the earth is not center-point of the universe
+  - 1655 - Hook published "Micrographia"; described observations under a microscope
+  - By the end of the 18th century, the scientific method (iterative inductive-deducting reasoning with well-designed experiments) was widely regarded as the best strategy for acquiring knowledge (learning)
+
+::: {.notes}
+
+:::
 
 
-## History of scientific development
 
-## The scientific  method
+## Modern thoughts on the scientific method
+- In 1934, Karl Popper introduced the concept of "falsifiabilty" to determine whether a statement (e.g., a hypothesis or theory) was scientific:
+  - a statement is considered scientific if it can be falsified (refuted) using an empirical test
+- At present, *most* people agree that the scientific method is the reliable approach to learning, but many people are challenging the way it is taught 
+  - [Windschitl et al. Beyond the scientific method: Model-based inquiry as a paradigm of preference for school science investigations. Science Education, 92(5), 941-967. ](https://doi.org/10.1002/sce.20259){data-preview-link="true"}
+  
+## Basic application of the scientific method (1/2)
 
-## What's so unique about forensic science
+- **Situation**: You are working as a forensic chemist in a drug lab. You are asked to evaluate a baggie that contains an unidentified white powder. 
+
+- **Observation**: The baggie is a standard size for illegal recreational drugs, and the visual consistency of the powder is similar to cocaine.
+
+## Basic application of the scientific method (1/2)
+
+- **Hypothesis**: The substance in the baggie is cocaine.
+
+- **Test**: We can use lab techniques (analytical chemistry) to determine whether sample is cocaine. We take a **sample** of the material to the lab.
+
+- **Results**: The lab results suggest that the sample is not cocaine.
+
+- **Follow up questions**: ...
+
+::: {.notes}
+- is it another illegal recreational drug?
+- did you take enough sample?
+- what was the lab technique used?
+- was the analytical instrument working correctly?
+- there is a danger of trying too hard to make your test meet your expectations--one of the biggest abuses of scientific method is tweaking.
+:::
+
+## The scientific method in forensic science
+- Forensic science has unique challenges:
+    - Usually we're investigating something bad: crime, accident, catastrophic event; hard not form a bias
+    - We only have access to limited information; there's a lot of uncertainty
+    - Being wrong can have significant consequences; we want to minimize errors
+    - We're communicating findings to a non-technical audience; there are opportunities for misunderstanding
+- Important that we use systematic (and validated) approaches to minimize these challenges
+
+## Good Science is...
+1. **Empirical.**
+1. **Rational.**
+1. **Testable.**
+1. **Parsimonious.**
+1. **Explainable.**
+1. **Reliable.**
+1. **Tentative.**
+
+:::{.notes}
+Empirical: based on observations or experience​
+
+Rational: consistent with reason or logic​
+
+Testable: able to be tested​
+
+Parsimonious: does not make many assumptions​
+
+Explainable: able to be explained​
+
+Reliable: able to be trusted​
 
 
+
+Tentative: not certain of fixed; provisional​
+:::
+
+## Some terms to know (1/4)
+- Information: a description or statement or other form of expression
+- Fact: information that has been verified as true
+- Knowledge: the collection of facts and information known by an individual
+
+## Some terms to know (2/4)
+- Observing: to notice or perceive something (of interest) in a situation
+
+- Hypothesis: a potential answer to a question/problem; not assumed to be true
+
+- Falsifiability: the ability of a statemetn to be proven false; a required property of a scientific hypothesis
+
+- Inference: a statement based on the evaluation of available data or evidence; usually stated with some uncertainty
+
+
+
+## Some terms to know (3/4)
+- Experiment: a procedure for collecting observations, testing a hypothesis, or demonstrating a fact
+
+- Deductive reasoning: a form of reasoning in which a conclusion is drawn logically from accepted premises
+
+- Inductive reasoning: a form of reasoning in which an inference (hypothesis) is generated based on observation
+
+## Some terms to know (4/4)
+- Iterative process: a cyclical process where each cycle is informed by the previous cycles (also known as iterations)
+- Hypothetico-deductive reasoning: an alternative description of the iterative inductive-deductive reasoning cycle that is core to the scientific method
 
 ## {.center}
 
