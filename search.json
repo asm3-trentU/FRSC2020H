@@ -536,112 +536,147 @@
     "href": "Lectures/Lecture1_Preliminaries.html#course-background",
     "title": "Course Preliminaries",
     "section": "Course Background",
-    "text": "Course Background"
+    "text": "Course Background\n\nFRSC 2020H is an undergraduate course in the FRSC program, that:\n\ncovers strategies, practices, tools and resources that support effective investigation\n\nlecture modules cover general strategies and theory\nlab modules cover specific techniques and software tools\n\n\n\nthis is one of the most important classes in our program, it really emphasizes the skills and ideas you need to succeed in university and as an independent researcher (which we all are)\nmy personal hope is that you use this class to really figure out who you are as a learner/thinker, and hopefully develop a feeling for what you want to do in your upper years as a university student\n\nfor example, maybe looking into doing an undergraduate thesis, or community based research, maybe look into finding volunteer work or certification that can help you on the job market? etc."
   },
   {
     "objectID": "Lectures/Lecture1_Preliminaries.html#course-facilitators",
     "href": "Lectures/Lecture1_Preliminaries.html#course-facilitators",
     "title": "Course Preliminaries",
     "section": "Course Facilitators",
-    "text": "Course Facilitators"
+    "text": "Course Facilitators\n\nInstructor: Arun Moorthy; arunmoorthy@trentu.ca; DNA B108.11; Tuesday 9-11 am\nStaff Lab Demonstrator: Adrian Borlestean; aborlestean@trentu.ca; DNA B108.04\nGraduate Teaching Assistant: Irina Badell;\nStudent Lab Demonstrators: Lauren Campbell;\nStudent Lab Demonstrators: Jonathan Shafer;\nStudent Lab Demonstrators: Katie Wall;\n\n\n\nThere is more about all of your facilitators in the course welcome module–so please feel free to read up on us.\nspend a moment highlighting who you are since the students may not be familiar:\nlove learning (thus research). My primary research (i.e., what I get paid to study) are drugs, specifically developing mathematical tools to better understand the relationships between the chemical measurements of drugs.\nBut I also investigate other types of chemicals (emerging environmental contaminents)\nalso interested in other types of physical evidence (e.g., handwriting, documents)\ngenerally speaking, I enjoy math problems and trying to understand how we better utilize mathematical approaches in forensic science\nI also love music, I love basketball, I love history, learning about people\nsegue into the idea of students doing the introduction quiz. There a 100% chance I won’t get to know each of you by name and face, but I’d like to try. Please fill out the introduction quiz with 10 days of having access to the course blackboard. For most of you, that will be September 20th.."
   },
   {
     "objectID": "Lectures/Lecture1_Preliminaries.html#peer-notetaking-support",
     "href": "Lectures/Lecture1_Preliminaries.html#peer-notetaking-support",
     "title": "Course Preliminaries",
     "section": "Peer Notetaking Support",
-    "text": "Peer Notetaking Support"
+    "text": "Peer Notetaking Support\n\nRequest: Share your notes with Student Accessibility Services, who will redirect them to your classmates that need accessibilty support.\nBenefit to you: You’ll receive a certificate at the end of the course, and the service will appear on your co-curricular record.\nHow to volunteer: sign up online through the SAS Portal on MyTrent \\(\\rightarrow\\) Academic Support \\(\\rightarrow\\) Support \\(\\rightarrow\\) SAS Portal \\(\\rightarrow\\) Volunteer Notetaker sign-up: login & upload."
   },
   {
     "objectID": "Lectures/Lecture1_Preliminaries.html#course-structure",
     "href": "Lectures/Lecture1_Preliminaries.html#course-structure",
     "title": "Course Preliminaries",
     "section": "Course Structure",
-    "text": "Course Structure"
+    "text": "Course Structure\n\nLecture Modules will be available on Thursday mornings as outlined in syllabus\n\nModules will contain a video presentation (~30-60 minutes) and a link to the HTML “slides”, also a link to a content quiz\n\nLab Modules will also be available on Thursday mornings as outlined in syllabus\n\nModules will contain a video presentation (~10-20 minutes) and a link to the HTML “slides”, also a link to a lab test"
   },
   {
-    "objectID": "Lectures/Lecture1_Preliminaries.html#delverables",
-    "href": "Lectures/Lecture1_Preliminaries.html#delverables",
+    "objectID": "Lectures/Lecture1_Preliminaries.html#lab-meetings",
+    "href": "Lectures/Lecture1_Preliminaries.html#lab-meetings",
     "title": "Course Preliminaries",
-    "section": "Delverables",
-    "text": "Delverables"
+    "section": "Lab Meetings",
+    "text": "Lab Meetings\n\nthere are in-person and remote lab sections; please make sure you bring a laptop if you are in-person\n\nstarts with a review of the presentation (~10-20 minutes)\nnon-graded facilitated activity (~30-50 minutes)\nopen work time to work on your lab tests, content quizzes or major research assignments"
+  },
+  {
+    "objectID": "Lectures/Lecture1_Preliminaries.html#deliverables",
+    "href": "Lectures/Lecture1_Preliminaries.html#deliverables",
+    "title": "Course Preliminaries",
+    "section": "Deliverables",
+    "text": "Deliverables\n\nMost of the course deliverables have been designed/chosen with the following goals:\n\nLearn/improve transferable and hirable skills in critical reading, writing and data analysis\nLearn/improve use of software tools that can help with research and investigative work in future courses (and careers)\nBuild a portfolio of meaningful documents you can share with others."
   },
   {
     "objectID": "Lectures/Lecture1_Preliminaries.html#introduction-quiz",
     "href": "Lectures/Lecture1_Preliminaries.html#introduction-quiz",
     "title": "Course Preliminaries",
     "section": "Introduction Quiz",
-    "text": "Introduction Quiz"
+    "text": "Introduction Quiz\n\nFive short answer questions\n\nanswer questions only if you feel comfortable; will still get full grades if you submit “N/A” for any of the questions\n\nGoal of this quiz is for me to get to know you\nWorth 2% of your final grade."
   },
   {
     "objectID": "Lectures/Lecture1_Preliminaries.html#content-quizzes-x-10",
     "href": "Lectures/Lecture1_Preliminaries.html#content-quizzes-x-10",
     "title": "Course Preliminaries",
     "section": "Content Quizzes (x 10)",
-    "text": "Content Quizzes (x 10)"
+    "text": "Content Quizzes (x 10)\n\nEach lecture module has 1 or 2 quizzes associated with it (longer lecture modules will have two quizzes)\nQuizzes contain 4 multiple choice or true/false questions that are selected randomly from designed pools of similarly challenging questions\nQuestions released one at a time with no backtracking\nTen minute time limit per quiz (with extended time for students with registered accommodations)\nCan try each quiz up to 3-times; we’ll take the average of all attempts as your grade\nWorth 10% of your final grade"
   },
   {
-    "objectID": "Lectures/Lecture1_Preliminaries.html#lab-tests",
-    "href": "Lectures/Lecture1_Preliminaries.html#lab-tests",
+    "objectID": "Lectures/Lecture1_Preliminaries.html#lab-tests-x-4",
+    "href": "Lectures/Lecture1_Preliminaries.html#lab-tests-x-4",
     "title": "Course Preliminaries",
-    "section": "Lab Tests",
-    "text": "Lab Tests"
-  },
-  {
-    "objectID": "Lectures/Lecture1_Preliminaries.html#annotated-bibliography",
-    "href": "Lectures/Lecture1_Preliminaries.html#annotated-bibliography",
-    "title": "Course Preliminaries",
-    "section": "Annotated Bibliography",
-    "text": "Annotated Bibliography"
-  },
-  {
-    "objectID": "Lectures/Lecture1_Preliminaries.html#research-proposal",
-    "href": "Lectures/Lecture1_Preliminaries.html#research-proposal",
-    "title": "Course Preliminaries",
-    "section": "Research Proposal",
-    "text": "Research Proposal"
-  },
-  {
-    "objectID": "Lectures/Lecture1_Preliminaries.html#data-presentation",
-    "href": "Lectures/Lecture1_Preliminaries.html#data-presentation",
-    "title": "Course Preliminaries",
-    "section": "Data Presentation",
-    "text": "Data Presentation"
-  },
-  {
-    "objectID": "Lectures/Lecture1_Preliminaries.html#article-critique",
-    "href": "Lectures/Lecture1_Preliminaries.html#article-critique",
-    "title": "Course Preliminaries",
-    "section": "Article Critique",
-    "text": "Article Critique"
+    "section": "Lab Tests (x 4)",
+    "text": "Lab Tests (x 4)\n\nEach lab module has an associated 10-15 question test\nQuestions will be multiple choice, true/false or calculated numeric, and randomly selected from designed pools of similarly challenging questions\nAll questions will be released at once so you don’t need to complete questions in order\nWe expect each test to take approximately 30 minutes; no time limit per test\nCan only attempt test one time\nWorth 20% of your final grade"
   },
   {
     "objectID": "Lectures/Lecture1_Preliminaries.html#final-exam",
     "href": "Lectures/Lecture1_Preliminaries.html#final-exam",
     "title": "Course Preliminaries",
     "section": "Final Exam",
-    "text": "Final Exam"
+    "text": "Final Exam\n\nScheduled Blackboard Exam during exam period (we’ll find out actual date from registrars office in November)\nTwo hours (with time extensions for students with registered accommodation)\nExam will combine questions from content quizzes and lab tests, with some aspects of your major assignments\nQuestions will be released one at a time with no backtracking\nWorth 32% of your final grade\n\n\n\nWill post a “mock exam” during the exam period that you can try twice\nGoal with practice exam to make sure students are comfortable with the format of the exam\nAlso opportunity for us to verify that we have coded accommodations correctly"
+  },
+  {
+    "objectID": "Lectures/Lecture1_Preliminaries.html#annotated-bibliography-12",
+    "href": "Lectures/Lecture1_Preliminaries.html#annotated-bibliography-12",
+    "title": "Course Preliminaries",
+    "section": "Annotated Bibliography (1/2)",
+    "text": "Annotated Bibliography (1/2)\n\nan annotated bibliography is an extended reading log that includes key information about the material being read (beyond just the citation information)\n\ntechnical information e.g., article objective, methods, results\ncontextual information e.g., other information about the article authors\nreflections e.g., your opinion on the article\n\na good annotated bibliography is one that is useful to you when you conduct research"
+  },
+  {
+    "objectID": "Lectures/Lecture1_Preliminaries.html#annotated-bibliography-22",
+    "href": "Lectures/Lecture1_Preliminaries.html#annotated-bibliography-22",
+    "title": "Course Preliminaries",
+    "section": "Annotated Bibliography (2/2)",
+    "text": "Annotated Bibliography (2/2)\n\nin this assignment, you’ll construct an annotated bibliography based on a provided entry template (with guided questions)\nthere are 8 readings you must include in your annotated bibliography; you can add entries for other articles you are reading (in this class or other classes) if you’d like\nIndividual assignment\nDue on October 23 at 11:59 PM (Friday)\nPlan for it to take you about 18 hours\nWorth 10% of your final grade"
+  },
+  {
+    "objectID": "Lectures/Lecture1_Preliminaries.html#research-proposal-12",
+    "href": "Lectures/Lecture1_Preliminaries.html#research-proposal-12",
+    "title": "Course Preliminaries",
+    "section": "Research Proposal (1/2)",
+    "text": "Research Proposal (1/2)\n\na research proposal is a formal document used to advocate for a potential research project, used to help a research acquired additional support\nthe structure of a research proposal is tied to the funder (support provider)\nall good research proposals will have enough methodological detail that your reader believes what you propose can be done, and enough contextual motivation that your reader believes what you propose will be meaningful"
+  },
+  {
+    "objectID": "Lectures/Lecture1_Preliminaries.html#research-proposal-22",
+    "href": "Lectures/Lecture1_Preliminaries.html#research-proposal-22",
+    "title": "Course Preliminaries",
+    "section": "Research Proposal (2/2)",
+    "text": "Research Proposal (2/2)\n\nIn this assignment, you’ll construct a research proposal by filling out the “FRSC 2020H Research Proposal Form” (on Blackboard)\nYou can propose any research project–find something that means something to you\nYou can work in groups of at most 3 students\nDue on November 13 at 11:59 PM (Friday)\nPlan for it to take you about 20 hours\nWorth 8% of your final grade"
+  },
+  {
+    "objectID": "Lectures/Lecture1_Preliminaries.html#data-presentation",
+    "href": "Lectures/Lecture1_Preliminaries.html#data-presentation",
+    "title": "Course Preliminaries",
+    "section": "Data Presentation",
+    "text": "Data Presentation\n\nCritical analysis of scientific evidence (data) is an important skill; communicating your analysis is an equally important skill\nIn this assignment, you’ll create a short video presentation (5-minute max) describing your analysis of data–of your choice!\nYou can work in groups of at most 3 students\nDue on November 27 at 11:59 PM (Friday)\nPlan for it to take you about 15 hours\nWorth 8% of your final grade"
+  },
+  {
+    "objectID": "Lectures/Lecture1_Preliminaries.html#article-critique",
+    "href": "Lectures/Lecture1_Preliminaries.html#article-critique",
+    "title": "Course Preliminaries",
+    "section": "Article Critique",
+    "text": "Article Critique\n\nThis year, we are recommending that you read 3 perspective articles and one non-fiction book (all available for free)\nIn this assignment, you’ll write a short critique (i.e., critical review article, commentary) based on one of the readings; max 550 words\nIndividual assignment\nDue on December 3rd at 11:59 PM (Thursday)\nPlan for it to take you about 10-30 hours\nWorth 10% of your final grade"
   },
   {
     "objectID": "Lectures/Lecture1_Preliminaries.html#grades",
     "href": "Lectures/Lecture1_Preliminaries.html#grades",
     "title": "Course Preliminaries",
     "section": "Grades",
-    "text": "Grades"
+    "text": "Grades\n\nNote that all “assignments” have rubrics associated with them\n\nlook at rubrics carefully!\nGrading Scale: Excellent, Good, Good enough, Close, Needs Improvement, Incomplete\n\nNote that all “tests” will be graded for accuracy\n\n\nRemember that grades are not everything; focus on building your Portfolio with assignments you are proud to share."
   },
   {
-    "objectID": "Lectures/Lecture1_Preliminaries.html#course-policy",
-    "href": "Lectures/Lecture1_Preliminaries.html#course-policy",
+    "objectID": "Lectures/Lecture1_Preliminaries.html#course-policy-12",
+    "href": "Lectures/Lecture1_Preliminaries.html#course-policy-12",
     "title": "Course Preliminaries",
-    "section": "Course Policy",
-    "text": "Course Policy\n\n\n\n\n\nA quick tour of blackboard"
+    "section": "Course Policy (1/2)",
+    "text": "Course Policy (1/2)\n\nAttendance: You are encourage to attend your scheduled in-person or virtual lab session\n\nyou DO NOT need to contact me if you cannot attend; just make sure you complete your lab test using the resources posted online\n\nDue Dates: All tests and assignments are due as outlined in the syllabus.\n\nContent quizzes submitted after the due date will not be graded\nLab Tests and Assignments submitted after the due date will be penalized at a rate of 5% per 30 minutes that the test/assignment is late."
+  },
+  {
+    "objectID": "Lectures/Lecture1_Preliminaries.html#course-policy-12-1",
+    "href": "Lectures/Lecture1_Preliminaries.html#course-policy-12-1",
+    "title": "Course Preliminaries",
+    "section": "Course Policy (1/2)",
+    "text": "Course Policy (1/2)\n\nUncontrollable Circumstances Exception: If you are unable to submit one of your lab tests or major assignments due to something out of your control (e.g., sudden illness, accident), you can move up to 80% of the weight of your test/assignment to a future test/assignment in the same category\n\nyou must submit your request as an email to Arun (arunmoorthy@trentu.ca); no need to explain your circumstance\namount of weight that you move to a future assignment will drop 5% per half hour after the due date"
+  },
+  {
+    "objectID": "Lectures/Lecture1_Preliminaries.html#section",
+    "href": "Lectures/Lecture1_Preliminaries.html#section",
+    "title": "Course Preliminaries",
+    "section": "",
+    "text": "A quick tour of blackboard"
   },
   {
     "objectID": "Lectures/Lecture1_Preliminaries.html#how-to-get-the-most-out-of-this-course",
     "href": "Lectures/Lecture1_Preliminaries.html#how-to-get-the-most-out-of-this-course",
     "title": "Course Preliminaries",
     "section": "How to get the most out of this course",
-    "text": "How to get the most out of this course"
+    "text": "How to get the most out of this course\n\nschedule time to work on your:\n\ncontent modules (on avg. 1 hour a week)\nlab modules (on avg. 2 hours every other week)\nassignments (on avg. 4-7 hours a week)\n\nstart your assignments early;\nwork in a group\n\ngroup work is never “easier”, but the work of a well-functioning group is always better than an individual"
   },
   {
     "objectID": "Lectures/Lecture1_Preliminaries.html#on-epistemology",
