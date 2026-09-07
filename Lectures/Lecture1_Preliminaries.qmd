@@ -303,7 +303,7 @@ A quick tour of blackboard
   - Intuition
   - Reasoning
   - Observation/evidence
--
+
 
 ::: {.notes}
 - how do we know things? why do we believe things?
