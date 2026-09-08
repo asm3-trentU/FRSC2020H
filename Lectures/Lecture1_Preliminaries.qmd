@@ -234,7 +234,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
 
 ## Article Critique
-- This year, we are recommending that you read 3 perspective articles and one non-fiction book (all available for free)
+- This year, we are recommending that you read 3 perspective articles, a non-fiction book and a short story (all available for free)
 - In this assignment, you'll write a short critique (i.e., critical review article, commentary) based on one of the readings; max 550 words
 - Individual assignment
 - Due on December 3rd at 11:59 PM (Thursday)
