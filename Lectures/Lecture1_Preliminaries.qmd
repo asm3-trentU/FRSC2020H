@@ -130,7 +130,7 @@ document.addEventListener("DOMContentLoaded", function() {
 - Five short answer questions
   - answer questions only if you feel comfortable; will still get full grades if you submit "N/A" for any of the questions
 
-- Goal of this quiz is for me to get to know you 
+- Goal of this quiz is for us to get to know you 
 
 - Worth 2% of your final grade.
 
@@ -144,7 +144,7 @@ document.addEventListener("DOMContentLoaded", function() {
 - Quizzes contain 4 multiple choice or true/false questions that are selected randomly from designed pools of similarly challenging questions
 - Questions released one at a time with no backtracking
 - Seven minute time limit* per quiz (with extended time for students with registered accommodations)
-- Can try each quiz up to 3-times; we'll take the average of all attempts as your grade
+- Can try each quiz up to 3-times; we'll take the average of all attempts
 - Worth 10% of your final grade
 
 ::: {.notes}
