@@ -388,7 +388,7 @@ A quick tour of blackboard
 
 ## History of scientific development (5/5)
 - 16th - 18th century CE - Scientific Revolution
-  - 1543 - Copernicus published "On the revolutions of the heavenly spheres"" proposed that the earth is not center-point of the universe
+  - 1543 - Copernicus published "On the revolutions of the heavenly spheres" proposed that the earth is not center-point of the universe
   - 1655 - Hook published "Micrographia"; described observations under a microscope
   - By the end of the 18th century, the scientific method (iterative inductive-deducting reasoning with well-designed experiments) was widely regarded as the best strategy for acquiring knowledge (learning)
 
