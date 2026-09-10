@@ -307,7 +307,7 @@ document.addEventListener("DOMContentLoaded", function() {
     - affords precision that is not really possible in traditional languages<br><br>
 - Many people have "math anxiety"; this becomes a problem when trying to read science<br><br>
 
-1. Think of math as a language; you don't have to have "native proficiency" to use a language<br><br>
+1. Think of math as a language; you don't have to have "native proficiency" to use a language
 2. Use software to help you "translate" mathematics
 
 ## {.center}
