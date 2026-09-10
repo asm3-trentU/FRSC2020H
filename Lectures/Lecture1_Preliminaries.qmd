@@ -59,7 +59,7 @@ document.addEventListener("DOMContentLoaded", function() {
 - **Staff Lab Demonstrator:** Adrian Borlestean; aborlestean@trentu.ca; DNA B108.04
 - **Graduate Teaching Assistant:** Irina Badell 
 - **Student Lab Demonstrators:** Lauren Campbell 
-- **Student Lab Demonstrators:** Jonathan Shafer
+- **Student Lab Demonstrators:** Jonathan Shaffer
 - **Student Lab Demonstrators:** Katie Wall
 :::
 
