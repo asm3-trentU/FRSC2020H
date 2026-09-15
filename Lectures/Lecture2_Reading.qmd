@@ -190,13 +190,13 @@ document.addEventListener("DOMContentLoaded", function() {
     - List the authors that prepared the article, including their instition
         - Generally, the first name listed is the "lead" author and wrote the original draft of the paper
     - Provides contact information for the "corresponding" author (usually indicated by a star)--this is the person you should reach out to if you have any questions about the work
-    - Note that the email address may no longer be valide; you may need to do some digging to find the author's current address
+    - Note that the email address may no longer be valid; you may need to do some digging to find the author's current address
     
 ## The anatomy of a research article
 
 - *Graphical Abstract*
     - An image that represents the main idea of the paper
-    - Often a flow chart or schematic diagram; can be a photot
+    - Often a flow chart or schematic diagram; can be a photo
     - Image size (and text size) requirements are imposed by the publisher
     
 ## The anatomy of a research article
