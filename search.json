@@ -567,46 +567,53 @@
     "text": "What is a flat document?"
   },
   {
-    "objectID": "Labs/Lab2_FlatDocs.html#why-is-reading-science-hard",
-    "href": "Labs/Lab2_FlatDocs.html#why-is-reading-science-hard",
+    "objectID": "Labs/Lab2_FlatDocs.html#why-are-flat-documents-important",
+    "href": "Labs/Lab2_FlatDocs.html#why-are-flat-documents-important",
     "title": "Preparing Flat Documents",
-    "section": "Why is reading science hard?",
-    "text": "Why is reading science hard?"
+    "section": "Why are flat documents important?",
+    "text": "Why are flat documents important?\n\n\nfollow up question: why practice creating flat documents?\n\nnothing worse than needing to submit an assignment or a research proposal or a resume or a form and struggling with the software (rather than the content); practice the tool early and often so you can reduce your stress in the future"
   },
   {
-    "objectID": "Labs/Lab2_FlatDocs.html#building-a-reading-strategy",
-    "href": "Labs/Lab2_FlatDocs.html#building-a-reading-strategy",
+    "objectID": "Labs/Lab2_FlatDocs.html#how-do-we-create-flat-documents",
+    "href": "Labs/Lab2_FlatDocs.html#how-do-we-create-flat-documents",
     "title": "Preparing Flat Documents",
-    "section": "Building a reading strategy",
-    "text": "Building a reading strategy"
+    "section": "How do we create flat documents?",
+    "text": "How do we create flat documents?\n\nword processors\n\nMicrosoft Word\nGoogle Docs\nOthers\n\nplain text files with markup language\n\nlatex\nmarkdown\nquarto\n\nforms"
   },
   {
-    "objectID": "Labs/Lab2_FlatDocs.html#building-a-reading-log",
-    "href": "Labs/Lab2_FlatDocs.html#building-a-reading-log",
+    "objectID": "Labs/Lab2_FlatDocs.html#example-flat-documents",
+    "href": "Labs/Lab2_FlatDocs.html#example-flat-documents",
     "title": "Preparing Flat Documents",
-    "section": "Building a reading log",
-    "text": "Building a reading log"
+    "section": "Example flat documents",
+    "text": "Example flat documents\n\n-re-visit research proposal assignment -re-visit critical review article assignment"
   },
   {
-    "objectID": "Labs/Lab2_FlatDocs.html#building-an-annotated-bibliography",
-    "href": "Labs/Lab2_FlatDocs.html#building-an-annotated-bibliography",
+    "objectID": "Labs/Lab2_FlatDocs.html#getting-started-with-ms-word",
+    "href": "Labs/Lab2_FlatDocs.html#getting-started-with-ms-word",
     "title": "Preparing Flat Documents",
-    "section": "Building an annotated bibliography",
-    "text": "Building an annotated bibliography"
+    "section": "Getting started with MS Word",
+    "text": "Getting started with MS Word"
   },
   {
-    "objectID": "Labs/Lab2_FlatDocs.html#learning-a-reference-manager",
-    "href": "Labs/Lab2_FlatDocs.html#learning-a-reference-manager",
+    "objectID": "Labs/Lab2_FlatDocs.html#introduction-to-styles-and-formatting",
+    "href": "Labs/Lab2_FlatDocs.html#introduction-to-styles-and-formatting",
     "title": "Preparing Flat Documents",
-    "section": "Learning a reference manager",
-    "text": "Learning a reference manager"
+    "section": "Introduction to Styles and Formatting",
+    "text": "Introduction to Styles and Formatting"
   },
   {
-    "objectID": "Labs/Lab2_FlatDocs.html#zotero",
-    "href": "Labs/Lab2_FlatDocs.html#zotero",
+    "objectID": "Labs/Lab2_FlatDocs.html#getting-started-with-markdown",
+    "href": "Labs/Lab2_FlatDocs.html#getting-started-with-markdown",
     "title": "Preparing Flat Documents",
-    "section": "Zotero",
-    "text": "Zotero"
+    "section": "Getting started with Markdown",
+    "text": "Getting started with Markdown"
+  },
+  {
+    "objectID": "Labs/Lab2_FlatDocs.html#introduction-to-styles-and-formatting-1",
+    "href": "Labs/Lab2_FlatDocs.html#introduction-to-styles-and-formatting-1",
+    "title": "Preparing Flat Documents",
+    "section": "Introduction to Styles and Formatting",
+    "text": "Introduction to Styles and Formatting"
   },
   {
     "objectID": "LICENSE.html",
