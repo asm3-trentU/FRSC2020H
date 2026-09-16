@@ -1042,45 +1042,8 @@ overflow: hidden!important;
 display:block!important;
 }</style></aside>
 </section>
-<section id="why-is-reading-science-hard" class="slide level2">
-<h2>Why is reading science hard?</h2>
-<aside class="notes">
-
-<style type="text/css">
-span.MJX_Assistive_MathML {
-position:absolute!important;
-clip: rect(1px, 1px, 1px, 1px);
-padding: 1px 0 0 0!important;
-border: 0!important;
-height: 1px!important;
-width: 1px!important;
-overflow: hidden!important;
-display:block!important;
-}</style></aside>
-<script>
-document.addEventListener("DOMContentLoaded", function() {
-  const button = document.createElement("button");
-
-  button.innerHTML = "☾";
-  button.title = "Toggle night mode";
-
-  button.style.position = "fixed";
-  button.style.top = "15px";
-  button.style.right = "15px";
-  button.style.zIndex = "1000";
-  button.style.fontSize = "1.2em";
-  button.style.padding = "5px 10px";
-
-  button.onclick = function() {
-    document.querySelector(".reveal").classList.toggle("night-mode");
-  };
-
-  document.body.appendChild(button);
-});
-</script>
-</section>
-<section id="building-a-reading-strategy" class="slide level2">
-<h2>Building a reading strategy</h2>
+<section id="why-are-flat-documents-important" class="slide level2">
+<h2>Why are flat documents important?</h2>
 <aside class="notes">
 
 <style type="text/css">
@@ -1095,8 +1058,23 @@ overflow: hidden!important;
 display:block!important;
 }</style></aside>
 </section>
-<section id="building-a-reading-log" class="slide level2">
-<h2>Building a reading log</h2>
+<section id="how-do-we-create-flat-documents" class="slide level2">
+<h2>How do we create flat documents?</h2>
+<ul>
+<li class="fragment">word processors
+<ul>
+<li class="fragment">Microsoft Word</li>
+<li class="fragment">Google Docs</li>
+<li class="fragment">Others</li>
+</ul></li>
+<li class="fragment">plain text files with markup language
+<ul>
+<li class="fragment">latex</li>
+<li class="fragment">markdown</li>
+<li class="fragment">quarto</li>
+</ul></li>
+<li class="fragment">forms</li>
+</ul>
 <aside class="notes">
 
 <style type="text/css">
@@ -1111,10 +1089,10 @@ overflow: hidden!important;
 display:block!important;
 }</style></aside>
 </section>
-<section id="building-an-annotated-bibliography" class="slide level2">
-<h2>Building an annotated bibliography</h2>
+<section id="example-flat-documents" class="slide level2">
+<h2>Example flat documents</h2>
 <aside class="notes">
-
+<p>-re-visit research proposal assignment -re-visit critical review article assignment</p>
 <style type="text/css">
 span.MJX_Assistive_MathML {
 position:absolute!important;
@@ -1127,37 +1105,17 @@ overflow: hidden!important;
 display:block!important;
 }</style></aside>
 </section>
-<section id="learning-a-reference-manager" class="slide level2">
-<h2>Learning a reference manager</h2>
-<aside class="notes">
-
-<style type="text/css">
-span.MJX_Assistive_MathML {
-position:absolute!important;
-clip: rect(1px, 1px, 1px, 1px);
-padding: 1px 0 0 0!important;
-border: 0!important;
-height: 1px!important;
-width: 1px!important;
-overflow: hidden!important;
-display:block!important;
-}</style></aside>
+<section id="getting-started-with-ms-word" class="slide level2">
+<h2>Getting started with MS Word</h2>
 </section>
-<section id="zotero" class="slide level2">
-<h2>Zotero</h2>
-<aside class="notes">
-
-<style type="text/css">
-span.MJX_Assistive_MathML {
-position:absolute!important;
-clip: rect(1px, 1px, 1px, 1px);
-padding: 1px 0 0 0!important;
-border: 0!important;
-height: 1px!important;
-width: 1px!important;
-overflow: hidden!important;
-display:block!important;
-}</style></aside>
+<section id="introduction-to-styles-and-formatting" class="slide level2">
+<h2>Introduction to Styles and Formatting</h2>
+</section>
+<section id="getting-started-with-markdown" class="slide level2">
+<h2>Getting started with Markdown</h2>
+</section>
+<section id="introduction-to-styles-and-formatting-1" class="slide level2">
+<h2>Introduction to Styles and Formatting</h2>
 </section>
 <section id="activity" class="title-slide slide level1 center">
 <h1>Activity</h1>
@@ -1179,7 +1137,7 @@ display:block!important;
 <section id="open-work-time" class="title-slide slide level1 center">
 <h1>Open work time</h1>
 <aside class="notes">
-
+<p>Remind students they can work on: 1. Lab Tests that are available (there might be two available, depending on the week) 2. Content quizzes (there will be at least one available) 3. Major assignments</p>
 <style type="text/css">
 span.MJX_Assistive_MathML {
 position:absolute!important;
@@ -2440,7 +2398,7 @@ window.QuartoSupport = function () {
         }
           var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
           var mailtoRegex = new RegExp(/^mailto:/);
-            var filterRegex = new RegExp("https:\/\/asm3-trentU\.github\.io\/FRSC2020H\/");
+            var filterRegex = new RegExp('/' + window.location.host + '/');
           var isInternal = (href) => {
               return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
           }

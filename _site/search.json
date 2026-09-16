@@ -151,14 +151,14 @@
     "href": "Lectures/Lecture2_Reading.html#the-anatomy-of-a-research-article-1",
     "title": "The science of reading",
     "section": "The anatomy of a research article",
-    "text": "The anatomy of a research article\n\nAuthor Information\n\nList the authors that prepared the article, including their instition\n\nGenerally, the first name listed is the “lead” author and wrote the original draft of the paper\n\nProvides contact information for the “corresponding” author (usually indicated by a star)–this is the person you should reach out to if you have any questions about the work\nNote that the email address may no longer be valide; you may need to do some digging to find the author’s current address"
+    "text": "The anatomy of a research article\n\nAuthor Information\n\nList the authors that prepared the article, including their instition\n\nGenerally, the first name listed is the “lead” author and wrote the original draft of the paper\n\nProvides contact information for the “corresponding” author (usually indicated by a star)–this is the person you should reach out to if you have any questions about the work\nNote that the email address may no longer be valid; you may need to do some digging to find the author’s current address"
   },
   {
     "objectID": "Lectures/Lecture2_Reading.html#the-anatomy-of-a-research-article-2",
     "href": "Lectures/Lecture2_Reading.html#the-anatomy-of-a-research-article-2",
     "title": "The science of reading",
     "section": "The anatomy of a research article",
-    "text": "The anatomy of a research article\n\nGraphical Abstract\n\nAn image that represents the main idea of the paper\nOften a flow chart or schematic diagram; can be a photot\nImage size (and text size) requirements are imposed by the publisher"
+    "text": "The anatomy of a research article\n\nGraphical Abstract\n\nAn image that represents the main idea of the paper\nOften a flow chart or schematic diagram; can be a photo\nImage size (and text size) requirements are imposed by the publisher"
   },
   {
     "objectID": "Lectures/Lecture2_Reading.html#the-anatomy-of-a-research-article-3",
@@ -1055,5 +1055,54 @@
     "title": "Critical thinking and data analysis",
     "section": "Things you might work on",
     "text": "Things you might work on\n\nLab Test 1\nMA1: Annotated Bibliography\nMA4: Article Critique\nStart thinking about groups for MA2 and MA3 (if applicable)\n\n\n\nRemind students that MA1 and MA4 are independent assignments, but that talking about what you’re thinking about with peers is a good thing\nRemind students that they can also work on their lecture content quizzes if they have one to do"
+  },
+  {
+    "objectID": "Labs/Lab2_FlatDocs.html#why-are-flat-documents-important",
+    "href": "Labs/Lab2_FlatDocs.html#why-are-flat-documents-important",
+    "title": "Preparing Flat Documents",
+    "section": "Why are flat documents important?",
+    "text": "Why are flat documents important?"
+  },
+  {
+    "objectID": "Labs/Lab2_FlatDocs.html#how-do-we-create-flat-documents",
+    "href": "Labs/Lab2_FlatDocs.html#how-do-we-create-flat-documents",
+    "title": "Preparing Flat Documents",
+    "section": "How do we create flat documents?",
+    "text": "How do we create flat documents?\n\nword processors\n\nMicrosoft Word\nGoogle Docs\nOthers\n\nplain text files with markup language\n\nlatex\nmarkdown\nquarto\n\nforms"
+  },
+  {
+    "objectID": "Labs/Lab2_FlatDocs.html#example-flat-documents",
+    "href": "Labs/Lab2_FlatDocs.html#example-flat-documents",
+    "title": "Preparing Flat Documents",
+    "section": "Example flat documents",
+    "text": "Example flat documents\n\n-re-visit research proposal assignment -re-visit critical review article assignment"
+  },
+  {
+    "objectID": "Labs/Lab2_FlatDocs.html#getting-started-with-ms-word",
+    "href": "Labs/Lab2_FlatDocs.html#getting-started-with-ms-word",
+    "title": "Preparing Flat Documents",
+    "section": "Getting started with MS Word",
+    "text": "Getting started with MS Word"
+  },
+  {
+    "objectID": "Labs/Lab2_FlatDocs.html#introduction-to-styles-and-formatting",
+    "href": "Labs/Lab2_FlatDocs.html#introduction-to-styles-and-formatting",
+    "title": "Preparing Flat Documents",
+    "section": "Introduction to Styles and Formatting",
+    "text": "Introduction to Styles and Formatting"
+  },
+  {
+    "objectID": "Labs/Lab2_FlatDocs.html#getting-started-with-markdown",
+    "href": "Labs/Lab2_FlatDocs.html#getting-started-with-markdown",
+    "title": "Preparing Flat Documents",
+    "section": "Getting started with Markdown",
+    "text": "Getting started with Markdown"
+  },
+  {
+    "objectID": "Labs/Lab2_FlatDocs.html#introduction-to-styles-and-formatting-1",
+    "href": "Labs/Lab2_FlatDocs.html#introduction-to-styles-and-formatting-1",
+    "title": "Preparing Flat Documents",
+    "section": "Introduction to Styles and Formatting",
+    "text": "Introduction to Styles and Formatting"
   }
 ]
