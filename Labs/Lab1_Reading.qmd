@@ -181,6 +181,8 @@ document.addEventListener("DOMContentLoaded", function() {
 
 # Activity
 
+[Maskell et al. (2023)](https://onlinelibrary.wiley.com/doi/10.1111/1556-4029.15317){target="_blank"}
+
 ::: {.notes}
 Activity description is in MS Teams Folder
 :::
