@@ -155,8 +155,27 @@ At this point, just the words. No need to worry about formatting
 
 ::: {.notes}
 - take same document, just show headings, lists, numbered lists/bullets
+
+- Before closing the lab, please make sure to emphasize something important: We want to practice with formatting and styling to help improve our flat documents and make them easier to read. But content is still the most important thing. 
+
+Poor Content + Poor Style = The worst.
+Poor Content + Good Style = Also the worst. 
+Good Content + Poor Style = Your work can get overlooked
+Good Content + Good Formatting = Goals. Your good work will get the attention it deserves.
+
 :::
 
+## Sharing flat documents
+
+- while we might use a variety of methods to create flat documents, the most common way to share a flat document is as a **portable document file (PDF)**
+    - doesn't require author and reader to have the same word processor
+    - formatting becomes "flat" (i.e., fonts don't change, spacing doesn't change, etc.)<br><br>
+    
+- not uncommon to share markdown files as is, and let reader generate a pdf using their own tools/preferences; most popular way to convert is a command-line tool called [Pandoc](https://pandoc.org/getting-started.html){target="_blank"}
+
+::: {.notes}
+- worth highlighting to the students that the markdown editor that comes with the microsoft one drive web suite does not natively export to PDF. You have to download the markdown file and then convert it using an app on your computer OR another web tool (inconvenient)
+:::
 
 # Activity
 
