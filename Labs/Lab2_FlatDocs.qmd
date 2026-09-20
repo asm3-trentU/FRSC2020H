@@ -18,37 +18,72 @@ execute:
   message: false
 ---
 
-
-
-
 ## What is a flat document?
 
+- Many people use the term "flat" to describe a *document* that is intended to be read in a linear fashion; has a very predictable/readable structure
+    - As opposed to documents like presentations, websites, or other interactive document<br><br>
+    
+- The content in a flat document can be separated into standard "fields"
+  - paragraphs
+  - headings/titles
+  - unstructured and enumerated lists 
+  - tables/figures
+    
+    
 ::: {.notes}
-
+ - Emphasize that flat documents are still the most common way that science is communicated... it's why its important that we build our skills reading science, but also important why practice creating these types of documents
 :::
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  const button = document.createElement("button");
+
+  button.innerHTML = "☾";
+  button.title = "Toggle night mode";
+
+  button.style.position = "fixed";
+  button.style.top = "15px";
+  button.style.right = "15px";
+  button.style.zIndex = "1000";
+  button.style.fontSize = "1.2em";
+  button.style.padding = "5px 10px";
+
+  button.onclick = function() {
+    document.querySelector(".reveal").classList.toggle("night-mode");
+  };
+
+  document.body.appendChild(button);
+});
+</script>
+
 
 
 ## Why are flat documents important?
 
+- They help us communicate (scientific) ideas clearly <br><br>
+
+- Structure (styles) makes it easier to read, navigate a document<br><br>
+
+- Support consistency and accessibility<br><br>
+
 ::: {.notes}
-- follow up question: why practice creating flat documents?
-    - nothing worse than needing to submit an assignment or a research proposal or a resume or a form and struggling with the software (rather than the content); practice the tool early and often so you can reduce your stress in the future
+
 :::
 
 
 ## How do we create flat documents?
 
-- word processors
-    - Microsoft Word
-    - Google Docs
-    - Others
+- Word Processors
+    - [Microsoft Word](https://support.microsoft.com/en-us/word/training/create-a-document-in-word){target="_blank"}
+    - [Google Docs](https://support.google.com/docs/answer/7068618?hl=en&co=GENIE.Platform%3DDesktop){target="_blank"} 
+    - Others<br><br>
 
-- plain text files with markup language
-    - latex
-    - markdown
-    - quarto
+- Plain text files with a markup language
+    - [latex](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes){target="_blank"} 
+    - [markdown](tomarkdown.org/guides/markdown-tutorial-for-beginners){target="_blank"}
+    - [quarto](https://quarto.org/docs/guide/){target="_blank"}<br><br>
     
-- forms
+- (fillable) forms and templates
     
 ::: {.notes}
 
@@ -57,18 +92,70 @@ execute:
 
 ## Example flat documents
 
+- Most school assignments
+    - Annotated Bibliography
+    - Research Proposal
+    - Article Critique<br><br>
+    
+- Most scientific publications<br><br>
+
+- Formal Letters<br><br>
+
+- Resumes and Coverletters<br><br>
+
 ::: {.notes}
--re-visit research proposal assignment
--re-visit critical review article assignment
+- follow up question: why practice creating and formatting flat documents?
+    - nothing worse than needing to submit an assignment or a research proposal or a resume or a form and struggling with the software (rather than the content); practice the tool early and often so you can reduce your stress in the future
 :::
 
 ## Getting started with MS Word
 
+- Through the university, you have a Microsoft account and can use Microsoft Office 365 products for free
+    - You can download the app at no additional cost through the *Microsoft Student Advantage* program (if you have a Windows or Mac computer)
+    - You can use the app on ANY campus computer<br><br>
+    
+- **Live Demo:** Creating a research report outline with MS Word in OneDrive
+
+::: {.notes}
+At this point, just the words. No need to worry about formatting
+:::
+
 ## Introduction to Styles and Formatting
+
+- Paragraphs, headings, and lists are the type of content we can create in a document <br><br>
+- We can directly format content (i.e., change font, size, make things bold, etc)<br><br>
+- We can use built-in "Styles" (Heading 1, Heading 2, Normal)<br><br>
+- We can leverage styles to more easily automate formatting and make documents more navigable 
+
+::: {.notes}
+- start with direct formatting of words
+- leverage styles for headings
+  - create a sub heading for Material
+  - create a table for materials
+  - create a caption for materials
+- create section breaks between headings
+- insert a table of contents
+- insert page numbers, refresh table of contents
+- change one of the heading titles, refresh table of contents
+- add a new sub headings in the Discussion Section, refresh table of contents
+- create a list
+- create a numbered list
+- insert a cover page
+
+:::
+
 
 ## Getting started with Markdown
 
-## Introduction to Styles and Formatting
+- **Markdown** is a specific formatting procedure; text files formatted using markdown syntax can be converted into polished flat documents 
+    - very convenient when creating LARGE documents, or as part of text-based workflows (i.e., writing code, doing a data analysis) <br><br>
+- Structure allows for readers (including software) to more easily understand the structure of the document<br><br>
+
+- **Live Demo:** Creating a research report outline with Markdown in OneDrive
+
+::: {.notes}
+- take same document, just show headings, lists, numbered lists/bullets
+:::
 
 
 # Activity

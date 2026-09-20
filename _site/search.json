@@ -564,49 +564,49 @@
     "href": "Labs/Lab2_FlatDocs.html#what-is-a-flat-document",
     "title": "Preparing Flat Documents",
     "section": "What is a flat document?",
-    "text": "What is a flat document?"
+    "text": "What is a flat document?\n\nMany people use the term “flat” to describe a document that is intended to be read in a linear fashion; has a very predictable/readable structure\n\nAs opposed to documents like presentations, websites, or other interactive document\n\nThe content in a flat document can be separated into standard “fields”\n\nparagraphs\nheadings/titles\nunstructured and enumerated lists\ntables/figures\n\n\n\n\nEmphasize that flat documents are still the most common way that science is communicated… it’s why its important that we build our skills reading science, but also important why practice creating these types of documents"
   },
   {
     "objectID": "Labs/Lab2_FlatDocs.html#why-are-flat-documents-important",
     "href": "Labs/Lab2_FlatDocs.html#why-are-flat-documents-important",
     "title": "Preparing Flat Documents",
     "section": "Why are flat documents important?",
-    "text": "Why are flat documents important?\n\n\nfollow up question: why practice creating flat documents?\n\nnothing worse than needing to submit an assignment or a research proposal or a resume or a form and struggling with the software (rather than the content); practice the tool early and often so you can reduce your stress in the future"
+    "text": "Why are flat documents important?\n\nThey help us communicate (scientific) ideas clearly \nStructure (styles) makes it easier to read, navigate a paper\nSupport consistency and accessibility"
   },
   {
     "objectID": "Labs/Lab2_FlatDocs.html#how-do-we-create-flat-documents",
     "href": "Labs/Lab2_FlatDocs.html#how-do-we-create-flat-documents",
     "title": "Preparing Flat Documents",
     "section": "How do we create flat documents?",
-    "text": "How do we create flat documents?\n\nword processors\n\nMicrosoft Word\nGoogle Docs\nOthers\n\nplain text files with markup language\n\nlatex\nmarkdown\nquarto\n\nforms"
+    "text": "How do we create flat documents?\n\nWord Processors\n\nMicrosoft Word\nGoogle Docs\nOthers\n\nPlain text files with a markup language\n\nlatex\nmarkdown\nquarto\n\n(fillable) forms and templates"
   },
   {
     "objectID": "Labs/Lab2_FlatDocs.html#example-flat-documents",
     "href": "Labs/Lab2_FlatDocs.html#example-flat-documents",
     "title": "Preparing Flat Documents",
     "section": "Example flat documents",
-    "text": "Example flat documents\n\n-re-visit research proposal assignment -re-visit critical review article assignment"
+    "text": "Example flat documents\n\nMost school assignments\n\nAnnotated Bibliography\nResearch Proposal\nArticle Critique\n\nMost scientific publications\nFormal Letters\nResumes and Coverletters\n\n\n\nfollow up question: why practice creating and formatting flat documents?\n\nnothing worse than needing to submit an assignment or a research proposal or a resume or a form and struggling with the software (rather than the content); practice the tool early and often so you can reduce your stress in the future"
   },
   {
     "objectID": "Labs/Lab2_FlatDocs.html#getting-started-with-ms-word",
     "href": "Labs/Lab2_FlatDocs.html#getting-started-with-ms-word",
     "title": "Preparing Flat Documents",
     "section": "Getting started with MS Word",
-    "text": "Getting started with MS Word"
+    "text": "Getting started with MS Word\n\nThrough the university, you have a Microsoft account and can use Microsoft Office 365 products for free\n\nYou can download the app at no additional cost through the Microsoft Student Advantage program (if you have a Windows or Mac computer)\nYou can use the app on ANY campus computer\n\nLive Demo: Creating a research report outline with MS Word in OneDrive\n\n\nAt this point, just the words. No need to worry about formatting"
   },
   {
     "objectID": "Labs/Lab2_FlatDocs.html#introduction-to-styles-and-formatting",
     "href": "Labs/Lab2_FlatDocs.html#introduction-to-styles-and-formatting",
     "title": "Preparing Flat Documents",
     "section": "Introduction to Styles and Formatting",
-    "text": "Introduction to Styles and Formatting"
+    "text": "Introduction to Styles and Formatting\n\nParagraphs, headings, and lists are the type of content we can create in a document \nWe can directly format content (i.e., change font, size, make things bold, etc)\nWe can use built-in “Styles” (Heading 1, Heading 2, Normal)\nWe can leverage styles to more easily automate formatting and make documents more navigable\n\n\n\nstart with direct formatting of words\nleverage styles for headings\n\ncreate a sub heading for Material\ncreate a table for materials\ncreate a caption for materials\n\ncreate section breaks between headings\ninsert a table of contents\ninsert page numbers, refresh table of contents\nchange one of the heading titles, refresh table of contents\nadd a new sub headings in the Discussion Section, refresh table of contents\ninsert a cover page"
   },
   {
     "objectID": "Labs/Lab2_FlatDocs.html#getting-started-with-markdown",
     "href": "Labs/Lab2_FlatDocs.html#getting-started-with-markdown",
     "title": "Preparing Flat Documents",
     "section": "Getting started with Markdown",
-    "text": "Getting started with Markdown"
+    "text": "Getting started with Markdown\n\nMarkdown is a specific formatting procedure; text files formatted using markdown syntax can be converted into polished flat documents\n\nvery convenient when creating LARGE documents, or as part of text-based workflows (i.e., writing code, doing a data analysis) \n\nStructure allows for readers (including software) to more easily understand the structure of the document\nLive Demo: Creating a research report outline with Markdown in OneDrive\n\n\n\ntake same document, just show headings, lists, numbered lists/bullets"
   },
   {
     "objectID": "Labs/Lab2_FlatDocs.html#introduction-to-styles-and-formatting-1",
