@@ -606,7 +606,14 @@
     "href": "Labs/Lab2_FlatDocs.html#getting-started-with-markdown",
     "title": "Preparing Flat Documents",
     "section": "Getting started with Markdown",
-    "text": "Getting started with Markdown\n\nMarkdown is a specific formatting procedure; text files formatted using markdown syntax can be converted into polished flat documents\n\nvery convenient when creating LARGE documents, or as part of text-based workflows (i.e., writing code, doing a data analysis) \n\nStructure allows for readers (including software) to more easily understand the structure of the document\nLive Demo: Creating a research report outline with Markdown in OneDrive\n\n\n\ntake same document, just show headings, lists, numbered lists/bullets"
+    "text": "Getting started with Markdown\n\nMarkdown is a specific formatting procedure; text files formatted using markdown syntax can be converted into polished flat documents\n\nvery convenient when creating LARGE documents, or as part of text-based workflows (i.e., writing code, doing a data analysis) \n\nStructure allows for readers (including software) to more easily understand the structure of the document\nLive Demo: Creating a research report outline with Markdown in OneDrive\n\n\n\ntake same document, just show headings, lists, numbered lists/bullets\nBefore closing the lab, please make sure to emphasize something important: We want to practice with formatting and styling to help improve our flat documents and make them easier to read. But content is still the most important thing.\n\nPoor Content + Poor Style = The worst. Poor Content + Good Style = Also the worst. Good Content + Poor Style = Your work can get overlooked Good Content + Good Formatting = Goals. Your good work will get the attention it deserves."
+  },
+  {
+    "objectID": "Labs/Lab2_FlatDocs.html#sharing-flat-documents",
+    "href": "Labs/Lab2_FlatDocs.html#sharing-flat-documents",
+    "title": "Preparing Flat Documents",
+    "section": "Sharing flat documents",
+    "text": "Sharing flat documents\n\nwhile we might use a variety of methods to create flat documents, the most common way to share a flat document is as a portable document file (PDF)\n\ndoesn’t require author and reader to have the same word processor\nformatting becomes “flat” (i.e., fonts don’t change, spacing doesn’t change, etc.)\n\nnot uncommon to share markdown files as is, and let reader generate a pdf using their own tools/preferences; most popular way to convert is a command-line tool called Pandoc\n\n\n\nworth highlighting to the students that the markdown editor that comes with the microsoft one drive web suite does not natively export to PDF. You have to download the markdown file and then convert it using an app on your computer OR another web tool (inconvenient)"
   },
   {
     "objectID": "LICENSE.html",
