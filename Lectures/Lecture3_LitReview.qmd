@@ -57,7 +57,7 @@ document.addEventListener("DOMContentLoaded", function() {
 ## Access to articles
 
 - Some articles are behind a pay-wall (subscription system)
-    - Reader needs to pay for the specific article they way to read **OR** 
+    - Reader needs to pay for the specific article they want to read **OR** 
     - Reader needs to belong to an institution that pays for a subscription <br><br>
 
 - Some articles are open to the public (open access)
