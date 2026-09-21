@@ -3,7 +3,6 @@ title: "Reviewing the literature"
 date: ""
 format:
   revealjs:
-    theme: simple
     slide-number: true
     transition: fade
     incremental: true
@@ -11,123 +10,178 @@ format:
     width: 1280
     height: 720
     margin: 0.08
+    css: ../styles.css
     embed-resources: true
-  # beamer:
-  #   theme: metropolis
-  #   aspectratio: 169
-  #   incremental: true
-  #   embed-resources: true
-  # pptx:
-  #   slide-level: 2
 execute:
   echo: true
   warning: false
   message: false
 ---
 
-## Why read science?
+## The publishing industry
 
-- Traditionally, scientific knowledge is shared through written documents. 
-
-- We read science to 
-  - identify and verify knowledge that can be used in professional work and decision-making
-  - identify and verify *techniques and methods* that we can use; develop *new questions* based on the findings of the authors
-  - be entertained and feed our curiousity 
-
-
-::: {.notes}
- - mention that this lab presentation re-iterates some of the content that will be included in lecture module 2; mention that we'll be talking about different types of scientific documents in lecture module 3; mention that we'll be working through creating some written documents throughout this course
- - highlight that the subpoints are linking to "Information Gathering", "Finding Inspiration" and "Being entertainment/a sense of wonder" from lecture module 2
-:::
-
-## Why is reading science hard?
-
-- Everything is new to the reader
-- Everything is new to the author
-- Everything moves quickly / People don't have a lot of time 
-
-::: {.fragment .center}
-**Taking your time and learning how to read science is a super power!**
-:::
+- Research articles are often published in "journals"
+    - E.g., Journal of Forensic Science, Forensic Science International
+    - Journal handles scientific process (e.g., peer-review process)<br><br>
+    
+- Journals are published by "publishers"
+    - E.g., Wiley, Elsevier, Canadian Science Publishers
+    - Publisher handles the business process (e.g., printing, web-hosting, marketing, etc.)<br><br>
 
 ::: {.notes}
 
-- explain that usually, as a reader, you are reading papers or technical notes or even books in a research area that you are new to. so you may not be familiar with some of the concepts, foundational theories, or even writing practices of the field (some areas have "predictable" syntax, notation, etc.)
-
-- explain a subtle but important fact--many scientific publications are the first time the author is explaning something (especially true for journal articles). Authors might understand their results perfectly, but still are figuring out best ways to share the ideas. 
-
-- explain these two challenges are linked to a societal challenge: science and life **appear** to move quickly. Authors do not take as much time to think about what they want to share, they may not edit as carefully as they like. Readers *don't have the time* to learn foundations of a research area, don't try very hard to **engage** if they don't understand the article the first-time they read it
-
-
-- emphasize that building quality reading skills takes time and practice.. it's more than just reading the words, its trying to appreciate and understand what the author is trying to say. Also emphasize that being "slow" now as a student is a good thing--better to be slow now and learn the skills well
 :::
 
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  const button = document.createElement("button");
+
+  button.innerHTML = "☾";
+  button.title = "Toggle night mode";
+
+  button.style.position = "fixed";
+  button.style.top = "15px";
+  button.style.right = "15px";
+  button.style.zIndex = "1000";
+  button.style.fontSize = "1.2em";
+  button.style.padding = "5px 10px";
+
+  button.onclick = function() {
+    document.querySelector(".reveal").classList.toggle("night-mode");
+  };
+
+  document.body.appendChild(button);
+});
+</script>
+
+## Access to articles
+
+- Some articles are behind a pay-wall (subscription system)
+    - Reader needs to pay for the specific article they way to read **OR** 
+    - Reader needs to belong to an institution that pays for a subscription <br><br>
+
+- Some articles are open to the public (open access)
+    - Author needs to pay for their article to be published **OR**
+    - Author needs to belong to an institution that pays for authoring
+
+## The "forensic science" literature {.nonincremental}
+
+- It has been reported that there are over 183,000 scientific papers with the word "forensic" in the title, keywords, abstract or journal name<br><br>
+- And the rate of publication has grown exponentially<br><br>
+- See [Weyerman et al. (2023)](https://doi.org/10.1016/j.forsciint.2023.111592){target="_blank"}
+
+# {.center}
+![](../figures/Graph_ForensicScienceLiterature.png){fig-align="center"}
 
 
-## Building a reading strategy
-- getting better at reading takes time and requires practice
-- it also helps to have a strategy
-- Choose the elements of your strategy:
-  - content: what do you want to get better at reading?
-  - frequency: how often are you going to read?
-  - tracking: how are you going to track your reading/progress?
-  - community: who will you talk about your readings with?
+## What is a literature review?
 
-::: {.notes}
+- A **literature review (v)** is the process of searching for information on a topic from published literature. Several ways to conduct a literature review.
+    - Usually the first step of a formal research project
+    - Also useful for students, managers, policy-makers trying to better understand the current state of a field <br><br>
+    
+- A **literature review (n)** is a document that summarizes the results of performing a literature review. Several ways to prepare a literature review.
 
+## Types of literature reviews (v)
+<br><br>
 
-:::
+- **Scoping review:** a search to assess the nature and potential size of the literature on a topic of interest 
 
-## Building a reading log
+    - Can be done fairly quickly
+    - Example output: number of papers, types of papers, recency of papers, etc. 
 
-::: {.notes}
+## Types of literature reviews (v)
+<br><br>
 
+- **Systematic Review:** a comprehensive search and appraisal of all literature on a topic of interest
 
-:::
+    - Requires design and documentation, often takes a lot of time
+    - Output is “insight”; e.g., gaps in the literature
 
+## Types of literature reviews (v)
+<br><br>
 
-## Building an annotated bibliography
+- **Rapid review:** a quick search and appraisal of literature on a topic of interest
 
-::: {.notes}
+    - Requires some considerations, but can be done fairly quickly
 
+## Types of literature reviews (n)
 
-:::
+- **Overview:** a broad overview of the published literature on a general topic; appropriate for introducing a new area of research<br><br>
 
+- **Narrative:** a summary of recently published peer-reviewed literature for a topic of interest; often presented chronologically<br><br>
 
-## Learning a reference manager
-
-
-::: {.notes}
-
-
-:::
-
-## Zotero
-
-::: {.notes}
+- **Critical:** a critical evaluation of recently published peer-reviewed literature for a topic of interest; often presented chronologically but sometimes topically
 
 
-:::
+## Types of literature reviews (n/v)
 
-# Activity
+- **Integrative:** evaluates and presents published literature that contain both experimental results and non-experimental discussions <br><br>
 
-::: {.notes}
-Activity description is in MS Teams Folder
-:::
+- **Mapping Review/Systematic Map:** evaluates and presents published literature by sub-topics; can help identify gaps in the literature<br><br>
 
-# Open work time
+## Types of literature reviews (n/v)
 
-## Things you might work on
+- **Qualitative Systematic Review/Qualitative Evidence Analysis:** synthesizes and presents qualitative results from multiple research articles to try and capture deeper insights<br><br>
 
-::: {.nonincremental}
-1. Lab Test 1
-1. MA1: Annotated Bibliography
-1. MA4: Article Critique
-1. Start thinking about groups for MA2 and MA3 (if applicable)
-:::
+- **Meta-analysis:** synthesizes (and analyzes) and presents quantitative results from multiple research articles (and supplemental data) to try and capture deeper insights
 
-::: {.notes}
-- Remind students that MA1 and MA4 are independent assignments, but that talking about what you're thinking about with peers is a good thing
-- Remind students that they can also work on their lecture content quizzes if they have one to do
 
+## Practical literature reviews for students
+<br><br>
+**Strategy 1:** Ask for recommendation from a subject matter expert
+
+## Practical literature reviews for students
+<br><br>
+**Strategy 2:** Conduct a rapid literature review using a literature database and keywords/filters; read papers that you think are most relevant (skill)
+
+## Practical literature reviews for students
+<br><br>
+**Strategy 3:** “Bi-directional boot-strap reading”
+
+  - Find an initial “seed” paper (e.g., from a SME)
+  - Identify the most important papers cited by the seed paper, create a new seed
+  - Identify papers that have cited the seed paper, create a new seed<br><br>
+
+## Practical literature reviews for students
+<br><br>
+**Strategy 4:** “Bi-direction boot strap reading with stochasticity”
+
+  - Extend strategy 3 by occasionally identifying new seed with keyword searches
+
+
+## Example Literature Database
+
+- General purpose databases:
+    - [Google scholar](https://scholar.google.ca/intl/en/scholar/about.html){target="_blank"}
+    - [PubMed](https://pubmed.ncbi.nlm.nih.gov/about/){target="_blank"}
+    - [EBSCO](https://about.ebsco.com/about/mission){target="_blank"}
+    - [JSTOR](https://about.jstor.org/){target="_blank"} <br><br>
+- Field specific databases: [https://guides.lib.trentu.ca/az/databases](https://guides.lib.trentu.ca/az/databases){target="_blank"}
+    - [https://forensiclibrary.org/home](https://forensiclibrary.org/home){target="_blank"}  (they have a mailing list with daily updates)
+
+## Lexical vs Semantic Searches
+
+- Traditional literature databases (e.g., Google Scholar) are indexed by “keywords”; so we use lexical searches to identify papers
+    - E.g., “ cigarettes + students + Peterborough + Ontario ”<br><br>
+
+- With AI tools, we can start doing semantic searches
+    - E.g., “ how many students smoke cigarettes in Peterborough Ontario?”<br><br>
+
+- Example AI-based tools for literature reviews
+    - [Consenus](https://consensus.app/){target="_blank"}
+    - [SciSpace](https://scispace.com){target="_blank"}
+    - [ResearchRabbit](https://app.researchrabbit.ai/){target="_blank"}
+    
+## A few more thoughts
+
+- the mathematics underlying AI tools is complicated, susceptible to chaos<br><br>
+- Read the paper carefully, **verify** that the AI "insights" are true and relevant<br><br>
+- Remember that when you submit work with your name on it, YOU are responsible for the validity and truth of what you've submitted<br><br>
+- Identifying good papers that you can learn from is an essential activity for scientists; use AI tools if they can help you
+
+## {.center}
+
+::: {.text-center}
+Good luck with content quiz 3!<br>(Due October 1st at 11:59 PM)
 :::
