@@ -1,50 +1,183 @@
 [
   {
-    "objectID": "Lectures/Lecture4_ModelsExperiments.html#how-do-we-learn",
-    "href": "Lectures/Lecture4_ModelsExperiments.html#how-do-we-learn",
-    "title": "Models and Experiments(Experiential Learning)",
-    "section": "How do we learn?",
-    "text": "How do we learn?"
+    "objectID": "Lectures/Lecture4_ModelsExperiments.html#section",
+    "href": "Lectures/Lecture4_ModelsExperiments.html#section",
+    "title": "Models and Experiments(empirical learning)",
+    "section": "",
+    "text": "Scenario: There are two new brands of fingerprinting powder available for purchase. They both cost the same, and both make claims that they are able to adhere to “weak” prints. Which one should you use?\n\n\nWe could see if there is any published literature on either powder?\nWe could see if there is any other publicly available information about either powder? \nIn cases where there are no available answers (or you question the credibility of the available answers), we have to figure out the answer for ourselves"
   },
   {
-    "objectID": "Lectures/Lecture4_ModelsExperiments.html#trouble-shooting",
-    "href": "Lectures/Lecture4_ModelsExperiments.html#trouble-shooting",
-    "title": "Models and Experiments(Experiential Learning)",
-    "section": "Trouble shooting",
-    "text": "Trouble shooting"
+    "objectID": "Lectures/Lecture4_ModelsExperiments.html#what-is-an-experiment",
+    "href": "Lectures/Lecture4_ModelsExperiments.html#what-is-an-experiment",
+    "title": "Models and Experiments(empirical learning)",
+    "section": "What is an experiment?",
+    "text": "What is an experiment?\n\nExperiments involve varying controllable factors such that we can observe the effect on a measurable response\n\nCan run experiments in many contexts: laboratory experiments, numerical experiments, social experiments \n\nIn an experimental study, factors are directly controlled by the experimenter\nIn an observational study, factors are not directly controlled by the observer\nAnother word for factor is independent variable; another word for response is dependent variable"
   },
   {
-    "objectID": "Lectures/Lecture4_ModelsExperiments.html#experiments",
-    "href": "Lectures/Lecture4_ModelsExperiments.html#experiments",
-    "title": "Models and Experiments(Experiential Learning)",
-    "section": "Experiments",
-    "text": "Experiments"
+    "objectID": "Lectures/Lecture4_ModelsExperiments.html#the-components-of-an-experiment",
+    "href": "Lectures/Lecture4_ModelsExperiments.html#the-components-of-an-experiment",
+    "title": "Models and Experiments(empirical learning)",
+    "section": "The components of an experiment",
+    "text": "The components of an experiment\n\nQuestion of interest\nResponse variables or dependent variables\nTreatment factors or factors or independent variables\n\nLevels (settings, options)\n\nExperimental units\nStructure\nDesign"
   },
   {
-    "objectID": "Lectures/Lecture4_ModelsExperiments.html#designing-experiments",
-    "href": "Lectures/Lecture4_ModelsExperiments.html#designing-experiments",
-    "title": "Models and Experiments(Experiential Learning)",
-    "section": "Designing experiments",
-    "text": "Designing experiments"
+    "objectID": "Lectures/Lecture4_ModelsExperiments.html#the-components-of-an-experiment-1",
+    "href": "Lectures/Lecture4_ModelsExperiments.html#the-components-of-an-experiment-1",
+    "title": "Models and Experiments(empirical learning)",
+    "section": "The components of an experiment",
+    "text": "The components of an experiment\n\nQuestion of interest: these questions (or objectives) are what motivate us to do experiments. For example:\n\nDoes shot gun brand affect pellet scatter pattern?\nIs the number of glass fragments found on the ground affected by the velocity, shape and hardness of the bullet fired to break the window?\nDoes the drinking container/beverage combination affect the amount of DNA left on the container?"
+  },
+  {
+    "objectID": "Lectures/Lecture4_ModelsExperiments.html#the-components-of-an-experiment-2",
+    "href": "Lectures/Lecture4_ModelsExperiments.html#the-components-of-an-experiment-2",
+    "title": "Models and Experiments(empirical learning)",
+    "section": "The components of an experiment",
+    "text": "The components of an experiment\n\nResponse variables: the variables being measured to address the question of interest (dependent variables)\n\nAn ideal response variable will have a strong relationship to the question of interest, low natural variability, be sensitive to changes in the treatment, and not be expensive to measure\nDoes the shot gun brand affect the pellet scatter pattern?\nIs the number of glass fragments found on the ground affected by the velocity, shape and hardness of the bullet fired to break the window?\nDoes the drinking container/beverage combination affect the amount of DNA left on the container?"
+  },
+  {
+    "objectID": "Lectures/Lecture4_ModelsExperiments.html#the-components-of-an-experiment-3",
+    "href": "Lectures/Lecture4_ModelsExperiments.html#the-components-of-an-experiment-3",
+    "title": "Models and Experiments(empirical learning)",
+    "section": "The components of an experiment",
+    "text": "The components of an experiment\n\nTreatment Factors: the variables (or inputs) that can be directly varied by the experimenter (independent variables); sometimes referred to as treatments or factors\n\nDoes shot gun brand affect pellet scatter pattern?\nIs the number of glass fragments found on the ground affected by the velocity, shape and hardness of the bullet fired to break the window?\nDoes the drinking container/beverage combination affect the amount of DNA left on the container?\n\nEach factor may have levels"
+  },
+  {
+    "objectID": "Lectures/Lecture4_ModelsExperiments.html#the-components-of-an-experiment-4",
+    "href": "Lectures/Lecture4_ModelsExperiments.html#the-components-of-an-experiment-4",
+    "title": "Models and Experiments(empirical learning)",
+    "section": "The components of an experiment",
+    "text": "The components of an experiment\n\nExperimental units: the objects or subjects to which the treatments (changes in factor level, inputs, etc.) are applied, and from which measurements are made\n\nDoes shot gun brand affect pellet scatter pattern? Cardboard target\nIs the number of glass fragments found on the ground affected by the velocity, shape and hardness of the bullet fired to break the window? Pane of glass\nDoes the drinking container/beverage combination affect the amount of DNA left on the container? Participant (a DNA contributor); container"
+  },
+  {
+    "objectID": "Lectures/Lecture4_ModelsExperiments.html#the-components-of-an-experiment-5",
+    "href": "Lectures/Lecture4_ModelsExperiments.html#the-components-of-an-experiment-5",
+    "title": "Models and Experiments(empirical learning)",
+    "section": "The components of an experiment",
+    "text": "The components of an experiment\n\nStructure (in experimental units): experimental units will likely not be homogenous, which could affect the results of the experiment\nIf consider well, this natural strucuture in experimental units can be leveraged to design more efficient experiments–reducing the number of experimental units needed and creating more accurate comparisons"
+  },
+  {
+    "objectID": "Lectures/Lecture4_ModelsExperiments.html#the-components-of-an-experiment-6",
+    "href": "Lectures/Lecture4_ModelsExperiments.html#the-components-of-an-experiment-6",
+    "title": "Models and Experiments(empirical learning)",
+    "section": "The components of an experiment",
+    "text": "The components of an experiment\n\nDesign (assignment of treatments to experimental units): a strategy for assigning combinations of the level of the treatment factors (treatments) to address the question of interest\nFactorial design–evaluating every combination of every level of every factor–is the most intellectually straightforward design, but may not be feasible in many instances"
+  },
+  {
+    "objectID": "Lectures/Lecture4_ModelsExperiments.html#the-basic-principles-of-experimental-design",
+    "href": "Lectures/Lecture4_ModelsExperiments.html#the-basic-principles-of-experimental-design",
+    "title": "Models and Experiments(empirical learning)",
+    "section": "The basic principles of experimental design",
+    "text": "The basic principles of experimental design\n\nReplication: each treatment should be used more than once in the experiment, otherwise we cannot properly assess variability (judge random variation); if possible, more replication is always preferable\nBlocking: exploiting an structure that exists in the experimental units; if possible, units should be divided into “blocks” where units within a block are more similar than units not in the same block\nRandomization: each treatment should be allocated to randomly selected experimental units to (1) prevent systematic or unconscious bias, and (2) ensure “independence” of observations"
+  },
+  {
+    "objectID": "Lectures/Lecture4_ModelsExperiments.html#common-experimental-design-strategies",
+    "href": "Lectures/Lecture4_ModelsExperiments.html#common-experimental-design-strategies",
+    "title": "Models and Experiments(empirical learning)",
+    "section": "Common Experimental Design strategies",
+    "text": "Common Experimental Design strategies\n\nA completely randomized design (CRD) is a design where the experimental units are considered homogenous (i.e., there is no block structure OR every unit is withint its own block). Treatments are applied to randomly selected experimental units.\nA randomized complete block design (RCBD) is a design that takes simple block structure into account, grouping experimental units into blocks so that there is less variability among members of the same block"
+  },
+  {
+    "objectID": "Lectures/Lecture4_ModelsExperiments.html#common-experimental-design-strategies-1",
+    "href": "Lectures/Lecture4_ModelsExperiments.html#common-experimental-design-strategies-1",
+    "title": "Models and Experiments(empirical learning)",
+    "section": "Common Experimental Design strategies",
+    "text": "Common Experimental Design strategies\n\nA balanced incomplete block design (BIBD) is a design to use when the number of units per block is less than the number of possible treatments. The compromise is to use a subset of the treatments in each block, such that (1) each treatment is replicate and equal number of times across all blocks, and (2) each pair of treatments occur together in the same block equally"
+  },
+  {
+    "objectID": "Lectures/Lecture4_ModelsExperiments.html#example-1-shotguns",
+    "href": "Lectures/Lecture4_ModelsExperiments.html#example-1-shotguns",
+    "title": "Models and Experiments(empirical learning)",
+    "section": "Example 1: Shotguns",
+    "text": "Example 1: Shotguns\n\nScenario: We have two different guns (Stevens and Remington). We want to know if there is a difference in pellet scatter patters due to brands. We have 60 cardboard targets (same brand, same batch) and can take shots from 5 different distances (10m, 20m, 30m, 40m, 50m). How might we proceed?\n\n\n\nQuestion: Is there a difference in scatter pattern between gun brands?\nResponse variable: scatter pattern (shape, max distance, some metric)\nFactors: Gun (2), distance (5)\nExperimental units: cardboard targets\nStructure: none\nDesign: Completely randomized design (2 guns x 5 spots x 6 replicates)"
+  },
+  {
+    "objectID": "Lectures/Lecture4_ModelsExperiments.html#example-1-shotguns-1",
+    "href": "Lectures/Lecture4_ModelsExperiments.html#example-1-shotguns-1",
+    "title": "Models and Experiments(empirical learning)",
+    "section": "Example 1: Shotguns",
+    "text": "Example 1: Shotguns\n\n\nSteps to take\n\nDetermine all possible treatments (including replicates).\nRandomly assign each treatment to an experimental unit\nConduct experiment and collect results (data)\nAnalyze results (data)\n\n\n\n\n\n\nTarget\nGun\nRange\n\n\n\n\n1\nStevens\n10\n\n\n2\nRemington\n30\n\n\n3\nStevens\n20\n\n\n4\nStevens\n20\n\n\n5\nStevens\n30\n\n\n6\nRemington\n40\n\n\n…\n…\n…\n\n\n60\nRemington\n10"
+  },
+  {
+    "objectID": "Lectures/Lecture4_ModelsExperiments.html#example-2-glass",
+    "href": "Lectures/Lecture4_ModelsExperiments.html#example-2-glass",
+    "title": "Models and Experiments(empirical learning)",
+    "section": "Example 2: Glass",
+    "text": "Example 2: Glass\n\nScenario: We have 150 pieces of glass. We want to determine whether annealing (heating and cooling) affects the measured refractive index. How might we proceed?\n\n\n\nQuestion: Does annealing affect the measured refractive index?\nResponse variable: refractive index\nFactors: annealing status (yes or no)\nExperimental units: 150 pieces of glass\nStructure: each piece of glass can be measured pre- and post-annealing\nDesign: Randomized complete block design (150 x 2)"
+  },
+  {
+    "objectID": "Lectures/Lecture4_ModelsExperiments.html#example-2-glass-1",
+    "href": "Lectures/Lecture4_ModelsExperiments.html#example-2-glass-1",
+    "title": "Models and Experiments(empirical learning)",
+    "section": "Example 2: Glass",
+    "text": "Example 2: Glass\n\n\nSteps to take\n\nLabel each glass piece (1 to 150)\nRandomly select pieces to measure pre-annealing\nRandomly select pieces to measure post-annealing\nAnalyze results\n\n\n\n\n\n\nTarget\nFragment #\nAnneal Status\n\n\n\n\n1\n10\npre\n\n\n2\n23\npre\n\n\n…\n…\n…\n\n\n150\n13\npre\n\n\n151\n17\npost\n\n\n152\n131\npost\n\n\n…\n…\n…\n\n\n300\n3\npost"
+  },
+  {
+    "objectID": "Lectures/Lecture4_ModelsExperiments.html#example-3-clinical-trial",
+    "href": "Lectures/Lecture4_ModelsExperiments.html#example-3-clinical-trial",
+    "title": "Models and Experiments(empirical learning)",
+    "section": "Example 3: Clinical trial",
+    "text": "Example 3: Clinical trial\n\nScenario: We have 6 volunteers (3 students and 3 professors) to test 4 different drinks (A, B, C, D). We want to see if any of these drinks affects heart rate. We can run, at most, 3 trials. How might we proceed?\n\n\n\nQuestion: Does drink affect measured heart rate?\nResponse variable: heart rate\nFactors: drink type\nExperimental units: 6 participants\nStructure: can block the experimental units by academic position\nDesign: A balanced incomplete block design"
+  },
+  {
+    "objectID": "Lectures/Lecture4_ModelsExperiments.html#example-3-clinical-trial-1",
+    "href": "Lectures/Lecture4_ModelsExperiments.html#example-3-clinical-trial-1",
+    "title": "Models and Experiments(empirical learning)",
+    "section": "Example 3: Clinical Trial",
+    "text": "Example 3: Clinical Trial\n\n\n\n\nParticipant\nPosition\nTrial 1\nTrial 2\nTrial 3\n\n\n\n\n1\nStudent\nA\nB\nA\n\n\n2\nStudent\nB\nC\nC/B\n\n\n3\nStudent\nC\nD\nD\n\n\n4\nProfessor\nA\nB\nA\n\n\n5\nProfessor\nB\nC\nC/B\n\n\n6\nProfessor\nC\nD\nD\n\n\n\n\n\n\nA balanced incomplete block design (BIBD) is a design to use when the number of units per block is less than the number of possible treatments. The compromise is to use a subset of the treatments in each block, such that (1) each treatment is replicated an equal number of times across all blocks, and (2) each pair of treatments occur together in the same block equally."
   },
   {
     "objectID": "Lectures/Lecture4_ModelsExperiments.html#models",
     "href": "Lectures/Lecture4_ModelsExperiments.html#models",
-    "title": "Models and Experiments(Experiential Learning)",
+    "title": "Models and Experiments(empirical learning)",
     "section": "Models",
-    "text": "Models"
+    "text": "Models\n\nAbstraction: the process of removing characteristics from a system being studied in order to to better understand essential qualities \nModel: A simplified represetnation of a system being studied; the results of abstraction \nIf a model accurately describes the essential qualities of the system being studied, analysis of the model will provide useful insights about the underlying system"
   },
   {
-    "objectID": "Lectures/Lecture4_ModelsExperiments.html#experiments-with-models",
-    "href": "Lectures/Lecture4_ModelsExperiments.html#experiments-with-models",
-    "title": "Models and Experiments(Experiential Learning)",
-    "section": "Experiments with Models",
-    "text": "Experiments with Models"
+    "objectID": "Lectures/Lecture4_ModelsExperiments.html#physical-models",
+    "href": "Lectures/Lecture4_ModelsExperiments.html#physical-models",
+    "title": "Models and Experiments(empirical learning)",
+    "section": "Physical Models",
+    "text": "Physical Models\n\n\n\nPhysical Model: Constructed using physical (or virtual representations of physical) objects\nKey Forensic Science Uses:\n\nCrime scene reconstruction\n\n\n\n\n\n\n\n\nExample using SketchUp"
   },
   {
-    "objectID": "Lectures/Lecture4_ModelsExperiments.html#section",
-    "href": "Lectures/Lecture4_ModelsExperiments.html#section",
-    "title": "Models and Experiments(Experiential Learning)",
+    "objectID": "Lectures/Lecture4_ModelsExperiments.html#laboratory-models",
+    "href": "Lectures/Lecture4_ModelsExperiments.html#laboratory-models",
+    "title": "Models and Experiments(empirical learning)",
+    "section": "Laboratory Models",
+    "text": "Laboratory Models\n\n\n\nLaboratory Model: Constructed using laboratory equipement like beakers, pumps, tubes\nKey Forensic Science Uses:\n\nParameter estimation in environmental toxicology\n\n\n\n\n\n\n\n\nImage from “Ullman et al. (2023)”"
+  },
+  {
+    "objectID": "Lectures/Lecture4_ModelsExperiments.html#animal-models",
+    "href": "Lectures/Lecture4_ModelsExperiments.html#animal-models",
+    "title": "Models and Experiments(empirical learning)",
+    "section": "Animal Models",
+    "text": "Animal Models\n\n\n\nAnimal Models: Using animals (or animal material) as proxies for understanding other animals (including humans)\nKey Forensic Science Uses:\n\nToxicology\nDecomposition studies\n\n\n\n\n\n\n\n\nImage from “Zhang et al. (2022)”"
+  },
+  {
+    "objectID": "Lectures/Lecture4_ModelsExperiments.html#mathematical-and-computational-models",
+    "href": "Lectures/Lecture4_ModelsExperiments.html#mathematical-and-computational-models",
+    "title": "Models and Experiments(empirical learning)",
+    "section": "Mathematical and Computational Models",
+    "text": "Mathematical and Computational Models\n\n\n\nMathematical Models: Constructed using mathematical objects like variables, distributions, functions, equations, etc.\nKey Forensic Science Uses:\n\nSurveillance\nIntelligence\nOptimization\n\n\n\n\n\n\n\n\nExcerpt from “Calatayud et al. (2023)”"
+  },
+  {
+    "objectID": "Lectures/Lecture4_ModelsExperiments.html#conceptual-models",
+    "href": "Lectures/Lecture4_ModelsExperiments.html#conceptual-models",
+    "title": "Models and Experiments(empirical learning)",
+    "section": "Conceptual Models",
+    "text": "Conceptual Models\n\n\n\nConceptual Models: Constructed using design objects like schematics, flow charts, etc.\nKey Forensic Science Uses:\n\nEducation and explanation\n\n\n\n\nExcerpt from LibreTexts “Introductory Biology”"
+  },
+  {
+    "objectID": "Lectures/Lecture4_ModelsExperiments.html#a-final-thought-on-models",
+    "href": "Lectures/Lecture4_ModelsExperiments.html#a-final-thought-on-models",
+    "title": "Models and Experiments(empirical learning)",
+    "section": "A final thought on models",
+    "text": "A final thought on models\n\n“All models are wrong, but some are useful” – George E.P. Box"
+  },
+  {
+    "objectID": "Lectures/Lecture4_ModelsExperiments.html#section-1",
+    "href": "Lectures/Lecture4_ModelsExperiments.html#section-1",
+    "title": "Models and Experiments(empirical learning)",
     "section": "",
     "text": "Good luck with content quizzes 4a and 4b!(Due October 15th at 11:59 PM)"
   },
