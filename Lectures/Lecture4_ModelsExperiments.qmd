@@ -89,20 +89,20 @@ document.addEventListener("DOMContentLoaded", function() {
 - **Response variables**: the variables being measured to address the question of interest (dependent variables)
   - An ideal response variable will have a strong relationship to the question of interest, low natural variability, be sensitive to changes in the treatment, and not be expensive to measure<br><br>
 
-  - Does the shot gun brand affect *the pellet scatter pattern*? 
+  - Does the shot gun brand affect [the pellet scatter pattern]{style="color: blue;"}? 
 
-  - Is the *number of glass fragments* found on the ground affected by the velocity, shape and hardness of the bullet fired to break the window?
+  - Is the [number of glass fragments]{style="color: blue;"} found on the ground affected by the velocity, shape and hardness of the bullet fired to break the window?
   
-  - Does the drinking container/beverage combination affect *the amount of DNA* left on the container?
+  - Does the drinking container/beverage combination affect [the amount of DNA]{style="color: blue;"} left on the container?
 
 
 ## The components of an experiment
 
 - **Treatment Factors:** the variables (or inputs) that can be directly varied by the experimenter (independent variables); sometimes referred to as treatments or factors
 
-  - Does *shot gun brand* affect pellet scatter pattern?
-  - Is the number of glass fragments found on the ground affected by *the velocity, shape and hardness of the bullet* fired to break the window?
-  - Does *the drinking container/beverage combination* affect the amount of DNA left on the container?
+  - Does [shot gun brand]{style="color: blue;"} affect pellet scatter pattern?
+  - Is the number of glass fragments found on the ground affected by [the velocity, shape and hardness of the bullet]{style="color: blue;"} fired to break the window?
+  - Does [the drinking container/beverage combination]{style="color: blue;"} affect the amount of DNA left on the container?
 
 - Each factor may have levels
 
@@ -111,9 +111,9 @@ document.addEventListener("DOMContentLoaded", function() {
 
 - **Experimental units:** the objects or subjects to which the treatments (changes in factor level, inputs, etc.) are applied, and from which measurements are made<br><br>
 
-  - Does shot gun brand affect pellet scatter pattern? [*Cardboard target*]{.fragment}
-  - Is the number of glass fragments found on the ground affected by the velocity, shape and hardness of the bullet fired to break the window? [*Pane of glass*]{.fragment}
-  - Does the drinking container/beverage combination affect the amount of DNA left on the container? [*Participant (a DNA contributor); container*]{.fragment}
+  - Does shot gun brand affect pellet scatter pattern? [[Cardboard target]{style="color: blue;"}]{.fragment}
+  - Is the number of glass fragments found on the ground affected by the velocity, shape and hardness of the bullet fired to break the window? [[Pane of glass]{style="color: blue;"}]{.fragment}
+  - Does the drinking container/beverage combination affect the amount of DNA left on the container? [[Participant (a DNA contributor); container]{style="color: blue;"}]{.fragment}
 
 ## The components of an experiment
 
