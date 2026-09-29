@@ -53,7 +53,7 @@
     "href": "Lectures/Lecture4_ModelsExperiments.html#the-components-of-an-experiment-5",
     "title": "Models and Experiments(empirical learning)",
     "section": "The components of an experiment",
-    "text": "The components of an experiment\n\nStructure (in experimental units): experimental units will likely not be homogenous, which could affect the results of the experiment\nIf consider well, this natural strucuture in experimental units can be leveraged to design more efficient experiments–reducing the number of experimental units needed and creating more accurate comparisons"
+    "text": "The components of an experiment\n\nStructure (in experimental units): experimental units will likely not be homogenous, which could affect the results of the experiment\nIf consider well, this natural structure in experimental units can be leveraged to design more efficient experiments–reducing the number of experimental units needed and creating more accurate comparisons"
   },
   {
     "objectID": "Lectures/Lecture4_ModelsExperiments.html#the-components-of-an-experiment-6",
@@ -74,7 +74,7 @@
     "href": "Lectures/Lecture4_ModelsExperiments.html#common-experimental-design-strategies",
     "title": "Models and Experiments(empirical learning)",
     "section": "Common Experimental Design strategies",
-    "text": "Common Experimental Design strategies\n\nA completely randomized design (CRD) is a design where the experimental units are considered homogenous (i.e., there is no block structure OR every unit is withint its own block). Treatments are applied to randomly selected experimental units.\nA randomized complete block design (RCBD) is a design that takes simple block structure into account, grouping experimental units into blocks so that there is less variability among members of the same block"
+    "text": "Common Experimental Design strategies\n\nA completely randomized design (CRD) is a design where the experimental units are considered homogenous (i.e., there is no block structure OR every unit is within its own block). Treatments are applied to randomly selected experimental units.\nA randomized complete block design (RCBD) is a design that takes simple block structure into account, grouping experimental units into blocks so that there is less variability among members of the same block"
   },
   {
     "objectID": "Lectures/Lecture4_ModelsExperiments.html#common-experimental-design-strategies-1",
@@ -88,7 +88,7 @@
     "href": "Lectures/Lecture4_ModelsExperiments.html#example-1-shotguns",
     "title": "Models and Experiments(empirical learning)",
     "section": "Example 1: Shotguns",
-    "text": "Example 1: Shotguns\n\nScenario: We have two different guns (Stevens and Remington). We want to know if there is a difference in pellet scatter patters due to brands. We have 60 cardboard targets (same brand, same batch) and can take shots from 5 different distances (10m, 20m, 30m, 40m, 50m). How might we proceed?\n\n\n\nQuestion: Is there a difference in scatter pattern between gun brands?\nResponse variable: scatter pattern (shape, max distance, some metric)\nFactors: Gun (2), distance (5)\nExperimental units: cardboard targets\nStructure: none\nDesign: Completely randomized design (2 guns x 5 spots x 6 replicates)"
+    "text": "Example 1: Shotguns\n\nScenario: We have two different guns (Stevens and Remington). We want to know if there is a difference in pellet scatter patterns due to brands. We have 60 cardboard targets (same brand, same batch) and can take shots from 5 different distances (10m, 20m, 30m, 40m, 50m). How might we proceed?\n\n\n\nQuestion: Is there a difference in scatter pattern between gun brands?\nResponse variable: scatter pattern (shape, max distance, some metric)\nFactors: Gun (2), distance (5)\nExperimental units: cardboard targets\nStructure: none\nDesign: Completely randomized design (2 guns x 5 spots x 6 replicates)"
   },
   {
     "objectID": "Lectures/Lecture4_ModelsExperiments.html#example-1-shotguns-1",
@@ -130,7 +130,7 @@
     "href": "Lectures/Lecture4_ModelsExperiments.html#models",
     "title": "Models and Experiments(empirical learning)",
     "section": "Models",
-    "text": "Models\n\nAbstraction: the process of removing characteristics from a system being studied in order to to better understand essential qualities \nModel: A simplified represetnation of a system being studied; the results of abstraction \nIf a model accurately describes the essential qualities of the system being studied, analysis of the model will provide useful insights about the underlying system"
+    "text": "Models\n\nAbstraction: the process of removing characteristics from a system being studied in order to to better understand essential qualities \nModel: A simplified representation of a system being studied; the results of abstraction \nIf a model accurately describes the essential qualities of the system being studied, analysis of the model will provide useful insights about the underlying system"
   },
   {
     "objectID": "Lectures/Lecture4_ModelsExperiments.html#physical-models",
