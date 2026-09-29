@@ -119,7 +119,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
 - **Structure (in experimental units):** experimental units will likely not be homogenous, which could affect the results of the experiment<br><br>
 
-- If consider well, this natural strucuture in experimental units can be leveraged to design more efficient experiments--reducing the number of experimental units needed and creating more accurate comparisons
+- If consider well, this natural structure in experimental units can be leveraged to design more efficient experiments--reducing the number of experimental units needed and creating more accurate comparisons
 
 ## The components of an experiment
 
@@ -136,7 +136,7 @@ document.addEventListener("DOMContentLoaded", function() {
   
 ## Common Experimental Design strategies
 
-- A **completely randomized design (CRD)** is a design where the experimental units are considered homogenous (i.e., there is no block structure OR every unit is withint its own block). Treatments are applied to randomly selected experimental units.<br><br>
+- A **completely randomized design (CRD)** is a design where the experimental units are considered homogenous (i.e., there is no block structure OR every unit is within its own block). Treatments are applied to randomly selected experimental units.<br><br>
 - A **randomized complete block design (RCBD)** is a design that takes simple block structure into account, grouping experimental units into blocks so that there is less variability among members of the same block
 
 ## Common Experimental Design strategies
@@ -147,7 +147,7 @@ document.addEventListener("DOMContentLoaded", function() {
 ## Example 1: Shotguns
 
 ::: {style="background-color: #E0E6ED;font-size: 0.8em; padding: 5px 25px; border-radius: 5px; border-left: 5px solid #006dae;"}
-**Scenario:** We have two different guns (Stevens and Remington). We want to know if there is a difference in pellet scatter patters due to brands. We have 60 cardboard targets (same brand, same batch) and can take shots from 5 different distances (10m, 20m, 30m, 40m, 50m). How *might* we proceed?
+**Scenario:** We have two different guns (Stevens and Remington). We want to know if there is a difference in pellet scatter patterns due to brands. We have 60 cardboard targets (same brand, same batch) and can take shots from 5 different distances (10m, 20m, 30m, 40m, 50m). How *might* we proceed?
 :::
 
 :::{style="font-size: 0.9em;"}
@@ -276,7 +276,7 @@ A **balanced incomplete block design (BIBD)** is a design to use when the number
 
 - **Abstraction:** the process of removing characteristics from a system being studied *in order to* to better understand essential qualities <br><br>
 
-- **Model**: A simplified represetnation of a system being studied; the results of abstraction <br><br>
+- **Model**: A simplified representation of a system being studied; the results of abstraction <br><br>
 
 - If a model accurately describes the essential qualities of the system being studied, analysis of the model will provide **useful insights** about the underlying system
 
