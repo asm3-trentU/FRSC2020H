@@ -166,17 +166,13 @@ Activity description is in MS Teams Folder
 
 # Open work time
 
-## Things you might work on
-
-::: {.nonincremental}
+::: {.notes}
 1. Lab Test 3
 1. MA1: Annotated Bibliography
 1. MA2: Research Proposal
 1. MA3: Data Presentation
 1. MA4: Article Critique
-:::
 
-::: {.notes}
 - Remind students that MA1 and MA4 are independent assignments, but that talking about what you're thinking about with peers is a good thing
 - Remind students that they can also work on their lecture content quizzes if they have one to do
 
