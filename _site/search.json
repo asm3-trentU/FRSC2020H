@@ -53,7 +53,7 @@
     "href": "Lectures/Lecture4_ModelsExperiments.html#the-components-of-an-experiment-5",
     "title": "Models and Experiments(empirical learning)",
     "section": "The components of an experiment",
-    "text": "The components of an experiment\n\nStructure (in experimental units): experimental units will likely not be homogenous, which could affect the results of the experiment\nIf consider well, this natural strucuture in experimental units can be leveraged to design more efficient experiments–reducing the number of experimental units needed and creating more accurate comparisons"
+    "text": "The components of an experiment\n\nStructure (in experimental units): experimental units will likely not be homogenous, which could affect the results of the experiment\nIf consider well, this natural structure in experimental units can be leveraged to design more efficient experiments–reducing the number of experimental units needed and creating more accurate comparisons"
   },
   {
     "objectID": "Lectures/Lecture4_ModelsExperiments.html#the-components-of-an-experiment-6",
@@ -74,7 +74,7 @@
     "href": "Lectures/Lecture4_ModelsExperiments.html#common-experimental-design-strategies",
     "title": "Models and Experiments(empirical learning)",
     "section": "Common Experimental Design strategies",
-    "text": "Common Experimental Design strategies\n\nA completely randomized design (CRD) is a design where the experimental units are considered homogenous (i.e., there is no block structure OR every unit is withint its own block). Treatments are applied to randomly selected experimental units.\nA randomized complete block design (RCBD) is a design that takes simple block structure into account, grouping experimental units into blocks so that there is less variability among members of the same block"
+    "text": "Common Experimental Design strategies\n\nA completely randomized design (CRD) is a design where the experimental units are considered homogenous (i.e., there is no block structure OR every unit is within its own block). Treatments are applied to randomly selected experimental units.\nA randomized complete block design (RCBD) is a design that takes simple block structure into account, grouping experimental units into blocks so that there is less variability among members of the same block"
   },
   {
     "objectID": "Lectures/Lecture4_ModelsExperiments.html#common-experimental-design-strategies-1",
@@ -88,7 +88,7 @@
     "href": "Lectures/Lecture4_ModelsExperiments.html#example-1-shotguns",
     "title": "Models and Experiments(empirical learning)",
     "section": "Example 1: Shotguns",
-    "text": "Example 1: Shotguns\n\nScenario: We have two different guns (Stevens and Remington). We want to know if there is a difference in pellet scatter patters due to brands. We have 60 cardboard targets (same brand, same batch) and can take shots from 5 different distances (10m, 20m, 30m, 40m, 50m). How might we proceed?\n\n\n\nQuestion: Is there a difference in scatter pattern between gun brands?\nResponse variable: scatter pattern (shape, max distance, some metric)\nFactors: Gun (2), distance (5)\nExperimental units: cardboard targets\nStructure: none\nDesign: Completely randomized design (2 guns x 5 spots x 6 replicates)"
+    "text": "Example 1: Shotguns\n\nScenario: We have two different guns (Stevens and Remington). We want to know if there is a difference in pellet scatter patterns due to brands. We have 60 cardboard targets (same brand, same batch) and can take shots from 5 different distances (10m, 20m, 30m, 40m, 50m). How might we proceed?\n\n\n\nQuestion: Is there a difference in scatter pattern between gun brands?\nResponse variable: scatter pattern (shape, max distance, some metric)\nFactors: Gun (2), distance (5)\nExperimental units: cardboard targets\nStructure: none\nDesign: Completely randomized design (2 guns x 5 spots x 6 replicates)"
   },
   {
     "objectID": "Lectures/Lecture4_ModelsExperiments.html#example-1-shotguns-1",
@@ -130,7 +130,7 @@
     "href": "Lectures/Lecture4_ModelsExperiments.html#models",
     "title": "Models and Experiments(empirical learning)",
     "section": "Models",
-    "text": "Models\n\nAbstraction: the process of removing characteristics from a system being studied in order to to better understand essential qualities \nModel: A simplified represetnation of a system being studied; the results of abstraction \nIf a model accurately describes the essential qualities of the system being studied, analysis of the model will provide useful insights about the underlying system"
+    "text": "Models\n\nAbstraction: the process of removing characteristics from a system being studied in order to to better understand essential qualities \nModel: A simplified representation of a system being studied; the results of abstraction \nIf a model accurately describes the essential qualities of the system being studied, analysis of the model will provide useful insights about the underlying system"
   },
   {
     "objectID": "Lectures/Lecture4_ModelsExperiments.html#physical-models",
@@ -690,7 +690,7 @@
     "href": "Labs/Lab3_DataAnalysis.html#things-you-might-work-on",
     "title": "Analyzing Quantitative and Qualitative Data",
     "section": "Things you might work on",
-    "text": "Things you might work on\n\nLab Test 1\nMA1: Annotated Bibliography\nMA4: Article Critique\nStart thinking about groups for MA2 and MA3 (if applicable)\n\n\n\nRemind students that MA1 and MA4 are independent assignments, but that talking about what you’re thinking about with peers is a good thing\nRemind students that they can also work on their lecture content quizzes if they have one to do"
+    "text": "Things you might work on\n\nLab Test 3\nMA1: Annotated Bibliography\nMA2: Research Proposal\nMA3: Data Presentation\nMA4: Article Critique\n\n\n\nRemind students that MA1 and MA4 are independent assignments, but that talking about what you’re thinking about with peers is a good thing\nRemind students that they can also work on their lecture content quizzes if they have one to do"
   },
   {
     "objectID": "Labs/Lab1_Reading.html#why-read-science",
@@ -1258,5 +1258,110 @@
     "title": "Critical thinking and data analysis",
     "section": "Things you might work on",
     "text": "Things you might work on\n\nLab Test 1\nMA1: Annotated Bibliography\nMA4: Article Critique\nStart thinking about groups for MA2 and MA3 (if applicable)\n\n\n\nRemind students that MA1 and MA4 are independent assignments, but that talking about what you’re thinking about with peers is a good thing\nRemind students that they can also work on their lecture content quizzes if they have one to do"
+  },
+  {
+    "objectID": "Labs/Lab3_DataAnalysis.html#what-is-data",
+    "href": "Labs/Lab3_DataAnalysis.html#what-is-data",
+    "title": "Analyzing Quantitative and Qualitative Data",
+    "section": "What is data",
+    "text": "What is data\n\nData are a collection of information that can be used to make inferences, draw conclusions and make decision \n\nStructure Data: has a well-defined organization which simplifies analysis\nUnstructured Data: does not have a well-defined organizational strategy, requires extra effort to analyze\n\nLiterature Reviews, Experiments (simulations), Surveys, Field-work can all be thought of as different methods of data generation"
+  },
+  {
+    "objectID": "Labs/Lab3_DataAnalysis.html#why-analyze-data",
+    "href": "Labs/Lab3_DataAnalysis.html#why-analyze-data",
+    "title": "Analyzing Quantitative and Qualitative Data",
+    "section": "Why analyze data",
+    "text": "Why analyze data\n\nImplicit Assumption:  Within the data, there exists knowledge\nBy formally analyzing data using recognized and validated approaches, we might\n\ndiscover/understand the potential knowledge that is encoded in our data\nadd credibility/justification to our arguments (i.e., our potential discovery/understanding)\nadd some objectivity to discovery"
+  },
+  {
+    "objectID": "Labs/Lab3_DataAnalysis.html#different-types-of-data",
+    "href": "Labs/Lab3_DataAnalysis.html#different-types-of-data",
+    "title": "Analyzing Quantitative and Qualitative Data",
+    "section": "Different types of data",
+    "text": "Different types of data\n\nQuantitative data: Measurements, numeric/scaled survey results, counts,…\n\nStatistics is a branch of mathematics interested in developing methods for quantitative data analysis\n\nQualitative data: Transcripts, field-notes, journals/books, open-ended survey results,…\n\nIn qualitative data analysis, (en)coding is the act of creating quantitative data representations based on qualitative data\nResulting coded data can be analyzed with traditional statistical tools"
+  },
+  {
+    "objectID": "Labs/Lab3_DataAnalysis.html#the-data-matrix",
+    "href": "Labs/Lab3_DataAnalysis.html#the-data-matrix",
+    "title": "Analyzing Quantitative and Qualitative Data",
+    "section": "The data matrix",
+    "text": "The data matrix\n Data matrix: a standard format for recording and organizing the properties (i.e., factors and response variables) of objects (i.e., experimental units) in a study"
+  },
+  {
+    "objectID": "Labs/Lab3_DataAnalysis.html#a-typical-data-analysis-work-flow",
+    "href": "Labs/Lab3_DataAnalysis.html#a-typical-data-analysis-work-flow",
+    "title": "Analyzing Quantitative and Qualitative Data",
+    "section": "A typical data analysis work flow",
+    "text": "A typical data analysis work flow\n\nClean/Structure: organize your data into a data matrix; identify errors, missing data, etc. \nVisualize: determine a strategy to view/show your data \nDescribe: extract/calculate some summary statistics and “metrics” that help explain the overall data \nDecide: use the data to make an inference (for example, conduct a hypothesis test), make a prediction (for example, build a model and extrapolate behaviour)"
+  },
+  {
+    "objectID": "Labs/Lab3_DataAnalysis.html#implicit-assumption",
+    "href": "Labs/Lab3_DataAnalysis.html#implicit-assumption",
+    "title": "Analyzing Quantitative and Qualitative Data",
+    "section": "Implicit Assumption",
+    "text": "Implicit Assumption\nWithin the data, there exists knowledge\n:::\n\nBy formally analyzing data using recognized and validated approaches, we might\n\ndiscover/understand the potential knowledge that is encoded in our data\nadd credibility/justification to our arguments (i.e., our potential discovery/understanding)\nadd some objectivity to discovery"
+  },
+  {
+    "objectID": "Labs/Lab3_DataAnalysis.html#section",
+    "href": "Labs/Lab3_DataAnalysis.html#section",
+    "title": "Analyzing Quantitative and Qualitative Data",
+    "section": "",
+    "text": "Observation\nTime Caught (hh:mm)\nBody Length (mm)\nWing Length (mm)\nWeight (mg)\nSpecies\n\n\n\n\n1\n0:11\n3.64\n2.53\n31\nPhormia regina\n\n\n2\n0:32\n3.67\n1.95\n23\nLucilla illustris\n\n\n3\n1:23\n7.90\n5.06\n44\nCalliphora vicina\n\n\n…\n…\n…\n\n\n\n\n\n\n\nData matrix: a standard format for recording and organizing the properties (i.e., factors and response variables) of objects (i.e., experimental units) in a study"
+  },
+  {
+    "objectID": "Labs/Lab3_DataAnalysis.html#section-1",
+    "href": "Labs/Lab3_DataAnalysis.html#section-1",
+    "title": "Analyzing Quantitative and Qualitative Data",
+    "section": "",
+    "text": "Observation\nTime Caught (hh:mm)\nBody Length (mm)\nWing Length (mm)\nWeight (mg)\nSpecies\n\n\n\n\n1\n0:11\n3.64\n2.53\n31\nPhormia regina\n\n\n2\n0:32\n3.67\n1.95\n23\nLucilla illustris\n\n\n3\n1:23\n7.90\n5.06\n44\nCalliphora vicina\n\n\n…\n…\n…\n\n\n\n\n\n\n\nNominal data: data that can be categorized in discrete categories when order of category has no meaning\n\n-highlight species"
+  },
+  {
+    "objectID": "Labs/Lab3_DataAnalysis.html#section-2",
+    "href": "Labs/Lab3_DataAnalysis.html#section-2",
+    "title": "Analyzing Quantitative and Qualitative Data",
+    "section": "",
+    "text": "Observation\nTime Caught (hh:mm)\nBody Length (mm)\nWing Length (mm)\nWeight (mg)\nSpecies\n\n\n\n\n1\n0:11\n3.64\n2.53\n31\nPhormia regina\n\n\n2\n0:32\n3.67\n1.95\n23\nLucilla illustris\n\n\n3\n1:23\n7.90\n5.06\n44\nCalliphora vicina\n\n\n…\n…\n…\n\n\n\n\n\n\n\nOrdinal data: data that can be categorized in discrete categories when order of category means something\n\n-highlight weight"
+  },
+  {
+    "objectID": "Labs/Lab3_DataAnalysis.html#section-3",
+    "href": "Labs/Lab3_DataAnalysis.html#section-3",
+    "title": "Analyzing Quantitative and Qualitative Data",
+    "section": "",
+    "text": "Observation\nTime Caught (hh:mm)\nBody Length (mm)\nWing Length (mm)\nWeight (mg)\nSpecies\n\n\n\n\n1\n0:11\n3.64\n2.53\n31\nPhormia regina\n\n\n2\n0:32\n3.67\n1.95\n23\nLucilla illustris\n\n\n3\n1:23\n7.90\n5.06\n44\nCalliphora vicina\n\n\n…\n…\n…\n\n\n\n\n\n\n\nContinuous data: data that can take on any value within a range\n\n\nhighlight other measurements"
+  },
+  {
+    "objectID": "Labs/Lab3_DataAnalysis.html#an-introduction-to-microsoft-excel",
+    "href": "Labs/Lab3_DataAnalysis.html#an-introduction-to-microsoft-excel",
+    "title": "Analyzing Quantitative and Qualitative Data",
+    "section": "An introduction to Microsoft Excel",
+    "text": "An introduction to Microsoft Excel\n\nMS Excel is a spreadsheet management software tool\n\nSpreadsheets existed well before modern computers. They were literally large sheets of paper divided into rows and columns made of “cells”\nModern software spreadsheets are powerful because cells can be updated dynamically through formulas using cell references; allows users to make fairly complex models to see how one input can change several outputs\n\nMS Excel has several built-in functions that make data analysis convenient, including tools for visualization, description and decision-making\n\n\n\nOpen up the entomology data set\nshow student how to look at column names, create data filters (use filters of species)\nshow students how to copy the outputs from a filter to another column and compute an average, standard deviation\nshow students how to create a new processed value (size_score=body*width^2+weight)\nshow students how to use averageif function\ntell them will look at some t-tests and the like during lecture module 6"
+  },
+  {
+    "objectID": "Labs/Lab3_DataAnalysis.html#an-introduction-to-rrstudio",
+    "href": "Labs/Lab3_DataAnalysis.html#an-introduction-to-rrstudio",
+    "title": "Analyzing Quantitative and Qualitative Data",
+    "section": "An introduction to R/Rstudio",
+    "text": "An introduction to R/Rstudio\n\nR is a programming language\n\nFirst appeared in 1993\nThe language grows continuously as developers create new or improve existing functions (and other reusable packets of code) over time\nThe language has several functions that make data analysis convenient, including functions for visualization, description and decision-making\nCurrently at R version 4.6.1 (released June 2026)\n\nRStudio is a software tool that makes editing and working with R code easier\n\nYou can’t run RStudio without the R programming language installed on your computer\n\n\n\n\nOpen up the entomology data set\nshow student how to look at column names, create data filters (use filters of species)\nshow students how to copy the outputs from a filter to another column and compute an average, standard deviation\nshow students how to create a new processed value (size_score=body*width^2+weight)\nshow students how to use averageif function\ntell them will look at some t-tests and the like during lecture module 6"
+  },
+  {
+    "objectID": "Labs/Lab3_DataAnalysis.html#thoughts-on-code-vs-spreadsheets",
+    "href": "Labs/Lab3_DataAnalysis.html#thoughts-on-code-vs-spreadsheets",
+    "title": "Analyzing Quantitative and Qualitative Data",
+    "section": "Thoughts on Code vs Spreadsheets",
+    "text": "Thoughts on Code vs Spreadsheets\n\nYou can accomplish simple (and sophisticated analysis) using codes and spreadsheets\nCode becomes preferable as data sets becomes larger (spreadsheets use A LOT of memory)\nCode is preferable for portability (i.e., it’s easy to share code with other people) and re-analysis (i.e., you can re-use the same code with new data really easily)\nCode is preferable when doing complex statistical analysis"
+  },
+  {
+    "objectID": "Labs/Lab3_DataAnalysis.html#different-types-of-quantitative-data",
+    "href": "Labs/Lab3_DataAnalysis.html#different-types-of-quantitative-data",
+    "title": "Analyzing Quantitative and Qualitative Data",
+    "section": "Different types of quantitative data",
+    "text": "Different types of quantitative data\n\nData matrix: a standard format for recording and organizing the properties (i.e., factors and response variables) of objects (i.e., experimental units) in a study\nNominal data: data that can be categorized in discrete categories when order of category has no meaning\nOrdinal data: data that can be categorized in discrete categories when order of category means something\nContinuous data: data that can take on any value within a range"
+  },
+  {
+    "objectID": "Labs/Lab3_DataAnalysis.html#example-data-matrix",
+    "href": "Labs/Lab3_DataAnalysis.html#example-data-matrix",
+    "title": "Analyzing Quantitative and Qualitative Data",
+    "section": "Example data matrix",
+    "text": "Example data matrix\n\n\n\n\n\n\n\n\n\n\n\n\n\nObservation\nTime Caught (hh:mm)\nBody Length (mm)\nWing Length (mm)\nWeight (mg)\nSpecies\n\n\n\n\n1\n0:11\n3.64\n2.53\n31\nPhormia regina\n\n\n2\n0:32\n3.67\n1.95\n23\nLucilla illustris\n\n\n3\n1:23\n7.90\n5.06\n44\nCalliphora vicina\n\n\n…\n…\n…\n\n\n\n\n\n\n\n\n\nhighlight species as nominal data\nhighlight measurements as continuous numeric data\nnot that you can usual create “bins” of nominal data from continuous data, e.g., morning or afternoon"
   }
 ]

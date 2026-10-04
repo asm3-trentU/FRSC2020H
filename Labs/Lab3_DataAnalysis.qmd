@@ -18,20 +18,15 @@ execute:
   message: false
 ---
 
+## What is data
 
-## Why read science?
-
-- Traditionally, scientific knowledge is shared through written documents. 
-
-- We read science to 
-  - identify and verify knowledge that can be used in professional work and decision-making
-  - identify and verify *techniques and methods* that we can use; develop *new questions* based on the findings of the authors
-  - be entertained and feed our curiousity 
-
+- Data are a collection of information that can be used to make inferences, draw conclusions and make decision <br><br>
+    - **Structure Data**: has a *well-defined* organization which simplifies analysis<br><br>
+    - **Unstructured Data**: does not have a well-defined organizational strategy, requires extra effort to analyze<br><br> 
+- Literature Reviews, Experiments (simulations), Surveys, Field-work can all be thought of as different methods of data generation
 
 ::: {.notes}
- - mention that this lab presentation re-iterates some of the content that will be included in lecture module 2; mention that we'll be talking about different types of scientific documents in lecture module 3; mention that we'll be working through creating some written documents throughout this course
- - highlight that the subpoints are linking to "Information Gathering", "Finding Inspiration" and "Being entertainment/a sense of wonder" from lecture module 2
+
 :::
 
 <script>
@@ -57,74 +52,111 @@ document.addEventListener("DOMContentLoaded", function() {
 </script>
 
 
-## Why is reading science hard?
+## Why analyze data
 
-- Everything is new to the reader
-- Everything is new to the author
-- Everything moves quickly / People don't have a lot of time 
+- **Implicit Assumption: ** *Within the data, there exists knowledge*<br><br>
 
-::: {.fragment .center}
-**Taking your time and learning how to read science is a super power!**
-:::
-
-::: {.notes}
-
-- explain that usually, as a reader, you are reading papers or technical notes or even books in a research area that you are new to. so you may not be familiar with some of the concepts, foundational theories, or even writing practices of the field (some areas have "predictable" syntax, notation, etc.)
-
-- explain a subtle but important fact--many scientific publications are the first time the author is explaning something (especially true for journal articles). Authors might understand their results perfectly, but still are figuring out best ways to share the ideas. 
-
-- explain these two challenges are linked to a societal challenge: science and life **appear** to move quickly. Authors do not take as much time to think about what they want to share, they may not edit as carefully as they like. Readers *don't have the time* to learn foundations of a research area, don't try very hard to **engage** if they don't understand the article the first-time they read it
-
-
-- emphasize that building quality reading skills takes time and practice.. it's more than just reading the words, its trying to appreciate and understand what the author is trying to say. Also emphasize that being "slow" now as a student is a good thing--better to be slow now and learn the skills well
-:::
-
-
-
-## Building a reading strategy
-- getting better at reading takes time and requires practice
-- it also helps to have a strategy
-- Choose the elements of your strategy:
-  - content: what do you want to get better at reading?
-  - frequency: how often are you going to read?
-  - tracking: how are you going to track your reading/progress?
-  - community: who will you talk about your readings with?
+- By *formally analyzing* data using recognized and validated approaches, we might
+    - discover/understand the potential knowledge that is encoded in our data
+    - add credibility/justification to our arguments (i.e., our potential discovery/understanding)
+    - add some *objectivity* to discovery
 
 ::: {.notes}
 
 
 :::
 
-## Building a reading log
+## Different types of data
 
-::: {.notes}
+- **Quantitative data:** Measurements, numeric/scaled survey results, counts,...
+    - Statistics is a branch of mathematics interested in developing methods for quantitative data analysis<br><br>
 
+- **Qualitative data**: Transcripts, field-notes, journals/books, open-ended survey results,...
+    - In qualitative data analysis, *(en)coding* is the act of creating quantitative data representations based on qualitative data
+    - Resulting coded data can be analyzed with traditional statistical tools
 
+## Different types of quantitative data
+
+- **Data matrix:** a standard format for recording and organizing the properties (i.e., factors and response variables) of objects (i.e., experimental units) in a study<br><br>
+
+- **Nominal data:** data that can be categorized in discrete categories when order of category has no meaning<br><br>
+
+- **Ordinal data:** data that can be categorized in discrete categories when order of category means something<br><br>
+
+- **Continuous data:** data that can take on any value within a range<br><br>
+
+## Example data matrix
+<br>
+
+:::{style="font-size:0.8em"}
+| Observation | Time Caught (hh:mm) | Body Length (mm) | Wing Length (mm) | Weight (mg) | Species |
+|--:|-----:|--:|--:|--:|--:|
+| 1 | 0:11 | 3.64 | 2.53 | 31 | Phormia regina
+| 2 | 0:32 | 3.67 | 1.95| 23 | Lucilla illustris
+| 3 | 1:23 | 7.90 | 5.06 | 44 | Calliphora vicina
+|...|...|...|
 :::
 
 
-## Building an annotated bibliography
-
 ::: {.notes}
-
-
+- highlight species as nominal data
+- highlight measurements as continuous numeric data
+- not that you can usual create "bins" of nominal data from continuous data, e.g., morning or afternoon
 :::
 
+## A typical data analysis work flow
 
-## Learning a reference manager
+- **Clean/Structure**: organize your data into a data matrix; identify errors, missing data, etc. <br><br>
 
+- **Visualize**: determine a strategy to view/show your data <br><br>
+  
+- **Describe**: extract/calculate some summary statistics and "metrics" that help explain the overall data <br><br>
+
+- **Decide**: use the data to make an inference (for example, conduct a hypothesis test), make a prediction (for example, build a model and extrapolate behaviour)<br>
+
+
+## An introduction to Microsoft Excel
+
+- MS Excel is a spreadsheet management software tool 
+    - Spreadsheets existed well before modern computers. They were literally large sheets of paper divided into rows and columns made of “cells”
+    - Modern software spreadsheets are powerful because cells can be updated dynamically through formulas using cell references; allows users to make fairly complex models to see how one input can change several outputs<br><br>
+- MS Excel has several built-in functions that make data analysis convenient, including tools for visualization, description and decision-making
 
 ::: {.notes}
-
-
+- Open up the entomology data set
+- show student how to look at column names, create data filters (use filters of species) 
+- show students how to copy the outputs from a filter to another column and compute an average, standard deviation
+- show students how to create a new processed value (size_score=body*width^2+weight)
+- show students how to use averageif function
+- tell them will look at some t-tests and the like during lecture module 6
 :::
 
-## Zotero
+## An introduction to R/Rstudio
+
+- R is a programming language
+    - First appeared in 1993
+    - The language grows continuously as developers create new or improve existing functions (and other reusable packets of code) over time
+    - The language has several functions that make data analysis convenient, including
+    functions for visualization, description and decision-making
+    - Currently at R version 4.6.1 (released June 2026)<br><br>
+    
+- RStudio is a software tool that makes editing and working with R code easier
 
 ::: {.notes}
-
-
+- Open up the entomology data set
+- show student how to look at column names, create data filters (use filters of species) 
+- show students how to copy the outputs from a filter to another column and compute an average, standard deviation
+- show students how to create a new processed value (size_score=body*width^2+weight)
+- show students how to use averageif function
+- tell them will look at some t-tests and the like during lecture module 6
 :::
+
+## Thoughts on Code vs Spreadsheets
+
+- You can accomplish simple (and sophisticated analysis) using codes and spreadsheets
+- Code becomes preferable as data sets becomes larger (spreadsheets use A LOT of memory)
+- Code is preferable for *portability* (i.e., it's easy to share code with other people) and *re-analysis* (i.e., you can re-use the same code with new data really easily)
+- Code is preferable when doing complex statistical analysis
 
 # Activity
 
@@ -137,10 +169,11 @@ Activity description is in MS Teams Folder
 ## Things you might work on
 
 ::: {.nonincremental}
-1. Lab Test 1
+1. Lab Test 3
 1. MA1: Annotated Bibliography
+1. MA2: Research Proposal
+1. MA3: Data Presentation
 1. MA4: Article Critique
-1. Start thinking about groups for MA2 and MA3 (if applicable)
 :::
 
 ::: {.notes}
