@@ -18,10 +18,10 @@ execute:
   message: false
 ---
 
-## What is data
+## What are data?
 
 - Data are a collection of information that can be used to make inferences, draw conclusions and make decision <br><br>
-    - **Structure Data**: has a *well-defined* organization which simplifies analysis<br><br>
+    - **Structured Data**: has a *well-defined* organization which simplifies analysis<br><br>
     - **Unstructured Data**: does not have a well-defined organizational strategy, requires extra effort to analyze<br><br> 
 - Literature Reviews, Experiments (simulations), Surveys, Field-work can all be thought of as different methods of data generation
 
@@ -52,7 +52,7 @@ document.addEventListener("DOMContentLoaded", function() {
 </script>
 
 
-## Why analyze data
+## Why analyze data?
 
 - **Implicit Assumption: ** *Within the data, there exists knowledge*<br><br>
 
@@ -66,12 +66,12 @@ document.addEventListener("DOMContentLoaded", function() {
 
 :::
 
-## Different types of data
+## Different types of data analysis
 
-- **Quantitative data:** Measurements, numeric/scaled survey results, counts,...
+- **Quantitative data analysis:** Measurements, numeric/scaled survey results, counts,...
     - Statistics is a branch of mathematics interested in developing methods for quantitative data analysis<br><br>
 
-- **Qualitative data**: Transcripts, field-notes, journals/books, open-ended survey results,...
+- **Qualitative data analysis**: Transcripts, field-notes, journals/books, open-ended survey results,...
     - In qualitative data analysis, *(en)coding* is the act of creating quantitative data representations based on qualitative data
     - Resulting coded data can be analyzed with traditional statistical tools
 
