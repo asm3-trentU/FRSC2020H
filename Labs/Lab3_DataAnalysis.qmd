@@ -153,10 +153,10 @@ document.addEventListener("DOMContentLoaded", function() {
 
 ## Thoughts on Code vs Spreadsheets
 
-- You can accomplish simple (and sophisticated analysis) using codes and spreadsheets
-- Code becomes preferable as data sets becomes larger (spreadsheets use A LOT of memory)
-- Code is preferable for *portability* (i.e., it's easy to share code with other people) and *re-analysis* (i.e., you can re-use the same code with new data really easily)
-- Code is preferable when doing complex statistical analysis
+- You can accomplish simple (and sophisticated analysis) using codes and spreadsheets<br><br>
+- Code becomes preferable as data sets becomes larger (spreadsheets use A LOT of memory)<br><br>
+- Code is preferable for *portability* (i.e., it's easy to share code with other people) and *re-analysis* (i.e., you can re-use the same code with new data really easily)<br><br>
+- Code is preferable when doing complex statistical analysis<br><br>
 
 # Activity
 
