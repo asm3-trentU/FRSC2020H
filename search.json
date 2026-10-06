@@ -637,25 +637,25 @@
     "text": "Things you might work on\n\nLab Test 1\nMA1: Annotated Bibliography\nMA4: Article Critique\nStart thinking about groups for MA2 and MA3 (if applicable)\n\n\n\nRemind students that MA1 and MA4 are independent assignments, but that talking about what you’re thinking about with peers is a good thing\nRemind students that they can also work on their lecture content quizzes if they have one to do"
   },
   {
-    "objectID": "Labs/Lab3_DataAnalysis.html#what-is-data",
-    "href": "Labs/Lab3_DataAnalysis.html#what-is-data",
+    "objectID": "Labs/Lab3_DataAnalysis.html#what-are-data",
+    "href": "Labs/Lab3_DataAnalysis.html#what-are-data",
     "title": "Analyzing Quantitative and Qualitative Data",
-    "section": "What is data",
-    "text": "What is data\n\nData are a collection of information that can be used to make inferences, draw conclusions and make decision \n\nStructure Data: has a well-defined organization which simplifies analysis\nUnstructured Data: does not have a well-defined organizational strategy, requires extra effort to analyze\n\nLiterature Reviews, Experiments (simulations), Surveys, Field-work can all be thought of as different methods of data generation"
+    "section": "What are data?",
+    "text": "What are data?\n\nData are a collection of information that can be used to make inferences, draw conclusions and make decision \n\nStructured Data: has a well-defined organization which simplifies analysis\nUnstructured Data: does not have a well-defined organizational strategy, requires extra effort to analyze\n\nLiterature Reviews, Experiments (simulations), Surveys, Field-work can all be thought of as different methods of data generation"
   },
   {
     "objectID": "Labs/Lab3_DataAnalysis.html#why-analyze-data",
     "href": "Labs/Lab3_DataAnalysis.html#why-analyze-data",
     "title": "Analyzing Quantitative and Qualitative Data",
-    "section": "Why analyze data",
-    "text": "Why analyze data\n\nImplicit Assumption:  Within the data, there exists knowledge\nBy formally analyzing data using recognized and validated approaches, we might\n\ndiscover/understand the potential knowledge that is encoded in our data\nadd credibility/justification to our arguments (i.e., our potential discovery/understanding)\nadd some objectivity to discovery"
+    "section": "Why analyze data?",
+    "text": "Why analyze data?\n\nImplicit Assumption:  Within the data, there exists knowledge\nBy formally analyzing data using recognized and validated approaches, we might\n\ndiscover/understand the potential knowledge that is encoded in our data\nadd credibility/justification to our arguments (i.e., our potential discovery/understanding)\nadd some objectivity to discovery"
   },
   {
-    "objectID": "Labs/Lab3_DataAnalysis.html#different-types-of-data",
-    "href": "Labs/Lab3_DataAnalysis.html#different-types-of-data",
+    "objectID": "Labs/Lab3_DataAnalysis.html#different-types-of-data-analysis",
+    "href": "Labs/Lab3_DataAnalysis.html#different-types-of-data-analysis",
     "title": "Analyzing Quantitative and Qualitative Data",
-    "section": "Different types of data",
-    "text": "Different types of data\n\nQuantitative data: Measurements, numeric/scaled survey results, counts,…\n\nStatistics is a branch of mathematics interested in developing methods for quantitative data analysis\n\nQualitative data: Transcripts, field-notes, journals/books, open-ended survey results,…\n\nIn qualitative data analysis, (en)coding is the act of creating quantitative data representations based on qualitative data\nResulting coded data can be analyzed with traditional statistical tools"
+    "section": "Different types of data analysis",
+    "text": "Different types of data analysis\n\nQuantitative data analysis: Measurements, numeric/scaled survey results, counts,…\n\nStatistics is a branch of mathematics interested in developing methods for quantitative data analysis\n\nQualitative data analysis: Transcripts, field-notes, journals/books, open-ended survey results,…\n\nIn qualitative data analysis, (en)coding is the act of creating quantitative data representations based on qualitative data\nResulting coded data can be analyzed with traditional statistical tools"
   },
   {
     "objectID": "Labs/Lab3_DataAnalysis.html#different-types-of-quantitative-data",
