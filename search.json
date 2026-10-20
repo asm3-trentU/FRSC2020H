@@ -581,60 +581,53 @@
     "text": "Labs\n\n1: Reading Science\n2: Preparing “flat” documents\n3: Analyzing quantitative and qualitative data\n4: Creating multimedia presentations"
   },
   {
-    "objectID": "Labs/Lab4_Multimedia.html#why-read-science",
-    "href": "Labs/Lab4_Multimedia.html#why-read-science",
+    "objectID": "Labs/Lab4_Multimedia.html#what-is-a-multimedia-presentation",
+    "href": "Labs/Lab4_Multimedia.html#what-is-a-multimedia-presentation",
     "title": "Preparing multimedia presentations",
-    "section": "Why read science?",
-    "text": "Why read science?\n\nTraditionally, scientific knowledge is shared through written documents.\nWe read science to\n\nidentify and verify knowledge that can be used in professional work and decision-making\nidentify and verify techniques and methods that we can use; develop new questions based on the findings of the authors\nbe entertained and feed our curiousity\n\n\n\n\nmention that this lab presentation re-iterates some of the content that will be included in lecture module 2; mention that we’ll be talking about different types of scientific documents in lecture module 3; mention that we’ll be working through creating some written documents throughout this course\nhighlight that the subpoints are linking to “Information Gathering”, “Finding Inspiration” and “Being entertainment/a sense of wonder” from lecture module 2"
+    "section": "What is a multimedia presentation?",
+    "text": "What is a multimedia presentation?\n\nIn the context of this class (and most science) we use the term “multimedia” to describe dissemination that is not flat (i.e., not intended to be read from start-to-finish)\n\nmight involve a narrator\nmight involve interactivity\nmight involve animations \n\nThe future of scientific dissemination?"
   },
   {
-    "objectID": "Labs/Lab4_Multimedia.html#why-is-reading-science-hard",
-    "href": "Labs/Lab4_Multimedia.html#why-is-reading-science-hard",
+    "objectID": "Labs/Lab4_Multimedia.html#some-example-dissemination-tools",
+    "href": "Labs/Lab4_Multimedia.html#some-example-dissemination-tools",
     "title": "Preparing multimedia presentations",
-    "section": "Why is reading science hard?",
-    "text": "Why is reading science hard?\n\nEverything is new to the reader\nEverything is new to the author\nEverything moves quickly / People don’t have a lot of time\n\n\nTaking your time and learning how to read science is a super power!\n\n\n\nexplain that usually, as a reader, you are reading papers or technical notes or even books in a research area that you are new to. so you may not be familiar with some of the concepts, foundational theories, or even writing practices of the field (some areas have “predictable” syntax, notation, etc.)\nexplain a subtle but important fact–many scientific publications are the first time the author is explaning something (especially true for journal articles). Authors might understand their results perfectly, but still are figuring out best ways to share the ideas.\nexplain these two challenges are linked to a societal challenge: science and life appear to move quickly. Authors do not take as much time to think about what they want to share, they may not edit as carefully as they like. Readers don’t have the time to learn foundations of a research area, don’t try very hard to engage if they don’t understand the article the first-time they read it\nemphasize that building quality reading skills takes time and practice.. it’s more than just reading the words, its trying to appreciate and understand what the author is trying to say. Also emphasize that being “slow” now as a student is a good thing–better to be slow now and learn the skills well"
+    "section": "Some example dissemination tools",
+    "text": "Some example dissemination tools\n\n“Chalk Talk”\nSlide Deck\n\nPowerPoint, Canva, Markdown\n\nLive Demonstrations\nVideo Presentations\n\nScreen recordings\nExplainer videos / cartoons\n\nPodcast and audio recordings"
   },
   {
-    "objectID": "Labs/Lab4_Multimedia.html#building-a-reading-strategy",
-    "href": "Labs/Lab4_Multimedia.html#building-a-reading-strategy",
+    "objectID": "Labs/Lab4_Multimedia.html#what-type-of-presentation-should-you-make",
+    "href": "Labs/Lab4_Multimedia.html#what-type-of-presentation-should-you-make",
     "title": "Preparing multimedia presentations",
-    "section": "Building a reading strategy",
-    "text": "Building a reading strategy\n\ngetting better at reading takes time and requires practice\nit also helps to have a strategy\nChoose the elements of your strategy:\n\ncontent: what do you want to get better at reading?\nfrequency: how often are you going to read?\ntracking: how are you going to track your reading/progress?\ncommunity: who will you talk about your readings with?"
+    "section": "What type of presentation should you make?",
+    "text": "What type of presentation should you make?\n\nDepends\n\nPresentation-style\n\nLive or asynchronous? Collaborative?\n\nResources\n\nIs there a projector? is there a chalkboard?\n\nContent\n\ntechnical, visual/symbolic, chronological story\n\nAudience\n\nnovice to expert"
   },
   {
-    "objectID": "Labs/Lab4_Multimedia.html#building-a-reading-log",
-    "href": "Labs/Lab4_Multimedia.html#building-a-reading-log",
+    "objectID": "Labs/Lab4_Multimedia.html#getting-started-with-ms-powerpoint",
+    "href": "Labs/Lab4_Multimedia.html#getting-started-with-ms-powerpoint",
     "title": "Preparing multimedia presentations",
-    "section": "Building a reading log",
-    "text": "Building a reading log"
+    "section": "Getting started with MS PowerPoint",
+    "text": "Getting started with MS PowerPoint\n\nThrough the university, you have a Microsoft account and can use Microsoft Office 365 products for free\n\nYou can download the app at no additional cost through the Microsoft Student Advantage program (if you have a Windows or Mac computer)\nYou can use the app on ANY campus computer\n\nLive Demo: Creating a basic presentation in MS PowerPoint\n\n\n\nshow layouts, inserting new slides, animations, all on the data presentation slide deck\nshow presentation recording\nshow transitions using lecture slide 5"
   },
   {
-    "objectID": "Labs/Lab4_Multimedia.html#building-an-annotated-bibliography",
-    "href": "Labs/Lab4_Multimedia.html#building-an-annotated-bibliography",
+    "objectID": "Labs/Lab4_Multimedia.html#getting-started-with-quarto",
+    "href": "Labs/Lab4_Multimedia.html#getting-started-with-quarto",
     "title": "Preparing multimedia presentations",
-    "section": "Building an annotated bibliography",
-    "text": "Building an annotated bibliography"
+    "section": "Getting started with Quarto",
+    "text": "Getting started with Quarto\n\nQuarto is a markdown-variant that allows you to create pdf and html presentations, especially useful if you are trying to integrate source code in your presentation\nUses text-based tags that create a new “slide”, lists, add figures and links \nEasy to create Quarto presentations in RStudio\nLive Demo: Creating a basic presentation with RStudio using Quarto markdown syntax\n\n\n\nshow creating a new presentation from scratch in R studio\nshow Lab4_multimedia.qmd presentation"
   },
   {
-    "objectID": "Labs/Lab4_Multimedia.html#learning-a-reference-manager",
-    "href": "Labs/Lab4_Multimedia.html#learning-a-reference-manager",
+    "objectID": "Labs/Lab4_Multimedia.html#screen-recording",
+    "href": "Labs/Lab4_Multimedia.html#screen-recording",
     "title": "Preparing multimedia presentations",
-    "section": "Learning a reference manager",
-    "text": "Learning a reference manager"
+    "section": "Screen recording",
+    "text": "Screen recording\n\nPragmatic to record your whole screen, allowing you to use any presentation software you like (e.g., Canva, HTML) and have flexibility with your demonstrations\nSeveral tools for recording screen:\n\nVideo conferencing tool (e.g., Zoom, MS Teams)\nClipchamp is a Microsoft365 product that supports short recordings (&lt; 10 minutes)\nOBS Studio\n\n\n\n\nshow recording a screen with clipchamp\nshow my set up with OBS"
   },
   {
-    "objectID": "Labs/Lab4_Multimedia.html#zotero",
-    "href": "Labs/Lab4_Multimedia.html#zotero",
+    "objectID": "Labs/Lab4_Multimedia.html#sharing-videos",
+    "href": "Labs/Lab4_Multimedia.html#sharing-videos",
     "title": "Preparing multimedia presentations",
-    "section": "Zotero",
-    "text": "Zotero"
-  },
-  {
-    "objectID": "Labs/Lab4_Multimedia.html#things-you-might-work-on",
-    "href": "Labs/Lab4_Multimedia.html#things-you-might-work-on",
-    "title": "Preparing multimedia presentations",
-    "section": "Things you might work on",
-    "text": "Things you might work on\n\nLab Test 1\nMA1: Annotated Bibliography\nMA4: Article Critique\nStart thinking about groups for MA2 and MA3 (if applicable)\n\n\n\nRemind students that MA1 and MA4 are independent assignments, but that talking about what you’re thinking about with peers is a good thing\nRemind students that they can also work on their lecture content quizzes if they have one to do"
+    "section": "Sharing Videos",
+    "text": "Sharing Videos\n\nMultimedia presentations can be very large files; hard to distribute through email and Blackboard\nCan leverage cloud storage services to share the link to a multimedia file that is stored in your cloud\n\nKey is to make sure you set correct permissions so your audience can access your file\n\nIn this class, I recommend you export your data presentation (MA3) as an mp4 video files and upload them to your One Drive; share a link to your video presentation in your submission on Blackboard\n\n\n\nshow uploading a video to OneDrive or changing permissions of link in OneDrive"
   },
   {
     "objectID": "Labs/Lab3_DataAnalysis.html#what-are-data",
