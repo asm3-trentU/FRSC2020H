@@ -19,23 +19,15 @@ execute:
   message: false
 ---
 
+## What is a multimedia presentation?
 
+- In the context of this class (and most science) we use the term "multimedia" to describe dissemination that is **not** flat (i.e., not intended to be read from start-to-finish)
+    - might involve a narrator
+    - might involve interactivity
+    - might involve animations <br><br>
+    
+- The future of scientific dissemination?
 
-
-## Why read science?
-
-- Traditionally, scientific knowledge is shared through written documents. 
-
-- We read science to 
-  - identify and verify knowledge that can be used in professional work and decision-making
-  - identify and verify *techniques and methods* that we can use; develop *new questions* based on the findings of the authors
-  - be entertained and feed our curiousity 
-
-
-::: {.notes}
- - mention that this lab presentation re-iterates some of the content that will be included in lecture module 2; mention that we'll be talking about different types of scientific documents in lecture module 3; mention that we'll be working through creating some written documents throughout this course
- - highlight that the subpoints are linking to "Information Gathering", "Finding Inspiration" and "Being entertainment/a sense of wonder" from lecture module 2
-:::
 
 <script>
 document.addEventListener("DOMContentLoaded", function() {
@@ -59,73 +51,83 @@ document.addEventListener("DOMContentLoaded", function() {
 });
 </script>
 
-## Why is reading science hard?
+## Some example dissemination tools
 
-- Everything is new to the reader
-- Everything is new to the author
-- Everything moves quickly / People don't have a lot of time 
+1. "Chalk Talk"
+2. Slide Deck 
+    - PowerPoint, Canva, Markdown
+3. Live Demonstrations
+4. Video Presentations
+    - Screen recordings
+    - Explainer videos / cartoons
+5. Podcast and audio recordings
 
-::: {.fragment .center}
-**Taking your time and learning how to read science is a super power!**
-:::
+## What type of presentation should you make?
 
-::: {.notes}
+- Depends
+    - Presentation-style
+        - Live or asynchronous? Collaborative?
+    - Resources
+        - Is there a projector? is there a chalkboard?
+    - Content
+        - technical, visual/symbolic, chronological story
+    - Audience
+        - novice to expert
 
-- explain that usually, as a reader, you are reading papers or technical notes or even books in a research area that you are new to. so you may not be familiar with some of the concepts, foundational theories, or even writing practices of the field (some areas have "predictable" syntax, notation, etc.)
+## Getting started with MS PowerPoint
 
-- explain a subtle but important fact--many scientific publications are the first time the author is explaning something (especially true for journal articles). Authors might understand their results perfectly, but still are figuring out best ways to share the ideas. 
-
-- explain these two challenges are linked to a societal challenge: science and life **appear** to move quickly. Authors do not take as much time to think about what they want to share, they may not edit as carefully as they like. Readers *don't have the time* to learn foundations of a research area, don't try very hard to **engage** if they don't understand the article the first-time they read it
-
-
-- emphasize that building quality reading skills takes time and practice.. it's more than just reading the words, its trying to appreciate and understand what the author is trying to say. Also emphasize that being "slow" now as a student is a good thing--better to be slow now and learn the skills well
-:::
-
-
-
-## Building a reading strategy
-- getting better at reading takes time and requires practice
-- it also helps to have a strategy
-- Choose the elements of your strategy:
-  - content: what do you want to get better at reading?
-  - frequency: how often are you going to read?
-  - tracking: how are you going to track your reading/progress?
-  - community: who will you talk about your readings with?
+- Through the university, you have a Microsoft account and can use Microsoft Office 365 products for free
+    - You can download the app at no additional cost through the *Microsoft Student Advantage* program (if you have a Windows or Mac computer)
+    - You can use the app on ANY campus computer<br><br>
+    
+- **Live Demo:** Creating a basic presentation in MS PowerPoint
 
 ::: {.notes}
-
-
+- show layouts, inserting new slides, animations, all on the data presentation slide deck
+- show presentation recording
+- show transitions using lecture slide 5
 :::
 
-## Building a reading log
+## Getting started with Quarto
+
+- Quarto is a markdown-variant that allows you to create pdf and html presentations, especially useful if you are trying to integrate source code in your presentation<br><br>
+
+- Uses text-based tags that create a new "slide", lists, add figures and links <br><br>
+
+- Easy to create Quarto presentations in RStudio<br><br>
+
+- **Live Demo:** Creating a basic presentation with RStudio using Quarto markdown syntax
 
 ::: {.notes}
-
-
+- show creating a new presentation from scratch in R studio
+- show Lab4_multimedia.qmd presentation
 :::
 
+## Screen recording 
 
-## Building an annotated bibliography
+- Pragmatic to record your whole screen, allowing you to use any presentation software you like (e.g., Canva, HTML) and have flexibility with your demonstrations<br><br>
 
+- Several tools for recording screen:
+  - Video conferencing tool (e.g., Zoom, MS Teams)
+  - Clipchamp is a Microsoft365 product that supports short recordings (< 10 minutes)
+  - OBS Studio
+  
 ::: {.notes}
-
-
+- show recording a screen with clipchamp
+- show my set up with OBS
 :::
 
+## Sharing Videos
 
-## Learning a reference manager
+- Multimedia presentations can be very large files; hard to distribute through email and Blackboard<br><br>
 
+- Can leverage cloud storage services to **share the link** to a multimedia file that is stored in your cloud
+  - Key is to make sure you set correct permissions so your audience can access your file<br><br>
 
-::: {.notes}
-
-
-:::
-
-## Zotero
+- In this class, I recommend you export your data presentation (MA3) as an *mp4* video files and upload them to your One Drive; share a link to your video presentation in your submission on Blackboard
 
 ::: {.notes}
-
-
+- show uploading a video to OneDrive or changing permissions of link in OneDrive
 :::
 
 # Activity
@@ -134,19 +136,12 @@ document.addEventListener("DOMContentLoaded", function() {
 Activity description is in MS Teams Folder
 :::
 
+
 # Open work time
 
-## Things you might work on
-
-::: {.nonincremental}
-1. Lab Test 1
-1. MA1: Annotated Bibliography
-1. MA4: Article Critique
-1. Start thinking about groups for MA2 and MA3 (if applicable)
-:::
-
 ::: {.notes}
-- Remind students that MA1 and MA4 are independent assignments, but that talking about what you're thinking about with peers is a good thing
-- Remind students that they can also work on their lecture content quizzes if they have one to do
-
+Remind students they can work on:
+1. Lab Tests that are available (there might be two available, depending on the week)
+2. Content quizzes (there will be at least one available)
+3. Major assignments
 :::
