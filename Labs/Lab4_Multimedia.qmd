@@ -28,7 +28,6 @@ execute:
     
 - The future of scientific dissemination?
 
-
 <script>
 document.addEventListener("DOMContentLoaded", function() {
   const button = document.createElement("button");
